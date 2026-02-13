@@ -1,0 +1,1028 @@
+{
+  "arbeidsmigrant": {
+    "boek_omschrijving": "Iemand die verhuist naar een andere woonplaats of een ander land om daar te werken.",
+    "eenvoudige_omschrijving_1": "Iemand die naar een andere plek gaat wonen om daar een baan te hebben.",
+    "eenvoudige_omschrijving_2": "Een werknemer die naar een ander land verhuist om geld te verdienen met werk.",
+    "ezelsbrug": "Arbeidsmigrant: denk aan ‘arbeid’ = werken en ‘migrant’ = verhuizen, dus iemand die verhuist om te werken.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat doet een arbeidsmigrant?",
+        "opties": {
+          "a": "Hij verhuist om in een ander land te gaan werken.",
+          "b": "Hij reist alleen voor vakantie naar andere landen.",
+          "c": "Hij blijft altijd in zijn eigen dorp wonen.",
+          "d": "Hij werkt alleen als vrijwilliger zonder loon."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke combinatie past bij een arbeidsmigrant?",
+        "opties": {
+          "a": "Verhuizen en werken.",
+          "b": "Reizen en winkelen.",
+          "c": "Studeren en sporten.",
+          "d": "Vakantie en sightseeing."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom verhuist een arbeidsmigrant meestal?",
+        "opties": {
+          "a": "Om werk te vinden.",
+          "b": "Om familie te bezoeken.",
+          "c": "Om een toerist te zijn.",
+          "d": "Om een taal te leren zonder te werken."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "asielzoeker": {
+    "boek_omschrijving": "Iemand die asiel (= bescherming) vraagt in een ander land om er te mogen blijven wonen.",
+    "eenvoudige_omschrijving_1": "Iemand die om bescherming vraagt in een ander land en hoopt daar te mogen blijven.",
+    "eenvoudige_omschrijving_2": "Een persoon die naar een ander land gaat omdat hij zich daar veiliger wil voelen.",
+    "ezelsbrug": "Asielzoeker: ‘asiel’ lijkt op ‘schuil’ – iemand die een veilige schuilplaats in een ander land zoekt.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat vraagt een asielzoeker in een ander land?",
+        "opties": {
+          "a": "Bescherming en toestemming om te blijven.",
+          "b": "Meer vakantiedagen.",
+          "c": "Een baan als toeristengids.",
+          "d": "Een hotelkamer voor een week."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom wordt iemand asielzoeker?",
+        "opties": {
+          "a": "Omdat hij bescherming nodig heeft.",
+          "b": "Omdat hij op vakantie wil.",
+          "c": "Omdat hij wil shoppen.",
+          "d": "Omdat hij wil verhuizen voor een hobby."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoopt een asielzoeker meestal?",
+        "opties": {
+          "a": "In het nieuwe land te mogen wonen.",
+          "b": "Snel weer terug te gaan.",
+          "c": "Alleen een weekend te blijven.",
+          "d": "Een wereldreis te maken."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "braindrain": {
+    "boek_omschrijving": "Het vertrek van goedopgeleide jonge mensen naar het buitenland.",
+    "eenvoudige_omschrijving_1": "Als veel slimme, goedopgeleide jongeren naar andere landen verhuizen.",
+    "eenvoudige_omschrijving_2": "Een land verliest kennis omdat hoogopgeleide mensen vertrekken.",
+    "ezelsbrug": "Braindrain: ‘brain’ = hersenen, ‘drain’ = wegstromen; de slimme mensen stromen het land uit.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is braindrain?",
+        "opties": {
+          "a": "Het wegtrekken van goedopgeleide mensen naar andere landen.",
+          "b": "Het leegpompen van meren.",
+          "c": "Het verliezen van koffers op reis.",
+          "d": "Het bouwen van nieuwe scholen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Bij braindrain vertrekken vooral:",
+        "opties": {
+          "a": "Hoogopgeleide jongeren.",
+          "b": "Toeristen.",
+          "c": "Boeren zonder opleiding.",
+          "d": "Alleen kinderen onder de tien jaar."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat is een gevolg van braindrain?",
+        "opties": {
+          "a": "Een land verliest veel kennis.",
+          "b": "Er komen meer stranden bij.",
+          "c": "Er vallen meer regenbuien.",
+          "d": "Er zijn meer vakantiedorpen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "cultuur": {
+    "boek_omschrijving": "Gaat over wat mensen belangrijk vinden en de gewoonten en gebruiken die daarbij horen. Mensen met dezelfde cultuur voelen zich met elkaar verbonden.",
+    "eenvoudige_omschrijving_1": "Alles wat mensen gewend zijn te doen, geloven en vieren in een groep.",
+    "eenvoudige_omschrijving_2": "De manier waarop een groep mensen leeft, met hun feestdagen, taal en regels.",
+    "ezelsbrug": "Cultuur: denk aan ‘cultuurdag’ op school met eten, muziek en kleding van verschillende groepen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat hoort bij cultuur?",
+        "opties": {
+          "a": "Gewoonten, gebruiken en wat mensen belangrijk vinden.",
+          "b": "Alleen het weer in een land.",
+          "c": "Alleen de hoogte van bergen.",
+          "d": "Alleen de lengte van rivieren."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Mensen met dezelfde cultuur voelen zich vaak:",
+        "opties": {
+          "a": "Met elkaar verbonden.",
+          "b": "Altijd vijanden.",
+          "c": "Nooit met elkaar verbonden.",
+          "d": "Niet in een groep thuis."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke is een voorbeeld van cultuur?",
+        "opties": {
+          "a": "Hoe en wanneer je feestdagen viert.",
+          "b": "De dikte van de muren.",
+          "c": "De kleur van de stoeptegels.",
+          "d": "De hoeveelheid regen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "migratie": {
+    "boek_omschrijving": "Verhuizen naar een andere woonplaats.",
+    "eenvoudige_omschrijving_1": "Als mensen van de ene plaats naar de andere verhuizen.",
+    "eenvoudige_omschrijving_2": "Het veranderen van je vaste woonplek naar een andere plek.",
+    "ezelsbrug": "Migratie: denk aan ‘migrerende vogels’ die naar een andere plek vliegen, net als mensen die verhuizen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat betekent migratie?",
+        "opties": {
+          "a": "Verhuizen naar een andere woonplaats.",
+          "b": "Vakantie houden op het strand.",
+          "c": "Een toets maken op school.",
+          "d": "Boodschappen doen in de buurt."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke situatie is een voorbeeld van migratie?",
+        "opties": {
+          "a": "Een gezin verhuist naar een andere stad.",
+          "b": "Iemand gaat één dag naar een pretpark.",
+          "c": "Iemand gaat naar de supermarkt.",
+          "d": "Een leerling gaat naar gymles."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort bij migratie?",
+        "opties": {
+          "a": "Een nieuwe vaste woonplaats krijgen.",
+          "b": "Alleen een dagje uit gaan.",
+          "c": "Een uur wandelen en terugkeren.",
+          "d": "Een film kijken thuis."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "discriminatie": {
+    "boek_omschrijving": "Het achterstellen van mensen, omdat ze bijvoorbeeld een andere godsdienst, huidskleur of gewoonten hebben.",
+    "eenvoudige_omschrijving_1": "Iemand slechter behandelen omdat hij anders is.",
+    "eenvoudige_omschrijving_2": "Onfair zijn tegen mensen vanwege hun afkomst, geloof of uiterlijk.",
+    "ezelsbrug": "Discriminatie: ‘dis’ = fout en ‘criminatie’ doet denken aan ‘crimineel’; het is fout gedrag tegenover anderen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is discriminatie?",
+        "opties": {
+          "a": "Mensen achterstellen omdat ze anders zijn.",
+          "b": "Iedereen gelijk behandelen.",
+          "c": "Een feest vieren met vrienden.",
+          "d": "Samen sporten in een team."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welk voorbeeld hoort bij discriminatie?",
+        "opties": {
+          "a": "Iemand niet aannemen om zijn huidskleur.",
+          "b": "Iemand helpen met huiswerk.",
+          "c": "Samen spelen op het schoolplein.",
+          "d": "Iemand feliciteren met zijn verjaardag."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom is discriminatie verkeerd?",
+        "opties": {
+          "a": "Omdat iedereen gelijkwaardig is.",
+          "b": "Omdat het altijd grappig is.",
+          "c": "Omdat het verplicht is.",
+          "d": "Omdat niemand gevoelens heeft."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "gastarbeider": {
+    "boek_omschrijving": "Iemand die (tijdelijk) in een ander land gaat wonen om er te werken.",
+    "eenvoudige_omschrijving_1": "Een werknemer die een tijd in een ander land woont om daar werk te doen.",
+    "eenvoudige_omschrijving_2": "Iemand die als ‘gast’ in een vreemd land komt werken.",
+    "ezelsbrug": "Gastarbeider: ‘gast’ in een land en ‘arbeider’ die werkt; een werkende gast uit het buitenland.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een gastarbeider?",
+        "opties": {
+          "a": "Iemand die tijdelijk in een ander land werkt.",
+          "b": "Iemand die alleen op vakantie gaat.",
+          "c": "Iemand die altijd zonder werk reist.",
+          "d": "Iemand die nooit buiten zijn dorp komt."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat doet een gastarbeider meestal?",
+        "opties": {
+          "a": "In een ander land wonen om te werken.",
+          "b": "Alleen foto’s maken als toerist.",
+          "c": "Alleen familie bezoeken.",
+          "d": "Alleen sporten in het buitenland."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat betekent het woorddeel ‘gast’ in gastarbeider?",
+        "opties": {
+          "a": "Dat iemand te gast is in een ander land.",
+          "b": "Dat iemand gratis eet.",
+          "c": "Dat iemand altijd thuis blijft.",
+          "d": "Dat iemand in hotels werkt."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "gesloten grens": {
+    "boek_omschrijving": "Grens die moeilijk over te steken is en die zichtbaar is. Heet ook harde grens.",
+    "eenvoudige_omschrijving_1": "Een grens met hekken, muren of controles waar je niet makkelijk langs komt.",
+    "eenvoudige_omschrijving_2": "Een goed bewaakte scheiding tussen landen waar je niet zomaar doorheen mag.",
+    "ezelsbrug": "Gesloten grens: denk aan een dichte deur; je kunt er niet zomaar doorheen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een gesloten grens?",
+        "opties": {
+          "a": "Een grens die moeilijk over te steken is.",
+          "b": "Een grens waar je altijd vrij langs loopt.",
+          "c": "Een onzichtbare lijn zonder regels.",
+          "d": "Een grens op een schoolplein."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Hoe herken je vaak een gesloten grens?",
+        "opties": {
+          "a": "Aan hekken, muren of strenge controles.",
+          "b": "Aan picknicktafels.",
+          "c": "Aan speeltuinen.",
+          "d": "Aan bloemenvelden."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Hoe wordt een gesloten grens ook genoemd?",
+        "opties": {
+          "a": "Harde grens.",
+          "b": "Zachte grens.",
+          "c": "Watergrens.",
+          "d": "Luchtgrens."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "gezinshereniging": {
+    "boek_omschrijving": "Het laten overkomen van het gezin van de migrant naar het nieuwe land waar hij woont om er samen te leven.",
+    "eenvoudige_omschrijving_1": "Als familieleden van een migrant naar hetzelfde land komen om weer samen te wonen.",
+    "eenvoudige_omschrijving_2": "Het herenigen van een gezin dat door migratie uit elkaar is geraakt.",
+    "ezelsbrug": "Gezinshereniging: ‘gezin’ + ‘hereniging’ = het gezin komt weer bijeen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is gezinshereniging?",
+        "opties": {
+          "a": "Het laten overkomen van je gezin naar het land waar je woont.",
+          "b": "Het organiseren van een schoolfeest.",
+          "c": "Het spelen van een teamsport.",
+          "d": "Het kopen van een nieuw huis in dezelfde straat."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wie komen er bij gezinshereniging naar het nieuwe land?",
+        "opties": {
+          "a": "Familieleden van de migrant.",
+          "b": "Toeristen.",
+          "c": "Onbekende buren.",
+          "d": "Alleen collega’s van het werk."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom is gezinshereniging belangrijk?",
+        "opties": {
+          "a": "Omdat het gezin dan weer samen kan leven.",
+          "b": "Omdat er dan meer toeristen zijn.",
+          "c": "Omdat er meer winkels komen.",
+          "d": "Omdat het weer dan beter wordt."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "grens": {
+    "boek_omschrijving": "Scheidingslijn.",
+    "eenvoudige_omschrijving_1": "De lijn die een gebied of land van een ander scheidt.",
+    "eenvoudige_omschrijving_2": "Een denkbeeldige of zichtbare lijn waar een land ophoudt en een ander begint.",
+    "ezelsbrug": "Grens: denk aan een lijn op de kaart die landen uit elkaar houdt.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een grens?",
+        "opties": {
+          "a": "Een scheidingslijn tussen gebieden of landen.",
+          "b": "Een rivier door een stad.",
+          "c": "Een winkelstraat.",
+          "d": "Een voetbalveld."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waar zie je grenzen duidelijk terug?",
+        "opties": {
+          "a": "Op kaarten.",
+          "b": "In schoolboeken met sommen.",
+          "c": "Op een boodschappenlijst.",
+          "d": "In een kookboek."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat geeft een grens aan?",
+        "opties": {
+          "a": "Waar een land eindigt en een ander begint.",
+          "b": "Waar de zee stopt met golven.",
+          "c": "Waar een schoolplein begint.",
+          "d": "Waar een park zijn bomen heeft."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "harde grens": {
+    "boek_omschrijving": "Grens die moeilijk over te steken is en die zichtbaar is. Heet ook gesloten grens.",
+    "eenvoudige_omschrijving_1": "Een duidelijke, strenge grens met controles waar je niet gemakkelijk langs kan.",
+    "eenvoudige_omschrijving_2": "Een zichtbare scheiding tussen landen, vaak met hekken of muren.",
+    "ezelsbrug": "Harde grens: denk aan een ‘harde muur’ waar je niet zomaar doorheen kunt.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een harde grens?",
+        "opties": {
+          "a": "Een zichtbare grens die moeilijk over te steken is.",
+          "b": "Een grens zonder regels.",
+          "c": "Een grens op een speelveld.",
+          "d": "Een denkbeeldige lijn zonder betekenis."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Hoe wordt een harde grens ook genoemd?",
+        "opties": {
+          "a": "Gesloten grens.",
+          "b": "Zachte grens.",
+          "c": "Open grens.",
+          "d": "Natuurlijke grens."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort vaak bij een harde grens?",
+        "opties": {
+          "a": "Strenge bewaking en hekken.",
+          "b": "Picknickbanken.",
+          "c": "Speeltoestellen.",
+          "d": "Bloemperken."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "illegaal": {
+    "boek_omschrijving": "Als je zonder geldige papieren in een ander land verblijft.",
+    "eenvoudige_omschrijving_1": "In een land zijn zonder de juiste documenten of toestemming.",
+    "eenvoudige_omschrijving_2": "Verblijven in een land op een manier die niet is toegestaan door de regels.",
+    "ezelsbrug": "Illegaal: ‘il-’ betekent niet en ‘legaal’ betekent volgens de wet; dus niet volgens de wet.",
+    "mc_vragen": [
+      {
+        "vraag": "Wanneer ben je illegaal in een land?",
+        "opties": {
+          "a": "Als je zonder geldige papieren in dat land verblijft.",
+          "b": "Als je een museum bezoekt.",
+          "c": "Als je een kaartje koopt voor de bus.",
+          "d": "Als je er op vakantie bent met paspoort."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat betekent illegaal?",
+        "opties": {
+          "a": "Niet volgens de wet.",
+          "b": "Altijd toegestaan.",
+          "c": "Extra veilig.",
+          "d": "Geregistreerd door de overheid."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke situatie is illegaal?",
+        "opties": {
+          "a": "Wonen in een land zonder papieren.",
+          "b": "Wonen met een geldig visum.",
+          "c": "Een treinreis maken met kaartje.",
+          "d": "Naar school gaan met inschrijving."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "integratie": {
+    "boek_omschrijving": "Wanneer een migrant actief meedoet aan de nieuwe samenleving en deze heeft leren begrijpen.",
+    "eenvoudige_omschrijving_1": "Als iemand die verhuisd is de taal en regels leert en echt meedoet in het nieuwe land.",
+    "eenvoudige_omschrijving_2": "Meedoen in de samenleving van het land waar je naartoe bent verhuisd.",
+    "ezelsbrug": "Integratie: denk aan ‘in de groep’ komen en echt meedoen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is integratie?",
+        "opties": {
+          "a": "Actief meedoen in de nieuwe samenleving.",
+          "b": "Alleen thuis blijven in een nieuw land.",
+          "c": "Nooit de taal willen leren.",
+          "d": "Alleen met mensen uit je eigen land omgaan."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort bij integratie?",
+        "opties": {
+          "a": "De taal leren en mensen ontmoeten.",
+          "b": "Altijd weigeren naar school te gaan.",
+          "c": "Alle regels negeren.",
+          "d": "Je helemaal afsluiten van anderen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wie moet integreren?",
+        "opties": {
+          "a": "Mensen die naar een nieuw land zijn verhuisd.",
+          "b": "Mensen die op vakantie zijn.",
+          "c": "Mensen die in hun eigen dorp blijven.",
+          "d": "Mensen die een dagje uit gaan."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "kennismigrant": {
+    "boek_omschrijving": "Hoogopgeleide migrant die naar een ander land gaat om daar te werken.",
+    "eenvoudige_omschrijving_1": "Iemand met veel kennis en een hoge opleiding die naar een ander land verhuist voor werk.",
+    "eenvoudige_omschrijving_2": "Een specialist of expert die in een ander land gaat werken.",
+    "ezelsbrug": "Kennismigrant: ‘kennis’ = weten, ‘migrant’ = verhuizen; iemand met veel kennis die verhuist voor werk.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een kennismigrant?",
+        "opties": {
+          "a": "Een hoogopgeleide migrant die voor werk verhuist.",
+          "b": "Een toerist met een camera.",
+          "c": "Een kind dat naar school gaat.",
+          "d": "Een vrijwilliger zonder opleiding."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat heeft een kennismigrant meestal?",
+        "opties": {
+          "a": "Een hoge opleiding.",
+          "b": "Geen opleiding.",
+          "c": "Alleen basisschool.",
+          "d": "Geen interesse in werk."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom komt een kennismigrant naar een land?",
+        "opties": {
+          "a": "Om met zijn kennis te werken.",
+          "b": "Om alleen vakantie te vieren.",
+          "c": "Om familie te bezoeken.",
+          "d": "Om niets te doen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "vluchteling": {
+    "boek_omschrijving": "Iemand die vanwege oorlog, of vanwege zijn godsdienst, culturele achtergrond, seksuele geaardheid of meningsuiting vertrekt uit zijn regio of land.",
+    "eenvoudige_omschrijving_1": "Iemand die weggaat uit zijn land omdat het daar niet veilig is.",
+    "eenvoudige_omschrijving_2": "Een persoon die moet vluchten voor gevaar, zoals oorlog of vervolging.",
+    "ezelsbrug": "Vluchteling: denk aan ‘vluchten’ voor gevaar; iemand die veiligheid zoekt in een ander gebied.",
+    "mc_vragen": [
+      {
+        "vraag": "Wanneer ben je een vluchteling?",
+        "opties": {
+          "a": "Als je vertrekt door oorlog of gevaar.",
+          "b": "Als je op vakantie gaat.",
+          "c": "Als je een schoolreis maakt.",
+          "d": "Als je verhuist voor een hobby."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat kan een reden zijn om vluchteling te worden?",
+        "opties": {
+          "a": "Oorlog in je land.",
+          "b": "Een sportwedstrijd.",
+          "c": "Een schoolfeest.",
+          "d": "Een regenachtige dag."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat zoekt een vluchteling meestal?",
+        "opties": {
+          "a": "Veiligheid.",
+          "b": "Goedkopere winkels.",
+          "c": "Leukere sportclubs.",
+          "d": "Een nieuw huisdier."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "kolonie": {
+    "boek_omschrijving": "Een gebied in bezit van een ander (meestal Europees) land.",
+    "eenvoudige_omschrijving_1": "Een land of gebied dat bestuurd wordt door een ander land.",
+    "eenvoudige_omschrijving_2": "Een stuk land ver weg dat onder de macht van een ander land valt.",
+    "ezelsbrug": "Kolonie: denk aan ‘kolonisten’ die in een gebied gaan wonen dat bij een ander land hoort.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een kolonie?",
+        "opties": {
+          "a": "Een gebied dat in bezit is van een ander land.",
+          "b": "Een klein dorp in een land.",
+          "c": "Een stad met een station.",
+          "d": "Een eiland met toeristen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wie heeft vaak kolonies gehad?",
+        "opties": {
+          "a": "Europese landen.",
+          "b": "Alleen eilandbewoners.",
+          "c": "Alleen sportclubs.",
+          "d": "Alleen scholen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat klopt bij een kolonie?",
+        "opties": {
+          "a": "Het wordt bestuurd door een ander land.",
+          "b": "Het is altijd zelfstandig.",
+          "c": "Het heeft geen bevolking.",
+          "d": "Het is alleen een natuurgebied."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "mensenrechten": {
+    "boek_omschrijving": "Rechten die de waardigheid van ieder mens beschermen. Je hebt mensenrechten omdat je mens bent: welk geslacht, etnische afkomst, godsdienst of politieke overtuiging je ook hebt. Ze gelden altijd en overal, voor iedereen. Mensenrechten hebben een speciale plaats in het recht. Ze zijn vastgelegd in de Nederlandse Grondwet en er zijn internationale afspraken gemaakt (via de Verenigde Naties).",
+    "eenvoudige_omschrijving_1": "Belangrijke rechten die ieder mens heeft, zoals recht op leven en vrijheid.",
+    "eenvoudige_omschrijving_2": "Regels die zeggen dat iedereen eerlijk en met respect moet worden behandeld.",
+    "ezelsbrug": "Mensenrechten: denk aan ‘rechten van de mens’ die overal en altijd gelden.",
+    "mc_vragen": [
+      {
+        "vraag": "Voor wie gelden mensenrechten?",
+        "opties": {
+          "a": "Voor alle mensen, altijd en overal.",
+          "b": "Alleen voor rijkere mensen.",
+          "c": "Alleen voor mensen in Europa.",
+          "d": "Alleen voor volwassenen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarvoor zijn mensenrechten bedoeld?",
+        "opties": {
+          "a": "Om de waardigheid van mensen te beschermen.",
+          "b": "Om files op te lossen.",
+          "c": "Om sportwedstrijden te regelen.",
+          "d": "Om feestdagen vast te leggen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waar zijn mensenrechten onder andere vastgelegd?",
+        "opties": {
+          "a": "In de Grondwet en internationale afspraken.",
+          "b": "In kookboeken.",
+          "c": "In treinroosters.",
+          "d": "In sportgidsen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "migratieachtergrond": {
+    "boek_omschrijving": "Als iemand in het buitenland is geboren of als één of beide ouders in het buitenland is geboren.",
+    "eenvoudige_omschrijving_1": "Je hebt een band met een ander land omdat jij of je ouders daar vandaan komen.",
+    "eenvoudige_omschrijving_2": "Je familiegeschiedenis ligt (deels) in een ander land.",
+    "ezelsbrug": "Migratieachtergrond: ‘migratie’ = verhuizen, ‘achtergrond’ = waar je (ouders) vandaan komen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wanneer heeft iemand een migratieachtergrond?",
+        "opties": {
+          "a": "Als hijzelf of zijn ouders in het buitenland zijn geboren.",
+          "b": "Als hij veel reist voor vakantie.",
+          "c": "Als hij graag aardrijkskunde leuk vindt.",
+          "d": "Als hij in een dorp woont."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat zegt migratieachtergrond iets over?",
+        "opties": {
+          "a": "De herkomst van iemand of zijn ouders.",
+          "b": "De sportclub van iemand.",
+          "c": "De lievelingskleur van iemand.",
+          "d": "De lengte van iemand."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat kan kloppen bij een migratieachtergrond?",
+        "opties": {
+          "a": "Een ouder is in een ander land geboren.",
+          "b": "Alle familie komt uit hetzelfde dorp.",
+          "c": "Niemand is ooit verhuisd.",
+          "d": "Er is geen contact met de wereld."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "multiculturele samenleving": {
+    "boek_omschrijving": "Wanneer mensen uit verschillende culturen met elkaar samenleven.",
+    "eenvoudige_omschrijving_1": "Een land of stad waar mensen met allerlei achtergronden samen wonen.",
+    "eenvoudige_omschrijving_2": "Samenleving waarin meerdere culturen naast en met elkaar bestaan.",
+    "ezelsbrug": "Multicultureel: ‘multi’ = veel, ‘cultureel’ = culturen; veel culturen in één samenleving.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een multiculturele samenleving?",
+        "opties": {
+          "a": "Een samenleving met mensen uit verschillende culturen.",
+          "b": "Een dorp met maar één familie.",
+          "c": "Een plek zonder inwoners.",
+          "d": "Een samenleving met alleen toeristen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat zie je in een multiculturele samenleving?",
+        "opties": {
+          "a": "Verschillende talen, feesten en gewoonten.",
+          "b": "Overal dezelfde taal en feestdag.",
+          "c": "Geen verschillen tussen mensen.",
+          "d": "Alleen lege straten."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke term past het best bij multicultureel?",
+        "opties": {
+          "a": "Veel verschillende culturen.",
+          "b": "Slechts één cultuur.",
+          "c": "Geen enkele cultuur.",
+          "d": "Alleen natuurgebieden."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "natuurlijke bevolkingsgroei": {
+    "boek_omschrijving": "Het verschil tussen het geboortecijfer en het sterftecijfer. Wanneer er meer kinderen geboren worden dan dat er mensen sterven, is de natuurlijke bevolkingsgroei positief.",
+    "eenvoudige_omschrijving_1": "De verandering van het aantal mensen door geboorten en sterfgevallen.",
+    "eenvoudige_omschrijving_2": "Als je kijkt of er meer mensen bij komen door geboorte dan er wegvallen door overlijden.",
+    "ezelsbrug": "Natuurlijke bevolkingsgroei: denk aan ‘geboren min gestorven’ = groei of krimp.",
+    "mc_vragen": [
+      {
+        "vraag": "Waaruit bestaat natuurlijke bevolkingsgroei?",
+        "opties": {
+          "a": "Uit geboorten en sterfgevallen.",
+          "b": "Uit verhuizingen.",
+          "c": "Uit vakanties.",
+          "d": "Uit sportwedstrijden."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wanneer is natuurlijke bevolkingsgroei positief?",
+        "opties": {
+          "a": "Als er meer geboorten dan sterfgevallen zijn.",
+          "b": "Als er evenveel geboorten als sterfgevallen zijn.",
+          "c": "Als er geen geboorten zijn.",
+          "d": "Als er alleen sterfgevallen zijn."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat gebeurt er bij negatieve natuurlijke bevolkingsgroei?",
+        "opties": {
+          "a": "Er sterven meer mensen dan er geboren worden.",
+          "b": "Er worden meer mensen geboren dan er sterven.",
+          "c": "Niemand sterft.",
+          "d": "Niemand wordt geboren."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "ontheemde": {
+    "boek_omschrijving": "Iemand die op de vlucht is binnen zijn eigen land.",
+    "eenvoudige_omschrijving_1": "Een persoon die zijn huis moet verlaten, maar in hetzelfde land blijft.",
+    "eenvoudige_omschrijving_2": "Iemand op de vlucht in eigen land, bijvoorbeeld door oorlog of ramp.",
+    "ezelsbrug": "Ontheemde: ‘ont’-heemd; niet meer thuis in zijn eigen land.",
+    "mc_vragen": [
+      {
+        "vraag": "Wie is een ontheemde?",
+        "opties": {
+          "a": "Iemand die moet vluchten binnen zijn eigen land.",
+          "b": "Iemand die voor vakantie naar het buitenland gaat.",
+          "c": "Iemand die nooit verhuist.",
+          "d": "Iemand die alleen in een ander werelddeel woont."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat klopt bij een ontheemde?",
+        "opties": {
+          "a": "Hij heeft zijn huis verlaten maar is in hetzelfde land.",
+          "b": "Hij blijft altijd in hetzelfde huis.",
+          "c": "Hij vliegt naar een ander continent.",
+          "d": "Hij verhuist voor een snelle vakantie."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat kan een oorzaak zijn van ontheemding?",
+        "opties": {
+          "a": "Oorlog of een ramp.",
+          "b": "Een schoolreisje.",
+          "c": "Een sportdag.",
+          "d": "Een concert."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "open grens": {
+    "boek_omschrijving": "Grens die makkelijk te passeren is. Heet ook zachte grens.",
+    "eenvoudige_omschrijving_1": "Een grens waar je zonder veel controles of hindernissen langs kunt.",
+    "eenvoudige_omschrijving_2": "Een scheiding tussen landen die je eenvoudig kunt oversteken.",
+    "ezelsbrug": "Open grens: denk aan een open deur waar je zo doorheen loopt.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een open grens?",
+        "opties": {
+          "a": "Een grens die makkelijk te passeren is.",
+          "b": "Een grens met muren en hekken.",
+          "c": "Een grens die niemand mag zien.",
+          "d": "Een grens in een schoolboek."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Hoe wordt een open grens ook genoemd?",
+        "opties": {
+          "a": "Zachte grens.",
+          "b": "Harde grens.",
+          "c": "Gesloten grens.",
+          "d": "Watergrens."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort bij een open grens?",
+        "opties": {
+          "a": "Weinig controles en makkelijk oversteken.",
+          "b": "Altijd lange wachtrijen en hoge muren.",
+          "c": "Geen mensen die erlangs gaan.",
+          "d": "Geen mogelijkheden om erdoor te gaan."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "segregatie": {
+    "boek_omschrijving": "Het apart wonen of leven van bevolkingsgroepen met bepaalde kenmerken in bepaalde wijken.",
+    "eenvoudige_omschrijving_1": "Als groepen mensen gescheiden van elkaar wonen.",
+    "eenvoudige_omschrijving_2": "Situatie waarin verschillende bevolkingsgroepen niet mengen maar apart leven.",
+    "ezelsbrug": "Segregatie: denk aan ‘scheiden’; groepen worden van elkaar gescheiden.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is segregatie?",
+        "opties": {
+          "a": "Het apart wonen van verschillende bevolkingsgroepen.",
+          "b": "Het samenwonen van alle groepen door elkaar.",
+          "c": "Het bouwen van nieuwe parken.",
+          "d": "Het organiseren van een buurtfeest."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waar zie je segregatie vaak terug?",
+        "opties": {
+          "a": "In wijken waar groepen apart wonen.",
+          "b": "Alleen in natuurgebieden.",
+          "c": "Op zee.",
+          "d": "In lege woestijnen zonder mensen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat is een gevolg van segregatie?",
+        "opties": {
+          "a": "Mensen uit verschillende groepen ontmoeten elkaar minder.",
+          "b": "Iedereen leert elkaar beter kennen.",
+          "c": "Er zijn meer gezamenlijke activiteiten.",
+          "d": "Er is nooit afstand tussen groepen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "vertrekreden": {
+    "boek_omschrijving": "Een reden waarom iemand uit een plaats of gebied verhuist.",
+    "eenvoudige_omschrijving_1": "De reden waarom iemand weggaat uit een plek.",
+    "eenvoudige_omschrijving_2": "Waarom iemand besluit zijn woonplaats te verlaten.",
+    "ezelsbrug": "Vertrekreden: ‘vertrek’ = weggaan, ‘reden’ = waarom; waarom iemand weggaat.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een vertrekreden?",
+        "opties": {
+          "a": "De reden om een plek te verlaten.",
+          "b": "De reden om een feest te organiseren.",
+          "c": "De reden om te sporten.",
+          "d": "De reden om te slapen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke is een voorbeeld van een vertrekreden?",
+        "opties": {
+          "a": "Geen werk kunnen vinden in je woonplaats.",
+          "b": "Een leuke film in de bioscoop.",
+          "c": "Een verjaardagscadeau.",
+          "d": "Een nieuwe game kopen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Bij welke gebeurtenis past het woord vertrekreden?",
+        "opties": {
+          "a": "Bij verhuizen naar een andere stad.",
+          "b": "Bij het kopen van nieuwe schoenen.",
+          "c": "Bij het kijken van televisie.",
+          "d": "Bij het eten van ontbijt."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "vestigingsreden": {
+    "boek_omschrijving": "Een reden waarom iemand naar een plaats toe verhuist.",
+    "eenvoudige_omschrijving_1": "De reden waarom iemand kiest om juist naar een bepaalde plek te verhuizen.",
+    "eenvoudige_omschrijving_2": "Waarom iemand zich ergens nieuw wil vestigen.",
+    "ezelsbrug": "Vestigingsreden: ‘vestigen’ = ergens gaan wonen; de reden om daar te gaan wonen.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een vestigingsreden?",
+        "opties": {
+          "a": "Een reden om naar een plaats toe te verhuizen.",
+          "b": "Een reden om op vakantie te gaan.",
+          "c": "Een reden om te sporten.",
+          "d": "Een reden om te gaan slapen."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke is een voorbeeld van een vestigingsreden?",
+        "opties": {
+          "a": "Er is veel werk in die stad.",
+          "b": "Er ligt sneeuw op de berg.",
+          "c": "Er is een leuke film op tv.",
+          "d": "Er is een nieuwe snack in de winkel."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort bij een vestigingsreden?",
+        "opties": {
+          "a": "Waarom iemand ergens nieuw gaat wonen.",
+          "b": "Waarom iemand een boek leest.",
+          "c": "Waarom iemand sport kijkt.",
+          "d": "Waarom iemand muziek luistert."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "voorziening": {
+    "boek_omschrijving": "Een bedrijf of instelling waar je naartoe gaat om een product of dienst te halen, die je nodig hebt om prettig te kunnen leven.",
+    "eenvoudige_omschrijving_1": "Iets zoals een winkel, school of ziekenhuis waar mensen diensten of spullen krijgen.",
+    "eenvoudige_omschrijving_2": "Plaatsen die helpen om fijn te kunnen leven, zoals een bibliotheek of dokter.",
+    "ezelsbrug": "Voorziening: denk aan ‘ervoor zorgen’ dat mensen hebben wat ze nodig hebben.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een voorziening?",
+        "opties": {
+          "a": "Een plek waar je een dienst of product krijgt die je nodig hebt.",
+          "b": "Een lege open vlakte zonder mensen.",
+          "c": "Een berg zonder paden.",
+          "d": "Een onbewoond eiland."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Welke is een voorbeeld van een voorziening?",
+        "opties": {
+          "a": "Een ziekenhuis.",
+          "b": "Een verlaten rots.",
+          "c": "Een lege zandvlakte.",
+          "d": "Een gesloten grot."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Waarom zijn voorzieningen belangrijk?",
+        "opties": {
+          "a": "Ze helpen mensen prettig te leven.",
+          "b": "Ze zorgen voor meer regen.",
+          "c": "Ze maken bergen hoger.",
+          "d": "Ze laten rivieren sneller stromen."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  },
+  "zachte grens": {
+    "boek_omschrijving": "Grens die makkelijk te passeren is. Heet ook open grens.",
+    "eenvoudige_omschrijving_1": "Een grens waar je eenvoudig langs kunt zonder veel controle.",
+    "eenvoudige_omschrijving_2": "Een niet-strenge grens die makkelijk over te steken is.",
+    "ezelsbrug": "Zachte grens: niet ‘hard’ en streng, maar zacht en makkelijk om over te gaan.",
+    "mc_vragen": [
+      {
+        "vraag": "Wat is een zachte grens?",
+        "opties": {
+          "a": "Een grens die makkelijk te passeren is.",
+          "b": "Een grens met hoge muren en hekken.",
+          "c": "Een grens waar niemand doorheen mag.",
+          "d": "Een grens in een computerspel."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Hoe wordt een zachte grens ook genoemd?",
+        "opties": {
+          "a": "Open grens.",
+          "b": "Harde grens.",
+          "c": "Gesloten grens.",
+          "d": "Watergrens."
+        },
+        "juiste_antwoord": "a"
+      },
+      {
+        "vraag": "Wat hoort bij een zachte grens?",
+        "opties": {
+          "a": "Weinig controles en gemakkelijk oversteken.",
+          "b": "Altijd strenge controles en muren.",
+          "c": "Geen doorgang mogelijk.",
+          "d": "Alleen toegang met speciale vergunning."
+        },
+        "juiste_antwoord": "a"
+      }
+    ]
+  }
+}
