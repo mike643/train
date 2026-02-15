@@ -1,0 +1,28 @@
+/* App component specific styles to improve readability */
+.app {
+	padding: 1rem;
+	width: 100%;
+}
+
+.start, .begrip, .content {
+	padding: 1rem 0;
+}
+
+.begrip h1 {
+	font-size: 1.8rem;
+}
+
+.begrip .definition {
+	font-size: 1.4rem;
+}
+
+.controls {
+	margin-top: 1rem;
+	display: flex;
+	gap: 0.75rem;
+	flex-wrap: wrap;
+}
+
+.large-text {
+	font-size: 1.25rem;
+}

@@ -16,7 +16,7 @@ export class BegrippenService {
 
   private async ensureLoaded() {
     if (this.data) return;
-    const url = '/content/ak/h4/begrippen.json';
+    const url = 'content/ak/h4/begrippen.json';
     this.data = await firstValueFrom(this.http.get<Record<string, any>>(url));
     this.keys = Object.keys(this.data || {});
   }

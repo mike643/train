@@ -1,1 +1,67 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+:root {
+	--font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+	--base-font-size: 18px;
+	--line-height: 1.6;
+	--max-content-width: 900px;
+	--heading-weight: 600;
+	--body-weight: 400;
+	--color-text: #1b1b1f;
+}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	font-family: var(--font-family);
+	font-size: var(--base-font-size);
+	line-height: var(--line-height);
+	color: var(--color-text);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	padding: 1rem;
+	margin: 0;
+	background: #ffffff;
+	display: flex;
+	justify-content: center;
+}
+
+main, .app-root, app-root, #app {
+	width: 100%;
+	max-width: var(--max-content-width);
+}
+
+h1, h2, h3, h4 {
+	font-weight: var(--heading-weight);
+	margin-top: 0.8rem;
+	margin-bottom: 0.4rem;
+	line-height: 1.2;
+	color: var(--color-text);
+}
+
+p, li, a, span, label, button {
+	font-weight: var(--body-weight);
+	font-size: 1rem;
+}
+
+button, .btn {
+	font-size: 1rem;
+	padding: 0.6rem 0.9rem;
+	border-radius: 8px;
+}
+
+.begrip-text {
+	font-size: 1.4rem; /* grotere tekst voor begripscontent */
+	line-height: 1.5;
+	margin: 1rem 0;
+}
+
+/* Kleine bereikbaarheidsverbeteringen */
+a:focus, button:focus {
+	outline: 3px solid rgba(33, 150, 243, 0.25);
+	outline-offset: 2px;
+}
