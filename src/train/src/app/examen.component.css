@@ -1,0 +1,237 @@
+.examen-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.examen-header {
+  text-align: center;
+  margin-bottom: 30px;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 20px;
+}
+
+.examen-header h1 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 28px;
+}
+
+.progress {
+  margin: 10px 0 0 0;
+  color: #7f8c8d;
+  font-size: 14px;
+}
+
+.vraag-section {
+  background-color: white;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border-left: 5px solid #3498db;
+}
+
+.vraag-title {
+  margin: 0 0 10px 0;
+  color: #2c3e50;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.vraag-category {
+  margin: 5px 0 0 0;
+  color: #7f8c8d;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.options-section {
+  margin-bottom: 20px;
+}
+
+.option-item {
+  background-color: white;
+  border: 2px solid #ecf0f1;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+}
+
+.option-item:hover {
+  border-color: #3498db;
+  background-color: #ecf8ff;
+}
+
+.option-item.selected {
+  border-color: #3498db;
+  background-color: #e8f4f8;
+}
+
+.option-item.correct {
+  border-color: #27ae60;
+  background-color: #d5f4e6;
+}
+
+.option-item.incorrect {
+  border-color: #e74c3c;
+  background-color: #fadbd8;
+}
+
+.option-item input[type="radio"] {
+  margin-right: 12px;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+}
+
+.option-item label {
+  cursor: pointer;
+  margin: 0;
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.option-label {
+  font-weight: bold;
+  color: #3498db;
+  margin-right: 8px;
+  min-width: 20px;
+}
+
+.option-item input[type="radio"]:disabled {
+  cursor: not-allowed;
+}
+
+.feedback-section {
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border-left: 5px solid #3498db;
+}
+
+.feedback-section.correct {
+  background-color: #d5f4e6;
+  border-left-color: #27ae60;
+}
+
+.feedback-section.incorrect {
+  background-color: #fadbd8;
+  border-left-color: #e74c3c;
+}
+
+.feedback-correct h3 {
+  margin: 0 0 10px 0;
+  color: #27ae60;
+  font-size: 18px;
+}
+
+.feedback-incorrect h3 {
+  margin: 0 0 10px 0;
+  color: #e74c3c;
+  font-size: 18px;
+}
+
+.feedback-text,
+.feedback-selected,
+.feedback-correct-answer {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #2c3e50;
+}
+
+.feedback-reference {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 13px;
+  color: #7f8c8d;
+}
+
+.button-section {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.submit-button {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.submit-button:hover:not(:disabled) {
+  background-color: #2980b9;
+  box-shadow: 0 2px 6px rgba(52, 152, 219, 0.3);
+}
+
+.submit-button:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.navigation-section {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.nav-button {
+  flex: 1;
+  padding: 12px 20px;
+  font-size: 14px;
+  border: 2px solid #3498db;
+  background-color: white;
+  color: #3498db;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+.nav-button:hover:not(:disabled) {
+  background-color: #3498db;
+  color: white;
+}
+
+.nav-button:disabled {
+  border-color: #bdc3c7;
+  color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #7f8c8d;
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  .examen-container {
+    padding: 15px;
+  }
+
+  .vraag-title {
+    font-size: 18px;
+  }
+
+  .navigation-section {
+    flex-direction: column;
+  }
+
+  .nav-button {
+    width: 100%;
+  }
+}

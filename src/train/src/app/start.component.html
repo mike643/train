@@ -1,14 +1,8 @@
 <div style="max-width:700px;margin:auto;text-align:center">
   <h2>Start begrippen leren</h2>
   <p>Klik op Start om te beginnen met het eerste begrip.</p>
-  <button (click)="start()">Start</button>
+  <button (click)="startLeren()">Start leren</button>
+  <button (click)="startExamen()">Start examen</button>
   <hr />
-  <h3>Overzicht begrippen</h3>
-  <ul>
-    @for (k of keys; track k) {
-      <li>
-        <a [routerLink]="['/begrip', keys.indexOf(k)]">{{ k }}</a>
-      </li>
-    }
-  </ul>
+
 </div>

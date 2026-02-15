@@ -1,0 +1,1643 @@
+[
+  {
+    "id": 1,
+    "question": "Wat is de definitie van een asielzoeker?",
+    "options": [
+      "Iemand die verhuist voor zijn werk naar een ander land.",
+      "Iemand die asiel (bescherming) vraagt in een ander land om er te mogen blijven wonen.",
+      "Iemand die zonder geldige papieren in een land verblijft.",
+      "Iemand die met vakantie gaat naar een ander land."
+    ],
+    "correctAnswer": "Iemand die asiel (bescherming) vraagt in een ander land om er te mogen blijven wonen.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 1a"
+  },
+  {
+    "id": 2,
+    "question": "Wat wordt er bedoeld met discriminatie?",
+    "options": [
+      "Het voortrekken van mensen met veel geld.",
+      "Het achterstellen van mensen, omdat ze bijvoorbeeld een andere godsdienst, huidskleur of gewoonten hebben.",
+      "Het samenwonen van verschillende culturen in één wijk.",
+      "Het vertrek van hoogopgeleide mensen naar het buitenland."
+    ],
+    "correctAnswer": "Het achterstellen van mensen, omdat ze bijvoorbeeld een andere godsdienst, huidskleur of gewoonten hebben.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 1b"
+  },
+  {
+    "id": 3,
+    "question": "Wat is een kenmerk van een gastarbeider?",
+    "options": [
+      "Iemand die (tijdelijk) in een ander land gaat wonen om er te werken.",
+      "Iemand die permanent vlucht voor oorlog.",
+      "Iemand die illegaal de grens oversteekt.",
+      "Iemand die met pensioen gaat in een warm land."
+    ],
+    "correctAnswer": "Iemand die (tijdelijk) in een ander land gaat wonen om er te werken.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 1c"
+  },
+  {
+    "id": 4,
+    "question": "Wat houdt gezinshereniging in?",
+    "options": [
+      "Het bezoeken van familie in het land van herkomst tijdens vakantie.",
+      "Het laten overkomen van het gezin van de migrant naar het nieuwe land om samen te leven.",
+      "Het sturen van geld naar familie in het buitenland.",
+      "Het terugverhuizen van een heel gezin naar het land van herkomst."
+    ],
+    "correctAnswer": "Het laten overkomen van het gezin van de migrant naar het nieuwe land om samen te leven.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 1d"
+  },
+  {
+    "id": 5,
+    "question": "Welke rechten beschermen de waardigheid van ieder mens, ongeacht afkomst of geloof?",
+    "options": [
+      "Burgerrechten",
+      "Mensenrechten",
+      "Kiesrecht",
+      "Eigendomsrecht"
+    ],
+    "correctAnswer": "Mensenrechten",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 2a"
+  },
+  {
+    "id": 6,
+    "question": "Hoe noem je iemand die op de vlucht is binnen zijn eigen land?",
+    "options": [
+      "Vluchteling",
+      "Asielzoeker",
+      "Ontheemde",
+      "Immigrant"
+    ],
+    "correctAnswer": "Ontheemde",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 2b"
+  },
+  {
+    "id": 7,
+    "question": "Hoe noem je het wanneer een migrant actief meedoet aan de nieuwe samenleving (taal leren, werken)?",
+    "options": [
+      "Segregatie",
+      "Assimilatie",
+      "Integratie",
+      "Discriminatie"
+    ],
+    "correctAnswer": "Integratie",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 2c"
+  },
+  {
+    "id": 8,
+    "question": "Hoe heet een samenleving waarin mensen uit verschillende culturen met elkaar samenleven?",
+    "options": [
+      "Monoculturele samenleving",
+      "Multiculturele samenleving",
+      "Gesegregeerde samenleving",
+      "Industriële samenleving"
+    ],
+    "correctAnswer": "Multiculturele samenleving",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 2d"
+  },
+  {
+    "id": 9,
+    "question": "Iemand uit Polen werkt en woont in de Nederlandse tuinbouw. Welk type migrant is dit?",
+    "options": [
+      "Vluchteling",
+      "Arbeidsmigrant",
+      "Kennismigrant",
+      "Ontheemde"
+    ],
+    "correctAnswer": "Arbeidsmigrant",
+    "category": "Toepassing",
+    "reference": "Toets vraag 3a"
+  },
+  {
+    "id": 10,
+    "question": "Een vader werkt in Nederland, later komen moeder en kind ook over uit Somalië. Hoe heet dit?",
+    "options": [
+      "Gezinshereniging",
+      "Arbeidsmigratie",
+      "Asielaanvraag",
+      "Braindrain"
+    ],
+    "correctAnswer": "Gezinshereniging",
+    "category": "Toepassing",
+    "reference": "Toets vraag 3b"
+  },
+  {
+    "id": 11,
+    "question": "Iemand vlucht uit Afghanistan omdat de Taliban aan de macht kwam. Wat is deze persoon?",
+    "options": [
+      "Arbeidsmigrant",
+      "Kennismigrant",
+      "Vluchteling",
+      "Toerist"
+    ],
+    "correctAnswer": "Vluchteling",
+    "category": "Toepassing",
+    "reference": "Toets vraag 3c"
+  },
+  {
+    "id": 12,
+    "question": "Een computerwetenschapper uit India werkt in Eindhoven. Wat voor soort migrant is dit?",
+    "options": [
+      "Vluchteling",
+      "Kennismigrant",
+      "Ontheemde",
+      "Illegaal"
+    ],
+    "correctAnswer": "Kennismigrant",
+    "category": "Toepassing",
+    "reference": "Toets vraag 3d"
+  },
+  {
+    "id": 13,
+    "question": "Wat voor soort grens ligt er tussen Nederland en België?",
+    "options": [
+      "Een harde grens",
+      "Een gesloten grens",
+      "Een zachte (open) grens",
+      "Een bewaakte grens"
+    ],
+    "correctAnswer": "Een zachte (open) grens",
+    "category": "Toepassing",
+    "reference": "Toets vraag 4a / Theorie §3"
+  },
+  {
+    "id": 14,
+    "question": "Waarom verhuizen veel Nederlandse emigranten juist naar België?",
+    "options": [
+      "Omdat het weer daar veel beter is.",
+      "Het is een buurland (dichtbij) en men spreekt er (deels) dezelfde taal.",
+      "Omdat de lonen in België veel hoger zijn dan in Nederland.",
+      "Omdat er in België geen belastingen zijn."
+    ],
+    "correctAnswer": "Het is een buurland (dichtbij) en men spreekt er (deels) dezelfde taal.",
+    "category": "Theorie",
+    "reference": "Toets vraag 4b"
+  },
+  {
+    "id": 15,
+    "question": "In welk land moet een asielzoeker volgens de EU-regels asiel aanvragen?",
+    "options": [
+      "In het land waar hij het liefst wil wonen.",
+      "In het eerste land waar hij de EU binnenkomt.",
+      "Altijd in Duitsland of Frankrijk.",
+      "In het land van herkomst."
+    ],
+    "correctAnswer": "In het eerste land waar hij de EU binnenkomt.",
+    "category": "Theorie",
+    "reference": "Theorie 'Migratiebeleid van de EU' / Toets vraag 5a"
+  },
+  {
+    "id": 16,
+    "question": "Wat is braindrain?",
+    "options": [
+      "Het overstromen van rivieren in een land.",
+      "Het vertrek van goedopgeleide mensen naar het buitenland.",
+      "Het binnenhalen van laagopgeleide arbeiders.",
+      "Het weglekken van overheidsgeld."
+    ],
+    "correctAnswer": "Het vertrek van goedopgeleide mensen naar het buitenland.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst / Toets vraag 5c"
+  },
+  {
+    "id": 17,
+    "question": "Wat betekent 'opvang in de regio' bij vluchtelingen?",
+    "options": [
+      "Dat vluchtelingen worden opgevangen in buurlanden van hun eigen land.",
+      "Dat vluchtelingen naar de regio Europa worden gehaald.",
+      "Dat vluchtelingen in hun eigen dorp blijven.",
+      "Dat vluchtelingen naar Amerika worden gestuurd."
+    ],
+    "correctAnswer": "Dat vluchtelingen worden opgevangen in buurlanden van hun eigen land.",
+    "category": "Theorie",
+    "reference": "Toets vraag 6d"
+  },
+  {
+    "id": 18,
+    "question": "Wat is het effect van segregatie op integratie?",
+    "options": [
+      "Segregatie maakt integratie makkelijker.",
+      "Segregatie heeft geen invloed op integratie.",
+      "Segregatie maakt integratie moeilijker, omdat groepen langs elkaar heen leven.",
+      "Segregatie zorgt voor snellere taalverwerving."
+    ],
+    "correctAnswer": "Segregatie maakt integratie moeilijker, omdat groepen langs elkaar heen leven.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 7"
+  },
+  {
+    "id": 19,
+    "question": "Wat is het grote voordeel van de Schengenlanden?",
+    "options": [
+      "Er is nergens meer politie.",
+      "Je kunt vrij reizen tussen deze landen zonder grenscontroles.",
+      "Iedereen spreekt dezelfde taal.",
+      "Er zijn geen belastingen meer."
+    ],
+    "correctAnswer": "Je kunt vrij reizen tussen deze landen zonder grenscontroles.",
+    "category": "Theorie",
+    "reference": "Theorie §3 / Toets vraag 8b"
+  },
+  {
+    "id": 20,
+    "question": "De grens tussen de VS en Mexico is een voorbeeld van:",
+    "options": [
+      "Een zachte grens.",
+      "Een open grens.",
+      "Een harde/gesloten grens.",
+      "Een onzichtbare grens."
+    ],
+    "correctAnswer": "Een harde/gesloten grens.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 9c"
+  },
+  {
+    "id": 21,
+    "question": "Welke natuurlijke hindernissen komen migranten in Noord-Afrika tegen op weg naar Europa?",
+    "options": [
+      "De Alpen en de Rijn.",
+      "De Sahara (woestijn) en de Middellandse Zee.",
+      "Het oerwoud en de Atlantische Oceaan.",
+      "De Himalaya en de Grote Oceaan."
+    ],
+    "correctAnswer": "De Sahara (woestijn) en de Middellandse Zee.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 10a"
+  },
+  {
+    "id": 22,
+    "question": "Wat was de kern van de vluchtelingendeal tussen de EU en Turkije (2016)?",
+    "options": [
+      "Turkije opent de grenzen zodat iedereen door kan reizen.",
+      "Turkije bewaakt de grenzen beter om vluchtelingen tegen te houden in ruil voor geld.",
+      "De EU neemt alle vluchtelingen uit Turkije direct over.",
+      "Turkije bouwt een muur op de grens met Griekenland."
+    ],
+    "correctAnswer": "Turkije bewaakt de grenzen beter om vluchtelingen tegen te houden in ruil voor geld.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie verminderen' / Toets vraag 11b"
+  },
+  {
+    "id": 23,
+    "question": "Wat is een kenmerk van cultuur?",
+    "options": [
+      "Het wordt bepaald door je DNA.",
+      "Het gaat over gewoonten, gebruiken en wat mensen belangrijk vinden.",
+      "Het is in elk land precies hetzelfde.",
+      "Het heeft alleen te maken met godsdienst."
+    ],
+    "correctAnswer": "Het gaat over gewoonten, gebruiken en wat mensen belangrijk vinden.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 24,
+    "question": "Wanneer is er sprake van een positieve natuurlijke bevolkingsgroei?",
+    "options": [
+      "Als er meer mensen immigreren dan emigreren.",
+      "Als er meer kinderen geboren worden dan dat er mensen sterven.",
+      "Als er meer mensen sterven dan geboren worden.",
+      "Als het aantal inwoners gelijk blijft."
+    ],
+    "correctAnswer": "Als er meer kinderen geboren worden dan dat er mensen sterven.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 25,
+    "question": "Wat is een migratieachtergrond?",
+    "options": [
+      "Als je in het buitenland op vakantie bent geweest.",
+      "Als jijzelf of ten minste één ouder in het buitenland is geboren.",
+      "Als je plannen hebt om te verhuizen.",
+      "Als je meerdere talen spreekt."
+    ],
+    "correctAnswer": "Als jijzelf of ten minste één ouder in het buitenland is geboren.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 26,
+    "question": "Wat is een 'illegale' migrant?",
+    "options": [
+      "Iemand die steelt in een winkel.",
+      "Iemand die zonder geldige papieren in een ander land verblijft.",
+      "Iemand die een verkeersovertreding heeft begaan.",
+      "Iemand die geen werk kan vinden."
+    ],
+    "correctAnswer": "Iemand die zonder geldige papieren in een ander land verblijft.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 27,
+    "question": "Wat is een kolonie?",
+    "options": [
+      "Een gebied in bezit van een ander (meestal Europees) land.",
+      "Een zelfstandig land met veel handel.",
+      "Een vakantiepark.",
+      "Een gebied zonder inwoners."
+    ],
+    "correctAnswer": "Een gebied in bezit van een ander (meestal Europees) land.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 28,
+    "question": "Wat is een vertrekreden?",
+    "options": [
+      "Een reden om ergens naartoe te gaan (bijv. werk).",
+      "Een reden om weg te gaan uit een gebied (bijv. oorlog).",
+      "De reden waarom je met de trein reist.",
+      "De reden waarom je terugkomt van vakantie."
+    ],
+    "correctAnswer": "Een reden om weg te gaan uit een gebied (bijv. oorlog).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 29,
+    "question": "Wat is een vestigingsreden?",
+    "options": [
+      "Een reden om weg te gaan (bijv. armoede).",
+      "Een reden om naar een bepaalde plek te verhuizen (bijv. veiligheid).",
+      "De reden om een winkel te openen.",
+      "De reden om niet te verhuizen."
+    ],
+    "correctAnswer": "Een reden om naar een bepaalde plek te verhuizen (bijv. veiligheid).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 30,
+    "question": "Wat is een voorziening?",
+    "options": [
+      "Een regel in de wet.",
+      "Een bedrijf of instelling waar je producten/diensten haalt (zoals een school of ziekenhuis).",
+      "Een hek op de grens.",
+      "Een document om te reizen."
+    ],
+    "correctAnswer": "Een bedrijf of instelling waar je producten/diensten haalt (zoals een school of ziekenhuis).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 31,
+    "question": "Waar kwamen de eerste bewoners van Noord- en Zuid-Amerika vandaan (18.000 jaar geleden)?",
+    "options": [
+      "Afrika",
+      "Europa",
+      "Azië",
+      "Australië"
+    ],
+    "correctAnswer": "Azië",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 32,
+    "question": "Uit welk onderzoek blijkt dat Europeanen afstammen van voorouders uit Afrika, Midden-Oosten en Rusland?",
+    "options": [
+      "Taalonderzoek",
+      "Onderzoek van botten",
+      "Onderzoek van oude kaarten",
+      "Onderzoek van gebouwen"
+    ],
+    "correctAnswer": "Onderzoek van botten",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 33,
+    "question": "Naar welk land werden veel tot slaaf gemaakten gebracht, dat toen een kolonie van Nederland was?",
+    "options": [
+      "Indonesië",
+      "Suriname",
+      "Zuid-Afrika",
+      "Brazilië"
+    ],
+    "correctAnswer": "Suriname",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 34,
+    "question": "Welke arbeiders haalden Nederlandse kolonisten naar Suriname na de afschaffing van de slavernij?",
+    "options": [
+      "Mensen uit Europa",
+      "Mensen uit India en Indonesië",
+      "Mensen uit de VS",
+      "Mensen uit China"
+    ],
+    "correctAnswer": "Mensen uit India en Indonesië",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 35,
+    "question": "In welk jaar werd Suriname onafhankelijk?",
+    "options": [
+      "1945",
+      "1960",
+      "1975",
+      "2000"
+    ],
+    "correctAnswer": "1975",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 36,
+    "question": "Waarom emigreerden na WOII een half miljoen Nederlanders naar o.a. Canada en Australië?",
+    "options": [
+      "Vanwege het warmere weer.",
+      "Vanwege woningnood en armoede in Nederland.",
+      "Omdat de regering hen dwong.",
+      "Omdat ze daar familie hadden."
+    ],
+    "correctAnswer": "Vanwege woningnood en armoede in Nederland.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 37,
+    "question": "Waarom werden er na 1960 gastarbeiders naar Nederland gehaald?",
+    "options": [
+      "Er was een tekort aan arbeiders in Nederland.",
+      "Er was woningnood in hun eigen land.",
+      "Nederland wilde meer inwoners.",
+      "Om de cultuur te verrijken."
+    ],
+    "correctAnswer": "Er was een tekort aan arbeiders in Nederland.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 38,
+    "question": "Uit welke landen kwamen de eerste gastarbeiders (jaren '60)?",
+    "options": [
+      "Spanje, Italië, Turkije, Marokko",
+      "Polen, Roemenië, Bulgarije",
+      "China, India, Japan",
+      "VS, Canada, Australië"
+    ],
+    "correctAnswer": "Spanje, Italië, Turkije, Marokko",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 39,
+    "question": "Waarom migreren mensen binnen de EU vooral van Oost/Zuid naar West/Noord?",
+    "options": [
+      "Vanwege het betere klimaat in het noorden.",
+      "Omdat landen in West- en Noord-Europa rijker zijn en de lonen hoger.",
+      "Omdat er in het oosten oorlog is.",
+      "Omdat de huizen daar goedkoper zijn."
+    ],
+    "correctAnswer": "Omdat landen in West- en Noord-Europa rijker zijn en de lonen hoger.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 40,
+    "question": "Wat is een voorbeeld van een vertrekreden?",
+    "options": [
+      "Kans op werk",
+      "Veiligheid",
+      "Hongersnood of oorlog",
+      "Goede opleiding"
+    ],
+    "correctAnswer": "Hongersnood of oorlog",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 41,
+    "question": "Waarom komen kennismigranten (bijv. uit India/China) naar de EU?",
+    "options": [
+      "Om in de landbouw te werken.",
+      "Om te werken in de techniek of IT, omdat er in de EU tekorten zijn.",
+      "Omdat ze vluchten voor oorlog.",
+      "Om familie te bezoeken."
+    ],
+    "correctAnswer": "Om te werken in de techniek of IT, omdat er in de EU tekorten zijn.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 42,
+    "question": "Zijn alle asielzoekers automatisch vluchtelingen volgens de theorie?",
+    "options": [
+      "Ja, dat is hetzelfde.",
+      "Nee, mensen die alleen voor werk/beter bestaan komen, zijn geen vluchteling.",
+      "Ja, iedereen die asiel vraagt is een vluchteling.",
+      "Nee, vluchtelingen vragen nooit asiel aan."
+    ],
+    "correctAnswer": "Nee, mensen die alleen voor werk/beter bestaan komen, zijn geen vluchteling.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 43,
+    "question": "Wat is een kenmerk van een harde grens?",
+    "options": [
+      "Je ziet hem niet.",
+      "Hij is makkelijk over te steken.",
+      "Er zijn hekken, muren of paspoortcontroles.",
+      "Hij ligt altijd in zee."
+    ],
+    "correctAnswer": "Er zijn hekken, muren of paspoortcontroles.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 44,
+    "question": "Wat voor soort grenzen hebben Schengenlanden onderling?",
+    "options": [
+      "Harde grenzen",
+      "Open (zachte) grenzen",
+      "Gesloten grenzen",
+      "Bewaakte grenzen"
+    ],
+    "correctAnswer": "Open (zachte) grenzen",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 45,
+    "question": "Wat heb je nodig als je van buiten de EU/Schengen naar binnen wilt?",
+    "options": [
+      "Alleen een rijbewijs.",
+      "Een geldig inreisdocument (visum/verblijfsvergunning).",
+      "Niets, de grenzen zijn open.",
+      "Een brief van de burgemeester."
+    ],
+    "correctAnswer": "Een geldig inreisdocument (visum/verblijfsvergunning).",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 46,
+    "question": "Wat is een visum?",
+    "options": [
+      "Een document voor permanent verblijf.",
+      "Een document voor een kort verblijf.",
+      "Een bewijs van goed gedrag.",
+      "Een treinkaartje."
+    ],
+    "correctAnswer": "Een document voor een kort verblijf.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 47,
+    "question": "Wat moeten studenten of kennismigranten regelen om in de EU te wonen?",
+    "options": [
+      "Asiel aanvragen.",
+      "Een (werk)visum of vergunning.",
+      "Niets, ze zijn welkom.",
+      "Een nieuw paspoort kopen."
+    ],
+    "correctAnswer": "Een (werk)visum of vergunning.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 48,
+    "question": "Wat gebeurt er als iemand geen recht heeft op asiel?",
+    "options": [
+      "Hij mag toch blijven.",
+      "Hij wordt teruggestuurd naar zijn eigen land.",
+      "Hij krijgt een baan aangeboden.",
+      "Hij gaat naar een ander EU-land."
+    ],
+    "correctAnswer": "Hij wordt teruggestuurd naar zijn eigen land.",
+    "category": "Theorie",
+    "reference": "Theorie 'Migratiebeleid'"
+  },
+  {
+    "id": 49,
+    "question": "Waarom maken EU-landen afspraken met landen in Afrika (zoals Libië en Niger)?",
+    "options": [
+      "Om goedkope producten te kopen.",
+      "Om migranten/vluchtelingen tegen te houden voordat ze de EU bereiken.",
+      "Om toerisme te bevorderen.",
+      "Om de taal te leren."
+    ],
+    "correctAnswer": "Om migranten/vluchtelingen tegen te houden voordat ze de EU bereiken.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 50,
+    "question": "Is het asielbeleid in alle EU-landen precies hetzelfde?",
+    "options": [
+      "Ja, alle regels zijn gelijk.",
+      "Nee, er zijn verschillen (bijv. wel/niet direct mogen werken).",
+      "Er is geen asielbeleid in de EU.",
+      "Alleen Nederland heeft regels."
+    ],
+    "correctAnswer": "Nee, er zijn verschillen (bijv. wel/niet direct mogen werken).",
+    "category": "Theorie",
+    "reference": "Theorie 'Migratiebeleid'"
+  },
+  {
+    "id": 51,
+    "question": "Welke term hoort bij: 'Verhuizen naar een andere woonplaats'?",
+    "options": ["Discriminatie", "Migratie", "Integratie", "Segregatie"],
+    "correctAnswer": "Migratie",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: migratie"
+  },
+  {
+    "id": 52,
+    "question": "Wat is een ezelsbruggetje voor 'braindrain'?",
+    "options": [
+      "Brain = hersenen, drain = wegstromen.",
+      "Brain = regen, drain = riool.",
+      "Brain = slim, drain = blijven.",
+      "Brain = dom, drain = weg."
+    ],
+    "correctAnswer": "Brain = hersenen, drain = wegstromen.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: braindrain"
+  },
+  {
+    "id": 53,
+    "question": "Wat is GEEN voorbeeld van een arbeidsmigrant?",
+    "options": [
+      "Een Poolse bouwvakker in Nederland.",
+      "Een Indische IT-specialist in Eindhoven.",
+      "Een gepensioneerde die naar Spanje verhuist.",
+      "Een Spaanse verpleegkundige in Londen."
+    ],
+    "correctAnswer": "Een gepensioneerde die naar Spanje verhuist.",
+    "category": "Toepassing",
+    "reference": "Begrippenlijst: arbeidsmigrant"
+  },
+  {
+    "id": 54,
+    "question": "Wat is de eenvoudigste omschrijving van 'cultuur'?",
+    "options": [
+      "Alles wat je in een museum ziet.",
+      "Alles wat mensen gewend zijn te doen, geloven en vieren in een groep.",
+      "Alleen de taal die mensen spreken.",
+      "De wetten van een land."
+    ],
+    "correctAnswer": "Alles wat mensen gewend zijn te doen, geloven en vieren in een groep.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: cultuur"
+  },
+  {
+    "id": 55,
+    "question": "Wat betekent 'illegaal' letterlijk (volgens de ezelsbrug)?",
+    "options": [
+      "Niet-legaal (niet volgens de wet).",
+      "Ziek.",
+      "In het buitenland.",
+      "Zonder huis."
+    ],
+    "correctAnswer": "Niet-legaal (niet volgens de wet).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: illegaal"
+  },
+  {
+    "id": 56,
+    "question": "Welk woorddeel in 'gastarbeider' geeft aan dat het verblijf tijdelijk bedoeld was?",
+    "options": ["Arbeider", "Gast", "Buitenland", "Werker"],
+    "correctAnswer": "Gast",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: gastarbeider"
+  },
+  {
+    "id": 57,
+    "question": "Wat zie je vaak bij een gesloten grens?",
+    "options": [
+      "Borden met 'Welkom'.",
+      "Hekken, muren of strenge controles.",
+      "Een winkelstraat.",
+      "Niets bijzonders."
+    ],
+    "correctAnswer": "Hekken, muren of strenge controles.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: gesloten grens"
+  },
+  {
+    "id": 58,
+    "question": "Waarom is discriminatie volgens de theorie verkeerd?",
+    "options": [
+      "Omdat het verboden is door de koning.",
+      "Omdat iedereen gelijkwaardig is en mensenrechten heeft.",
+      "Omdat het geld kost.",
+      "Omdat het saai is."
+    ],
+    "correctAnswer": "Omdat iedereen gelijkwaardig is en mensenrechten heeft.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: discriminatie"
+  },
+  {
+    "id": 59,
+    "question": "Wat is het verschil tussen geboortecijfer en sterftecijfer?",
+    "options": [
+      "Migratiesaldo",
+      "Natuurlijke bevolkingsgroei",
+      "Bevolkingsdichtheid",
+      "Sterfteoverschot"
+    ],
+    "correctAnswer": "Natuurlijke bevolkingsgroei",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: natuurlijke bevolkingsgroei"
+  },
+  {
+    "id": 60,
+    "question": "Wat is een ontheemde?",
+    "options": [
+      "Iemand die zijn huis kwijt is door brand.",
+      "Iemand die gevlucht is naar het buitenland.",
+      "Iemand die op de vlucht is binnen zijn eigen land.",
+      "Iemand die dakloos is."
+    ],
+    "correctAnswer": "Iemand die op de vlucht is binnen zijn eigen land.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: ontheemde"
+  },
+  {
+    "id": 61,
+    "question": "Welke term is een synoniem voor 'zachte grens'?",
+    "options": ["Harde grens", "Open grens", "Gesloten grens", "Staatsgrens"],
+    "correctAnswer": "Open grens",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: open grens"
+  },
+  {
+    "id": 62,
+    "question": "Wat gebeurt er bij segregatie?",
+    "options": [
+      "Bevolkingsgroepen leven door elkaar.",
+      "Bevolkingsgroepen leven apart van elkaar.",
+      "Iedereen spreekt dezelfde taal.",
+      "Er zijn geen grenzen."
+    ],
+    "correctAnswer": "Bevolkingsgroepen leven apart van elkaar.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: segregatie"
+  },
+  {
+    "id": 63,
+    "question": "Je verlaat je dorp omdat er geen werk is. 'Geen werk' is een:",
+    "options": ["Vestigingsreden", "Vertrekreden", "Vakantiereden", "Reisreden"],
+    "correctAnswer": "Vertrekreden",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: vertrekreden"
+  },
+  {
+    "id": 64,
+    "question": "Je gaat in Amsterdam wonen omdat daar een goede universiteit is. 'Goede universiteit' is een:",
+    "options": ["Vertrekreden", "Vestigingsreden", "Noodzaak", "Toeval"],
+    "correctAnswer": "Vestigingsreden",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: vestigingsreden"
+  },
+  {
+    "id": 65,
+    "question": "Wat valt onder 'voorzieningen'?",
+    "options": [
+      "Bossen en meren.",
+      "Scholen, ziekenhuizen en winkels.",
+      "Vrienden en familie.",
+      "Het weer."
+    ],
+    "correctAnswer": "Scholen, ziekenhuizen en winkels.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: voorziening"
+  },
+  {
+    "id": 66,
+    "question": "Waarom migreerde een deel van de Surinaamse bevolking in 1975 naar Nederland?",
+    "options": [
+      "Vanwege een burgeroorlog.",
+      "Omdat Suriname onafhankelijk werd.",
+      "Vanwege een natuurramp.",
+      "Omdat ze op vakantie wilden."
+    ],
+    "correctAnswer": "Omdat Suriname onafhankelijk werd.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 67,
+    "question": "Wat is een belangrijke reden voor migratie binnen de EU (van Oost naar West)?",
+    "options": [
+      "Verschil in loon en welvaart.",
+      "Verschil in religie.",
+      "Verschil in taal.",
+      "Verschil in landschap."
+    ],
+    "correctAnswer": "Verschil in loon en welvaart.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 68,
+    "question": "Hoe komen asielzoekers vaak de EU binnen als ze geen visum krijgen?",
+    "options": [
+      "Met het vliegtuig (first class).",
+      "Via illegale en gevaarlijke routes (bijv. bootjes).",
+      "Met de trein via Rusland.",
+      "Ze worden opgehaald door de EU."
+    ],
+    "correctAnswer": "Via illegale en gevaarlijke routes (bijv. bootjes).",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 69,
+    "question": "Wat betekent 'Fort Europa'?",
+    "options": [
+      "Europa heeft veel kastelen.",
+      "Europa is moeilijk binnen te komen voor migranten zonder papieren.",
+      "Europa is een militair gebied.",
+      "Europa is gesloten voor toeristen."
+    ],
+    "correctAnswer": "Europa is moeilijk binnen te komen voor migranten zonder papieren.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 11"
+  },
+  {
+    "id": 70,
+    "question": "Geldt 'Fort Europa' ook voor kennismigranten?",
+    "options": [
+      "Ja, niemand mag erin.",
+      "Nee, want zij zijn nodig en krijgen makkelijker een visum.",
+      "Ja, zij moeten ook met bootjes komen.",
+      "Nee, zij hoeven geen paspoort te hebben."
+    ],
+    "correctAnswer": "Nee, want zij zijn nodig en krijgen makkelijker een visum.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 11a"
+  },
+  {
+    "id": 71,
+    "question": "Wat kregen Turken in ruil voor de vluchtelingendeal (naast geld)?",
+    "options": [
+      "Gratis woningen in Duitsland.",
+      "Visumvrij reizen naar de EU (beloofd).",
+      "Een stuk land van Griekenland.",
+      "Meer olie."
+    ],
+    "correctAnswer": "Visumvrij reizen naar de EU (beloofd).",
+    "category": "Theorie",
+    "reference": "Toets vraag 11b"
+  },
+  {
+    "id": 72,
+    "question": "Welk land nam in de EU de meeste vluchtelingen op (volgens de toets)?",
+    "options": ["Nederland", "Duitsland", "België", "Spanje"],
+    "correctAnswer": "Duitsland",
+    "category": "Theorie",
+    "reference": "Toets vraag 6c"
+  },
+  {
+    "id": 73,
+    "question": "Noem een belangrijk land van herkomst van vluchtelingen (volgens de toets).",
+    "options": ["Syrië", "Duitsland", "Frankrijk", "Canada"],
+    "correctAnswer": "Syrië",
+    "category": "Theorie",
+    "reference": "Toets vraag 6a"
+  },
+  {
+    "id": 74,
+    "question": "Wat is een reden voor integratieproblemen in het begin?",
+    "options": [
+      "Diploma's zijn niet geldig of taalbarrière.",
+      "Migranten zijn te rijk.",
+      "Migranten kennen de weg niet.",
+      "Er zijn geen huizen."
+    ],
+    "correctAnswer": "Diploma's zijn niet geldig of taalbarrière.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 5b"
+  },
+  {
+    "id": 75,
+    "question": "Wat is een voordeel van migratie voor het land van herkomst?",
+    "options": [
+      "Braindrain.",
+      "Geld dat migranten terugsturen naar familie.",
+      "Meer mensen in het land.",
+      "Meer verkeer."
+    ],
+    "correctAnswer": "Geld dat migranten terugsturen naar familie.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 5 (introductie tekst)"
+  },
+  {
+    "id": 76,
+    "question": "Welke term past bij 'scheidingslijn tussen gebieden'?",
+    "options": ["Regio", "Grens", "Zone", "District"],
+    "correctAnswer": "Grens",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: grens"
+  },
+  {
+    "id": 77,
+    "question": "Wat is een voorbeeld van een harde grens in Europa (uit de theorie)?",
+    "options": [
+      "De grens tussen Nederland en België.",
+      "De grens tussen een Schengenland en een niet-Schengenland (bijv. Oekraïne-Hongarije).",
+      "De grens tussen Dinxperlo en Suderwick.",
+      "De grens tussen provincies."
+    ],
+    "correctAnswer": "De grens tussen een Schengenland en een niet-Schengenland (bijv. Oekraïne-Hongarije).",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 78,
+    "question": "Wat gebeurt er in Ter Apel?",
+    "options": [
+      "Daar is een groot pretpark.",
+      "Daar is een asielzoekerscentrum (aanmeldcentrum).",
+      "Daar is de grootste markt van Nederland.",
+      "Daar is een vliegveld."
+    ],
+    "correctAnswer": "Daar is een asielzoekerscentrum (aanmeldcentrum).",
+    "category": "Theorie",
+    "reference": "Theorie Figuur 4"
+  },
+  {
+    "id": 79,
+    "question": "Wat is een reden dat mensen 'illegaal' worden?",
+    "options": [
+      "Ze zijn hun paspoort kwijtgeraakt.",
+      "Hun asielaanvraag is afgewezen, maar ze blijven toch.",
+      "Ze willen geen belasting betalen.",
+      "Ze houden niet van regels."
+    ],
+    "correctAnswer": "Hun asielaanvraag is afgewezen, maar ze blijven toch.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 80,
+    "question": "Wie stamt volgens onderzoek af van voorouders uit Afrika, Midden-Oosten en Rusland?",
+    "options": ["Amerikanen", "Europeanen", "Aziaten", "Australiërs"],
+    "correctAnswer": "Europeanen",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 81,
+    "question": "Wat deden Europese landen vanaf de vijftiende eeuw?",
+    "options": [
+      "Ze sloten hun grenzen.",
+      "Ze stichtten koloniën in andere werelddelen.",
+      "Ze voerden de Euro in.",
+      "Ze stopten met handelen."
+    ],
+    "correctAnswer": "Ze stichtten koloniën in andere werelddelen.",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 82,
+    "question": "Wie zijn 'Schengenlanden'?",
+    "options": [
+      "Alle landen in de wereld.",
+      "Landen in Europa die hebben afgesproken dat inwoners vrij mogen reizen.",
+      "Landen die de Euro gebruiken.",
+      "Landen die aan zee liggen."
+    ],
+    "correctAnswer": "Landen in Europa die hebben afgesproken dat inwoners vrij mogen reizen.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 83,
+    "question": "Wat is een paspoortcontrole op een vliegveld?",
+    "options": [
+      "Een zachte grens.",
+      "Een harde grens (controlepunt).",
+      "Een illegale actie.",
+      "Een toeristische attractie."
+    ],
+    "correctAnswer": "Een harde grens (controlepunt).",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 84,
+    "question": "Wat moet je laten zien voor een visum voor familiebezoek?",
+    "options": [
+      "Je schooldiploma.",
+      "Contactgegevens van de persoon bij wie je logeert.",
+      "Je zwemdiploma.",
+      "Een brief van de koning."
+    ],
+    "correctAnswer": "Contactgegevens van de persoon bij wie je logeert.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 85,
+    "question": "Wat is een werkvisum?",
+    "options": [
+      "Een document waarmee je mag werken in een ander land.",
+      "Een contract met je baas.",
+      "Een lijst met taken.",
+      "Een pasje voor de kantine."
+    ],
+    "correctAnswer": "Een document waarmee je mag werken in een ander land.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 86,
+    "question": "Waarom bouwen sommige landen hekken en muren?",
+    "options": [
+      "Omdat ze dat mooi vinden.",
+      "Om niet-gewenste (illegale) migratie tegen te houden.",
+      "Om dieren binnen te houden.",
+      "Om wind tegen te houden."
+    ],
+    "correctAnswer": "Om niet-gewenste (illegale) migratie tegen te houden.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 87,
+    "question": "Wat doet de kustwacht van Libië met geld van de EU?",
+    "options": [
+      "Vluchtelingen helpen oversteken.",
+      "Vluchtelingen tegenhouden en terugbrengen.",
+      "Nieuwe boten kopen voor de visserij.",
+      "Vakantie vieren."
+    ],
+    "correctAnswer": "Vluchtelingen tegenhouden en terugbrengen.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 88,
+    "question": "Wat is het doel van ontwikkelingsgeld voor Niger?",
+    "options": [
+      "Zorgen voor werk in Niger zelf, zodat mensen niet hoeven te migreren.",
+      "Het bouwen van hotels voor toeristen.",
+      "Het kopen van wapens.",
+      "Het organiseren van festivals."
+    ],
+    "correctAnswer": "Zorgen voor werk in Niger zelf, zodat mensen niet hoeven te migreren.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 89,
+    "question": "Welk percentage van de asielaanvragen in Hongarije werd goedgekeurd in 2018 (volgens grafiek 15)?",
+    "options": ["Hoog (boven 50%)", "Laag (onder 50%)"],
+    "correctAnswer": "Laag (onder 50%)",
+    "category": "Theorie",
+    "reference": "Theorie Figuur 15 (impliciet uit tekst over verschillen)"
+  },
+  {
+    "id": 90,
+    "question": "Mogen asielzoekers in Zweden meteen werken?",
+    "options": [
+      "Nee, ze moeten wachten op een vergunning.",
+      "Ja, dat mag meteen.",
+      "Alleen in het weekend.",
+      "Alleen als ze de taal spreken."
+    ],
+    "correctAnswer": "Ja, dat mag meteen.",
+    "category": "Theorie",
+    "reference": "Theorie 'Migratiebeleid'"
+  },
+  {
+    "id": 91,
+    "question": "Moeten asielzoekers in Nederland wachten met werken?",
+    "options": [
+      "Nee, ze mogen direct werken.",
+      "Ja, ze moeten wachten tot ze een verblijfsvergunning hebben.",
+      "Het maakt niet uit.",
+      "Alleen als ze jonger zijn dan 18."
+    ],
+    "correctAnswer": "Ja, ze moeten wachten tot ze een verblijfsvergunning hebben.",
+    "category": "Theorie",
+    "reference": "Theorie 'Migratiebeleid'"
+  },
+  {
+    "id": 92,
+    "question": "Wat is 'gezinshereniging' in eenvoudige taal?",
+    "options": [
+      "Je gezin komt weer bij elkaar.",
+      "Je gaat scheiden.",
+      "Je krijgt een nieuw gezin.",
+      "Je gaat bij je buren wonen."
+    ],
+    "correctAnswer": "Je gezin komt weer bij elkaar.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 93,
+    "question": "Waarom is er een grens tussen Dinxperlo en Suderwick?",
+    "options": [
+      "Om mensen tegen te houden.",
+      "Het is een formele grens, maar in de praktijk merk je er niks van (zacht).",
+      "Er staat een grote muur.",
+      "Er is oorlog."
+    ],
+    "correctAnswer": "Het is een formele grens, maar in de praktijk merk je er niks van (zacht).",
+    "category": "Theorie",
+    "reference": "Theorie Figuur 12"
+  },
+  {
+    "id": 94,
+    "question": "Wat is een 'migrant'?",
+    "options": [
+      "Iemand die nooit verhuist.",
+      "Iemand die verhuist van de ene woonplaats naar de andere.",
+      "Iemand die alleen reist.",
+      "Iemand die illegaal is."
+    ],
+    "correctAnswer": "Iemand die verhuist van de ene woonplaats naar de andere.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: migratie"
+  },
+  {
+    "id": 95,
+    "question": "Wat betekent 'asiel'?",
+    "options": ["Vakantie", "Bescherming", "Werk", "Geld"],
+    "correctAnswer": "Bescherming",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: asielzoeker"
+  },
+  {
+    "id": 96,
+    "question": "Wat is de reden dat de EU geen eigen reddingsschepen meer laat varen?",
+    "options": [
+      "Er zijn geen boten meer.",
+      "Om migratie te ontmoedigen (zodat mensen niet denken dat ze gered worden).",
+      "De zee is opgedroogd.",
+      "Het is te duur."
+    ],
+    "correctAnswer": "Om migratie te ontmoedigen (zodat mensen niet denken dat ze gered worden).",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 97,
+    "question": "Uit welk land komen veel landarbeiders in Spanje (met visum)?",
+    "options": ["Marokko", "China", "VS", "Noorwegen"],
+    "correctAnswer": "Marokko",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 98,
+    "question": "Wat is een reden voor 'braindrain' in het land van herkomst?",
+    "options": [
+      "Gebrek aan goede banen voor hoogopgeleiden.",
+      "Te veel regen.",
+      "Te veel vakantiedagen.",
+      "Te veel scholen."
+    ],
+    "correctAnswer": "Gebrek aan goede banen voor hoogopgeleiden.",
+    "category": "Toepassing",
+    "reference": "Begrippenlijst/Toets"
+  },
+  {
+    "id": 99,
+    "question": "Wat is het tegenovergestelde van een 'open grens'?",
+    "options": [
+      "Zachte grens",
+      "Gesloten / harde grens",
+      "Lange grens",
+      "Nieuwe grens"
+    ],
+    "correctAnswer": "Gesloten / harde grens",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 100,
+    "question": "Wat is het belangrijkste doel van de EU op migratiegebied waar landen het over eens zijn?",
+    "options": [
+      "Iedereen toelaten.",
+      "Niet-gewenste migratie verminderen.",
+      "Alle grenzen sluiten.",
+      "Geen migranten meer toelaten."
+    ],
+    "correctAnswer": "Niet-gewenste migratie verminderen.",
+    "category": "Theorie",
+    "reference": "Theorie 'Niet-gewenste migratie'"
+  },
+  {
+    "id": 101,
+    "question": "Waar of niet waar? Een arbeidsmigrant is altijd iemand die laaggeschoold werk doet.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: arbeidsmigrant (kan ook kennismigrant zijn)"
+  },
+  {
+    "id": 102,
+    "question": "Leg uit wat het verschil is tussen een 'vertrekreden' en een 'vestigingsreden'.",
+    "options": [],
+    "correctAnswer": "Een vertrekreden is de reden waarom je weggaat uit een gebied (bijv. oorlog), een vestigingsreden is de reden waarom je juist naar een bepaald ander gebied toe gaat (bijv. werkgelegenheid).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: vertrekreden/vestigingsreden"
+  },
+  {
+    "id": 103,
+    "question": "Waar of niet waar? Asielzoekers in Nederland mogen direct betaald werk gaan doen zodra ze hun aanvraag hebben ingediend.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Theorie",
+    "reference": "Theorie §3: Migratiebeleid (In NL wachten op vergunning, in Zweden mag het wel direct)"
+  },
+  {
+    "id": 104,
+    "question": "Wat wordt er bedoeld met 'gezinshereniging'?",
+    "options": [],
+    "correctAnswer": "Het laten overkomen van gezinsleden (partner, kinderen) door een migrant die al in een ander land woont, om daar weer samen te leven.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: gezinshereniging"
+  },
+  {
+    "id": 105,
+    "question": "Waar of niet waar? Iemand die vlucht voor oorlog binnen zijn eigen landsgrenzen noem je een vluchteling.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: ontheemde (vluchteling steekt grens over)"
+  },
+  {
+    "id": 106,
+    "question": "Noem twee voorbeelden van een 'harde grens'.",
+    "options": [],
+    "correctAnswer": "Een grens met hekken/muren, een grens met strenge paspoortcontrole, of een natuurlijke barrière zoals een zee of bergketen die moeilijk over te steken is.",
+    "category": "Theorie",
+    "reference": "Theorie §3: Harde en zachte grenzen"
+  },
+  {
+    "id": 107,
+    "question": "Waar of niet waar? De grens tussen Nederland en België is een voorbeeld van een zachte grens.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Toepassing",
+    "reference": "Toets vraag 4a"
+  },
+  {
+    "id": 108,
+    "question": "Wat is het belangrijkste verschil tussen een 'allochtoon' (oud begrip) en iemand met een 'migratieachtergrond'?",
+    "options": [],
+    "correctAnswer": "Migratieachtergrond kijkt puur naar het geboorteland van de persoon of de ouders (feitelijk), terwijl allochtoon vaak een negatieve bijklank had.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: migratieachtergrond"
+  },
+  {
+    "id": 109,
+    "question": "Waar of niet waar? Mensenrechten gelden alleen voor mensen die legaal in een land verblijven.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: mensenrechten (gelden voor iedereen, altijd en overal)"
+  },
+  {
+    "id": 110,
+    "question": "Leg uit wat 'braindrain' betekent voor het land van herkomst.",
+    "options": [],
+    "correctAnswer": "Het land verliest veel hoogopgeleide mensen (kennis en kunde), wat slecht is voor de economische ontwikkeling van dat land.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: braindrain"
+  },
+  {
+    "id": 111,
+    "question": "Waar of niet waar? Schengenlanden hebben onderling open grenzen.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 112,
+    "question": "Wat is een 'kennismigrant'?",
+    "options": [],
+    "correctAnswer": "Een hoogopgeleide migrant die naar een ander land verhuist om daar zijn kennis in te zetten (bijv. in de IT of techniek).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: kennismigrant"
+  },
+  {
+    "id": 113,
+    "question": "Waar of niet waar? Iedere asielzoeker is automatisch ook een vluchteling.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Theorie",
+    "reference": "Theorie §1 (Niet alle asielzoekers zijn vluchteling, bijv. economische migranten)"
+  },
+  {
+    "id": 114,
+    "question": "Noem een voorbeeld van een 'pullfactor' (aantrekkingsfactor) voor migranten om naar de EU te komen.",
+    "options": [],
+    "correctAnswer": "Werkgelegenheid, veiligheid, hogere lonen, goede voorzieningen, politieke vrijheid.",
+    "category": "Theorie",
+    "reference": "Theorie §1 (Vestigingsredenen)"
+  },
+  {
+    "id": 115,
+    "question": "Waar of niet waar? Suriname was tot 1975 een kolonie van Nederland.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 116,
+    "question": "Wat houdt de 'vluchtelingendeal' tussen de EU en Turkije in?",
+    "options": [],
+    "correctAnswer": "Turkije vangt vluchtelingen op en bewaakt de grenzen beter in ruil voor geld van de EU en beloftes over visumvrij reizen.",
+    "category": "Theorie",
+    "reference": "Toets vraag 11b / Theorie"
+  },
+  {
+    "id": 117,
+    "question": "Waar of niet waar? Segregatie bevordert de integratie van nieuwkomers.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Toepassing",
+    "reference": "Toets vraag 7"
+  },
+  {
+    "id": 118,
+    "question": "Leg uit waarom 'Fort Europa' niet geldt voor kennismigranten.",
+    "options": [],
+    "correctAnswer": "Omdat kennismigranten (hoogopgeleiden) gewenst zijn voor de economie en daarom makkelijker een visum of werkvergunning krijgen dan laagopgeleiden.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 11a"
+  },
+  {
+    "id": 119,
+    "question": "Waar of niet waar? Een visum is meestal bedoeld voor een kort verblijf.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 120,
+    "question": "Wat is het verschil tussen een 'autochtoon' en iemand met een 'migratieachtergrond'?",
+    "options": [],
+    "correctAnswer": "Iemand met een migratieachtergrond (of ten minste één ouder) is in het buitenland geboren; een autochtoon en beide ouders zijn in het woonland geboren.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst"
+  },
+  {
+    "id": 121,
+    "question": "Waar of niet waar? De natuurlijke bevolkingsgroei is negatief als er meer mensen sterven dan er geboren worden.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: natuurlijke bevolkingsgroei"
+  },
+  {
+    "id": 122,
+    "question": "Waarom migreren mensen vaak van Oost-Europa naar West-Europa?",
+    "options": [],
+    "correctAnswer": "Vanwege de hogere lonen en betere welvaart in West-Europa (arbeidsmigratie).",
+    "category": "Theorie",
+    "reference": "Theorie §1"
+  },
+  {
+    "id": 123,
+    "question": "Waar of niet waar? Illegalen hebben in Nederland recht op basisvoorzieningen zoals medische noodhulp.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: mensenrechten (impliciet: rechten gelden altijd)"
+  },
+  {
+    "id": 124,
+    "question": "Wat is een 'multiculturele samenleving'?",
+    "options": [],
+    "correctAnswer": "Een samenleving waarin mensen van verschillende culturen en achtergronden samenleven.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: multiculturele samenleving"
+  },
+  {
+    "id": 125,
+    "question": "Waar of niet waar? De VS heeft een open grens met Mexico.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Toepassing",
+    "reference": "Toets vraag 9"
+  },
+  {
+    "id": 126,
+    "question": "Noem een reden waarom iemand zou vluchten (vertrekreden).",
+    "options": [],
+    "correctAnswer": "Oorlog, vervolging (godsdienst/politiek), hongersnood, natuurrampen, onveiligheid.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: vluchteling"
+  },
+  {
+    "id": 127,
+    "question": "Waar of niet waar? Arbeidsmigranten uit de EU hebben een werkvergunning nodig om in Nederland te werken.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Theorie",
+    "reference": "Theorie §3 (Vrij verkeer van personen binnen EU/Schengen)"
+  },
+  {
+    "id": 128,
+    "question": "Wat betekent de term 'in de regio' bij de opvang van vluchtelingen?",
+    "options": [],
+    "correctAnswer": "Dat vluchtelingen worden opgevangen in de buurlanden van het conflictgebied, dichtbij hun eigen huis.",
+    "category": "Theorie",
+    "reference": "Toets vraag 6d"
+  },
+  {
+    "id": 129,
+    "question": "Waar of niet waar? Gastarbeiders kwamen in de jaren '60 vooral uit Scandinavië.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Theorie",
+    "reference": "Theorie §1 (Ze kwamen uit Spanje, Italië, Turkije, Marokko)"
+  },
+  {
+    "id": 130,
+    "question": "Leg uit wat 'discriminatie' is.",
+    "options": [],
+    "correctAnswer": "Het ongelijk behandelen of achterstellen van mensen op basis van kenmerken die er niet toe doen (zoals afkomst, geloof, huidskleur).",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: discriminatie"
+  },
+  {
+    "id": 131,
+    "question": "Waar of niet waar? Integratie betekent dat je je eigen cultuur volledig moet vergeten.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: integratie (Betekent actief meedoen, niet per se assimileren)"
+  },
+  {
+    "id": 132,
+    "question": "Wat is een 'voorziening'?",
+    "options": [],
+    "correctAnswer": "Iets waar mensen gebruik van kunnen maken om in hun behoeften te voorzien, zoals scholen, ziekenhuizen, winkels of openbaar vervoer.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: voorziening"
+  },
+  {
+    "id": 133,
+    "question": "Waar of niet waar? Een ontheemde steekt altijd een landsgrens over.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: ontheemde"
+  },
+  {
+    "id": 134,
+    "question": "Waarom is de Middellandse Zee een 'natuurlijke hindernis' voor migranten?",
+    "options": [],
+    "correctAnswer": "Omdat het een grote zee is die gevaarlijk is om over te steken, zeker met onveilige bootjes.",
+    "category": "Toepassing",
+    "reference": "Toets vraag 10a"
+  },
+  {
+    "id": 135,
+    "question": "Waar of niet waar? Duitsland heeft binnen de EU de meeste vluchtelingen opgenomen (volgens de toetsstof).",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Toets",
+    "reference": "Toets vraag 6c"
+  },
+  {
+    "id": 136,
+    "question": "Wat is een 'verblijfsvergunning'?",
+    "options": [],
+    "correctAnswer": "Een officieel document dat toestemming geeft om voor langere tijd (of permanent) in een land te wonen.",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  },
+  {
+    "id": 137,
+    "question": "Waar of niet waar? Cultuur gaat alleen over kunst en musea.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: cultuur (gaat over gewoonten, normen, waarden)"
+  },
+  {
+    "id": 138,
+    "question": "Noem een nadeel van migratie voor het land van aankomst (volgens de publieke opinie/theorie).",
+    "options": [],
+    "correctAnswer": "Druk op voorzieningen, mogelijke integratieproblemen, spanningen tussen bevolkingsgroepen.",
+    "category": "Toepassing",
+    "reference": "Theorie (impliciet in stuk over 'niet-gewenste migratie')"
+  },
+  {
+    "id": 139,
+    "question": "Waar of niet waar? Polen is een belangrijk herkomstland van arbeidsmigranten in Nederland.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Toets",
+    "reference": "Toets vraag 3a"
+  },
+  {
+    "id": 140,
+    "question": "Wat betekent het als een grens 'gesloten' is?",
+    "options": [],
+    "correctAnswer": "Dat je er niet zomaar doorheen kunt; er is controle, bewaking, hekken of muren.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: gesloten grens"
+  },
+  {
+    "id": 141,
+    "question": "Waar of niet waar? Als je illegaal in een land bent, heb je geen geldige papieren.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: illegaal"
+  },
+  {
+    "id": 142,
+    "question": "Wat doen 'mensenrechten'?",
+    "options": [],
+    "correctAnswer": "Ze beschermen de waardigheid, vrijheid en veiligheid van ieder mens tegen de macht van de staat.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: mensenrechten"
+  },
+  {
+    "id": 143,
+    "question": "Waar of niet waar? Een arbeidsmigrant verhuist altijd permanent.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: gastarbeider (is tijdelijk)"
+  },
+  {
+    "id": 144,
+    "question": "Noem twee landen waar veel vluchtelingen vandaan komen (volgens de toets).",
+    "options": [],
+    "correctAnswer": "Syrië, Afghanistan, Zuid-Soedan, Myanmar, Somalië.",
+    "category": "Toets",
+    "reference": "Toets vraag 6a"
+  },
+  {
+    "id": 145,
+    "question": "Waar of niet waar? De EU probeert migratie uit Afrika te stoppen door ontwikkelingshulp te geven.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Waar",
+    "category": "Theorie",
+    "reference": "Theorie: Niet-gewenste migratie verminderen (geld voor Niger)"
+  },
+  {
+    "id": 146,
+    "question": "Wat is het verschil tussen een 'asielzoeker' en een 'statushouder' (erkende vluchteling)?",
+    "options": [],
+    "correctAnswer": "Een asielzoeker wacht nog op de beslissing of hij mag blijven; een statushouder heeft die toestemming (verblijfsvergunning) al gekregen.",
+    "category": "Theorie",
+    "reference": "Theorie §1 / §3"
+  },
+  {
+    "id": 147,
+    "question": "Waar of niet waar? Arbeidsmigratie is een vorm van gedwongen migratie.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst (is meestal vrijwillig voor werk)"
+  },
+  {
+    "id": 148,
+    "question": "Waarom is de taal leren belangrijk voor integratie?",
+    "options": [],
+    "correctAnswer": "Om te kunnen communiceren met anderen, werk te vinden, naar school te gaan en mee te doen in de samenleving.",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: integratie"
+  },
+  {
+    "id": 149,
+    "question": "Waar of niet waar? Een kolonie wordt bestuurd door het land zelf.",
+    "options": ["Waar", "Niet waar"],
+    "correctAnswer": "Niet waar",
+    "category": "Begrippen",
+    "reference": "Begrippenlijst: kolonie (bestuurd door een ander land)"
+  },
+  {
+    "id": 150,
+    "question": "Welk document heb je nodig om als toerist van buiten de EU naar Nederland te reizen?",
+    "options": [],
+    "correctAnswer": "Een visum (voor kort verblijf).",
+    "category": "Theorie",
+    "reference": "Theorie §3"
+  }
+
+]

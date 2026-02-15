@@ -1,49 +1,58 @@
+<a role="button" tabindex="0" (click)="loadAllBegrippen()">Overzicht alle begrippen</a>
+<ul>
+  @for (k of begrippenAll; track k) {
+  <li>
+    <a [routerLink]="['/begrip', begrippenAll.indexOf(k)]">{{ k }}</a>
+  </li>
+  }
+</ul>
+
 <div style="max-width:800px;margin:auto">
   <h2>{{ key() }}</h2>
 
   @if (item() && item().content) {
-    <div style="border:1px solid #ddd;padding:1rem;border-radius:6px">
-      <p><strong>Omschrijving:</strong></p>
-      <p>{{ currentDescription() }}</p>
-      @if (item().content.ezelsbrug) {
-        <p><em>Ezelsbrug: {{ item().content.ezelsbrug }}</em></p>
-      }
-    </div>
+  <div style="border:1px solid #ddd;padding:1rem;border-radius:6px">
+    <p><strong>Omschrijving:</strong></p>
+    <p>{{ currentDescription() }}</p>
+    @if (item().content.ezelsbrug) {
+    <p><em>Ezelsbrug: {{ item().content.ezelsbrug }}</em></p>
+    }
+  </div>
   } @else {
-    <div style="border:1px solid #ddd;padding:1rem;border-radius:6px">
-      <p>Geen begrip gevonden.</p>
-    </div>
+  <div style="border:1px solid #ddd;padding:1rem;border-radius:6px">
+    <p>Geen begrip gevonden.</p>
+  </div>
   }
 
   <div style="margin-top:0.75rem">
     <button (click)="easier()" [disabled]="hintLevel()>=2">Makkelijker</button>
     <button (click)="harder()" [disabled]="hintLevel()<=0">Terug naar begrip</button>
     @if (!quizMode()) {
-      <button (click)="startQuiz()">Ik weet het</button>
+    <button (click)="startQuiz()">Ik weet het</button>
     }
   </div>
 
   @if (quizMode()) {
-    <div style="margin-top:1rem;border:1px dashed #aaa;padding:1rem">
-      <p>Vraag {{ qIndex()+1 }} van {{ questions().length }}</p>
-      <p><strong>{{ questions()[qIndex()]?.vraag }}</strong></p>
-      @for (opt of currentOptions(); track opt) {
-        <label style="display:block;margin:0.25rem 0">
-          <input type="radio" name="opt" [value]="opt" (change)="select(opt)" [checked]="selected()===opt" />
-          {{ opt }}: {{ questions()[qIndex()]?.opties[opt] }}
-        </label>
-      }
-      <div style="margin-top:0.5rem">
-        <button (click)="submitAnswer()" [disabled]="!selected()">Beantwoord</button>
-      </div>
+  <div style="margin-top:1rem;border:1px dashed #aaa;padding:1rem">
+    <p>Vraag {{ qIndex()+1 }} van {{ questions().length }}</p>
+    <p><strong>{{ questions()[qIndex()]?.vraag }}</strong></p>
+    @for (opt of currentOptions(); track opt) {
+    <label style="display:block;margin:0.25rem 0">
+      <input type="radio" name="opt" [value]="opt" (change)="select(opt)" [checked]="selected()===opt" />
+      {{ opt }}: {{ questions()[qIndex()]?.opties[opt] }}
+    </label>
+    }
+    <div style="margin-top:0.5rem">
+      <button (click)="submitAnswer()" [disabled]="!selected()">Beantwoord</button>
     </div>
+  </div>
   }
 
   @if (finishedQuiz()) {
-    <div style="margin-top:1rem">
-      <p>Je hebt {{ correctCount() }} van de {{ questions().length }} vragen goed.</p>
-      <button (click)="gotoNext()">Volgend begrip</button>
-    </div>
+  <div style="margin-top:1rem">
+    <p>Je hebt {{ correctCount() }} van de {{ questions().length }} vragen goed.</p>
+    <button (click)="gotoNext()">Volgend begrip</button>
+  </div>
   }
 
   <div style="margin-top:1.5rem;display:flex;gap:8px">

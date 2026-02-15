@@ -9,6 +9,7 @@ import { BegrippenService } from './begrippen.service';
   imports: [CommonModule, RouterModule],
   templateUrl: './begrip.component.html'
 })
+
 export class BegripComponent {
   item = signal<any | null>(null);
   key = signal<string>('');
@@ -31,12 +32,24 @@ export class BegripComponent {
     return it.content.eenvoudige_omschrijving_2 || it.content.eenvoudige_omschrijving_1 || it.content.boek_omschrijving;
   });
 
+  begrippenAll: string[] = [];
+
   constructor(private route: ActivatedRoute, private svc: BegrippenService, private router: Router) {
     this.route.params.subscribe(async (p) => {
       const idx = Number(p['index'] || 0);
       this.index.set(isNaN(idx) ? 0 : idx);
       await this.load();
     });
+  }
+
+  async loadAllBegrippen() {
+    const count = await this.svc.count();
+    const tmp: string[] = [];
+    for (let i = 0; i < count; i++) {
+      const item = await this.svc.getByIndex(i);
+      if (item) tmp.push(item.key);
+    }
+    this.begrippenAll = tmp;
   }
 
   async load() {

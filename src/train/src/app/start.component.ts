@@ -27,7 +27,11 @@ export class StartComponent {
     this.keys = tmp;
   }
 
-  start() {
+  startLeren() {
     this.router.navigate(['/begrip', 0]);
+  }
+
+  startExamen() {
+    this.router.navigate(['/examen']);
   }
 }

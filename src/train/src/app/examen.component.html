@@ -1,0 +1,104 @@
+<div class="examen-container">
+  <div *ngIf="currentVraag" class="examen-content">
+    <!-- Header -->
+    <div class="examen-header">
+      <h1>Examen</h1>
+      <p class="progress">Vraag {{ currentIndex() + 1 }} van {{ vragen().length }}</p>
+    </div>
+
+    <!-- Vraag -->
+    <div class="vraag-section">
+      <h2 class="vraag-title">{{ currentVraag.question }}</h2>
+      <p class="vraag-category">Categorie: {{ currentVraag.category }}</p>
+    </div>
+
+    <!-- Antwoord Opties of Open vraag -->
+    <div class="options-section">
+      <ng-container *ngIf="!isOpenQuestion(currentVraag); else openQuestion">
+        <div
+          *ngFor="let option of getOptionsForQuestion(currentVraag); let i = index"
+          class="option-item"
+          [class.selected]="selectedAnswer() === option"
+          [class.correct]="answered() && option === currentVraag.correctAnswer"
+          [class.incorrect]="answered() && selectedAnswer() === option && option !== currentVraag.correctAnswer"
+          (click)="selectAnswer(option)"
+        >
+          <input
+            type="radio"
+            [name]="'option-' + currentIndex()"
+            [value]="option"
+            [checked]="selectedAnswer() === option"
+            [disabled]="answered()"
+          />
+          <label>
+            <span class="option-label">{{ getOptionLabel(i) }}.</span>
+            {{ option }}
+          </label>
+        </div>
+      </ng-container>
+      <ng-template #openQuestion>
+        <div class="open-question">
+          <label for="openAnswer">Antwoord:</label>
+          <input id="openAnswer" type="text" [(ngModel)]="openInput" [disabled]="answered()" />
+        </div>
+      </ng-template>
+    </div>
+
+    <!-- Feedback Section -->
+    <div *ngIf="answered()" class="feedback-section" [class.correct]="isCorrect()" [class.incorrect]="isCorrect() === false">
+      <ng-container *ngIf="!isOpenQuestion(currentVraag); else openFeedback">
+        <div *ngIf="isCorrect()" class="feedback-correct">
+          <h3>✓ Juist!</h3>
+          <p class="feedback-text">Goed antwoord: {{ currentVraag.correctAnswer }}</p>
+        </div>
+        <div *ngIf="!isCorrect()" class="feedback-incorrect">
+          <h3>✗ Onjuist</h3>
+          <p class="feedback-selected">Jouw antwoord: {{ selectedAnswer() }}</p>
+          <p class="feedback-correct-answer">Juist antwoord: {{ currentVraag.correctAnswer }}</p>
+        </div>
+        <p class="feedback-reference">
+          <strong>Referentie:</strong> {{ currentVraag.reference }}
+        </p>
+      </ng-container>
+      <ng-template #openFeedback>
+        <h3>Open antwoord opgeslagen</h3>
+        <p class="feedback-selected">Jouw antwoord: {{ selectedAnswer() }}</p>
+        <p class="feedback-reference"><strong>Referentie:</strong> {{ currentVraag.reference }}</p>
+        <p class="feedback-note">Controleer zelf of dit antwoord klopt.</p>
+      </ng-template>
+    </div>
+
+    <!-- Submit Button -->
+    <div *ngIf="!answered()" class="button-section">
+      <button
+        class="submit-button"
+        (click)="submitAnswer()"
+        [disabled]="isOpenQuestion(currentVraag) ? !openInput() : !selectedAnswer()"
+      >
+        Controleer antwoord
+      </button>
+    </div>
+
+    <!-- Navigation Buttons -->
+    <div class="navigation-section">
+      <button
+        class="nav-button prev-button"
+        (click)="previousQuestion()"
+        [disabled]="currentIndex() === 0"
+      >
+        ← Vorige
+      </button>
+      <button
+        class="nav-button next-button"
+        (click)="nextQuestion()"
+        [disabled]="currentIndex() === vragen().length - 1"
+      >
+        Volgende →
+      </button>
+    </div>
+  </div>
+
+  <div *ngIf="vragen().length === 0" class="loading">
+    <p>Vragen laden...</p>
+  </div>
+</div>
