@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Waar ligt het hart?",
+    "options": [
+      "In de buik",
+      "In de borstholte, iets naar links",
+      "In het hoofd",
+      "In de rug"
+    ],
+    "correctAnswer": "In de borstholte, iets naar links",
+    "category": "Het hart als holle spier",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 2,
+    "question": "Hoe groot is een hart ongeveer?",
+    "options": [
+      "Zo groot als een erwt",
+      "Zo groot als een vuist",
+      "Zo groot als een voetbal",
+      "Zo groot als een appel"
+    ],
+    "correctAnswer": "Zo groot als een vuist",
+    "category": "Het hart als holle spier",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 3,
+    "question": "Wat voor soort spier is het hart?",
+    "options": [
+      "Een volle spier",
+      "Een holle spier",
+      "Geen spier",
+      "Een botspier"
+    ],
+    "correctAnswer": "Een holle spier",
+    "category": "Het hart als holle spier",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 4,
+    "question": "Wat vervoeren kransslagaders?",
+    "options": [
+      "Bloed met zuurstof en voedingsstoffen",
+      "Bloed met afvalstoffen",
+      "Alleen water",
+      "Niets"
+    ],
+    "correctAnswer": "Bloed met zuurstof en voedingsstoffen",
+    "category": "Kransslagaders en kransaders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 5,
+    "question": "Waar zijn de kransslagaders aftakkingen van?",
+    "options": [
+      "De longslagader",
+      "De aorta",
+      "De holle ader",
+      "De longaders"
+    ],
+    "correctAnswer": "De aorta",
+    "category": "Kransslagaders en kransaders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 6,
+    "question": "Waar monden de kransaders uit?",
+    "options": [
+      "In de linkerboezem",
+      "In de rechterboezem",
+      "In de aorta",
+      "In de longen"
+    ],
+    "correctAnswer": "In de rechterboezem",
+    "category": "Kransslagaders en kransaders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 7,
+    "question": "Uit hoeveel delen bestaat het hart?",
+    "options": [
+      "2 delen",
+      "3 delen",
+      "4 delen (2 boezems en 2 kamers)",
+      "5 delen"
+    ],
+    "correctAnswer": "4 delen (2 boezems en 2 kamers)",
+    "category": "Harttussenwand, boezems en kamers",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 8,
+    "question": "Wat scheidt de linker- en rechterhelft van het hart?",
+    "options": [
+      "De hartkleppen",
+      "De harttussenwand",
+      "De aorta",
+      "Het bloed"
+    ],
+    "correctAnswer": "De harttussenwand",
+    "category": "Harttussenwand, boezems en kamers",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 9,
+    "question": "Hoeveel boezems heeft het hart?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "category": "Harttussenwand, boezems en kamers",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 10,
+    "question": "Hoeveel holle aders zijn er?",
+    "options": [
+      "1",
+      "2 (bovenste en onderste)",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2 (bovenste en onderste)",
+    "category": "Holle aders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 11,
+    "question": "Waar monden de holle aders uit?",
+    "options": [
+      "In de linkerboezem",
+      "In de rechterboezem",
+      "In de linkerkamer",
+      "In de aorta"
+    ],
+    "correctAnswer": "In de rechterboezem",
+    "category": "Holle aders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 12,
+    "question": "Welk soort bloed vervoeren de holle aders?",
+    "options": [
+      "Zuurstofrijk bloed",
+      "Zuurstofarm bloed",
+      "Beide",
+      "Geen bloed"
+    ],
+    "correctAnswer": "Zuurstofarm bloed",
+    "category": "Holle aders",
+    "reference": "Pagina 176"
+  },
+  {
+    "id": 13,
+    "question": "Waar pompt de rechterkamer het bloed naartoe?",
+    "options": [
+      "Naar de longen",
+      "Naar het hele lichaam",
+      "Naar de lever",
+      "Terug naar de rechterboezem"
+    ],
+    "correctAnswer": "Naar de longen",
+    "category": "Bloedstroom door het hart - rechterkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 14,
+    "question": "Welk soort bloed pompt de rechterkamer?",
+    "options": [
+      "Zuurstofrijk bloed",
+      "Zuurstofarm bloed",
+      "Beide",
+      "Geen bloed"
+    ],
+    "correctAnswer": "Zuurstofarm bloed",
+    "category": "Bloedstroom door het hart - rechterkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 15,
+    "question": "Wat gebeurt er in de longen met het bloed?",
+    "options": [
+      "Het wordt zuurstofarm",
+      "Zuurstof wordt opgenomen",
+      "Het wordt blauw",
+      "Niets"
+    ],
+    "correctAnswer": "Zuurstof wordt opgenomen",
+    "category": "Bloedstroom door het hart - rechterkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 16,
+    "question": "Waar monden de longaders uit?",
+    "options": [
+      "In de rechterboezem",
+      "In de linkerboezem",
+      "In de aorta",
+      "In de rechterkamer"
+    ],
+    "correctAnswer": "In de linkerboezem",
+    "category": "Bloedstroom door het hart - linkerkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 17,
+    "question": "Waar pompt de linkerkamer het bloed naartoe?",
+    "options": [
+      "Naar de longen",
+      "Naar alle organen via de aorta",
+      "Terug naar de linkerboezem",
+      "Nergens"
+    ],
+    "correctAnswer": "Naar alle organen via de aorta",
+    "category": "Bloedstroom door het hart - linkerkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 18,
+    "question": "Welk soort bloed pompt de linkerkamer?",
+    "options": [
+      "Zuurstofarm bloed",
+      "Zuurstofrijk bloed",
+      "Beide",
+      "Geen bloed"
+    ],
+    "correctAnswer": "Zuurstofrijk bloed",
+    "category": "Bloedstroom door het hart - linkerkant",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 19,
+    "question": "Waar zitten de hartkleppen?",
+    "options": [
+      "In de aorta",
+      "Tussen boezem en kamer",
+      "In de longen",
+      "In de aders"
+    ],
+    "correctAnswer": "Tussen boezem en kamer",
+    "category": "Hartkleppen",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 20,
+    "question": "Wat is de functie van hartkleppen?",
+    "options": [
+      "Bloed maken",
+      "Voorkomen dat bloed terugstroomt",
+      "Zuurstof toevoegen",
+      "Bloed filteren"
+    ],
+    "correctAnswer": "Voorkomen dat bloed terugstroomt",
+    "category": "Hartkleppen",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 21,
+    "question": "Wanneer stroomt bloed van boezem naar kamer?",
+    "options": [
+      "Als de hartkleppen dicht zijn",
+      "Als de hartkleppen open zijn",
+      "Altijd",
+      "Nooit"
+    ],
+    "correctAnswer": "Als de hartkleppen open zijn",
+    "category": "Hartkleppen",
+    "reference": "Pagina 177"
+  },
+  {
+    "id": 22,
+    "question": "Waar zitten de halvemaanvormige kleppen?",
+    "options": [
+      "Tussen boezem en kamer",
+      "Aan het begin van longslagader en aorta",
+      "In de aders",
+      "In de longen"
+    ],
+    "correctAnswer": "Aan het begin van longslagader en aorta",
+    "category": "Halvemaanvormige kleppen",
+    "reference": "Pagina 178"
+  },
+  {
+    "id": 23,
+    "question": "Wat voorkomen de halvemaanvormige kleppen?",
+    "options": [
+      "Dat bloed te snel stroomt",
+      "Dat bloed terugstroomt naar de kamers",
+      "Dat bloed stolt",
+      "Dat het hart stopt"
+    ],
+    "correctAnswer": "Dat bloed terugstroomt naar de kamers",
+    "category": "Halvemaanvormige kleppen",
+    "reference": "Pagina 178"
+  },
+  {
+    "id": 24,
+    "question": "In welke twee bloedvaten zitten halvemaanvormige kleppen?",
+    "options": [
+      "Holle aders",
+      "Longslagader en aorta",
+      "Longaders",
+      "Kransslagaders"
+    ],
+    "correctAnswer": "Longslagader en aorta",
+    "category": "Halvemaanvormige kleppen",
+    "reference": "Pagina 178"
+  },
+  {
+    "id": 25,
+    "question": "Hoeveel harttonen zijn er?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "2",
+    "category": "Harttonen",
+    "reference": "Pagina 180"
+  },
+  {
+    "id": 26,
+    "question": "Waardoor ontstaat de eerste harttoon?",
+    "options": [
+      "Door het sluiten van de hartkleppen",
+      "Door het sluiten van de halvemaanvormige kleppen",
+      "Door het hart dat pompt",
+      "Door het bloed"
+    ],
+    "correctAnswer": "Door het sluiten van de hartkleppen",
+    "category": "Harttonen",
+    "reference": "Pagina 180"
+  },
+  {
+    "id": 27,
+    "question": "Waardoor ontstaat de tweede harttoon?",
+    "options": [
+      "Door het sluiten van de hartkleppen",
+      "Door het sluiten van de halvemaanvormige kleppen",
+      "Door het hart dat stopt",
+      "Door ademen"
+    ],
+    "correctAnswer": "Door het sluiten van de halvemaanvormige kleppen",
+    "category": "Harttonen",
+    "reference": "Pagina 180"
+  },
+  {
+    "id": 28,
+    "question": "Welke hartwanden zijn dikker: die van de boezems of die van de kamers?",
+    "options": [
+      "Die van de boezems",
+      "Die van de kamers",
+      "Ze zijn even dik",
+      "Ze hebben geen wanden"
+    ],
+    "correctAnswer": "Die van de kamers",
+    "category": "Dikte van hartwanden",
+    "reference": "Pagina 181"
+  },
+  {
+    "id": 29,
+    "question": "Welk deel van het hart heeft de dikste wand?",
+    "options": [
+      "Rechterboezem",
+      "Linkerboezem",
+      "Rechterkamer",
+      "Linkerkamer"
+    ],
+    "correctAnswer": "Linkerkamer",
+    "category": "Dikte van hartwanden",
+    "reference": "Pagina 181"
+  },
+  {
+    "id": 30,
+    "question": "Waarom heeft de linkerkamer de dikste wand?",
+    "options": [
+      "Hij is het grootst",
+      "Hij pompt bloed door het hele lichaam",
+      "Hij pompt naar de longen",
+      "Hij ontvangt het meeste bloed"
+    ],
+    "correctAnswer": "Hij pompt bloed door het hele lichaam",
+    "category": "Dikte van hartwanden",
+    "reference": "Pagina 181"
+  }
+]

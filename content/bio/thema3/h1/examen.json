@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "question": "Hoeveel liter bloed heeft een volwassen mens ongeveer?",
+    "options": [
+      "3-4 liter",
+      "5-6 liter",
+      "7-8 liter",
+      "9-10 liter"
+    ],
+    "correctAnswer": "5-6 liter",
+    "category": "Bloed en transport",
+    "reference": "Pagina 158"
+  },
+  {
+    "id": 2,
+    "question": "Wat is de belangrijkste functie van bloed?",
+    "options": [
+      "Transport van stoffen",
+      "Bescherming tegen kou",
+      "Beweging mogelijk maken",
+      "Voedsel maken"
+    ],
+    "correctAnswer": "Transport van stoffen",
+    "category": "Bloed en transport",
+    "reference": "Pagina 158"
+  },
+  {
+    "id": 3,
+    "question": "Welke stoffen vervoert bloed?",
+    "options": [
+      "Alleen zuurstof",
+      "Alleen koolstofdioxide",
+      "Voedingsstoffen, zuurstof, warmte en afvalstoffen",
+      "Alleen voedingsstoffen"
+    ],
+    "correctAnswer": "Voedingsstoffen, zuurstof, warmte en afvalstoffen",
+    "category": "Bloed en transport",
+    "reference": "Pagina 158"
+  },
+  {
+    "id": 4,
+    "question": "Uit welke drie onderdelen bestaat bloed?",
+    "options": [
+      "Water, zout en suiker",
+      "Bloedplasma, bloedcellen en bloedplaatjes",
+      "Alleen bloedcellen",
+      "Zuurstof, water en bloed"
+    ],
+    "correctAnswer": "Bloedplasma, bloedcellen en bloedplaatjes",
+    "category": "Samenstelling van bloed",
+    "reference": "Pagina 158"
+  },
+  {
+    "id": 5,
+    "question": "Hoeveel procent van het bloed is bloedplasma?",
+    "options": [
+      "45%",
+      "50%",
+      "55%",
+      "60%"
+    ],
+    "correctAnswer": "55%",
+    "category": "Samenstelling van bloed",
+    "reference": "Pagina 158"
+  }
+]
