@@ -1,0 +1,426 @@
+{
+  "titel": "Biologie Hoofdstuk 6 - Thema 3: Gezond Leven",
+  "beschrijving": "Leermodule over hoe je je hart en bloedvaten gezond kunt houden, bloeddruk, slagaderverkalking en hartinfarct",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Bloeddruk",
+      "definitie": "Het hart pompt het bloed met grote kracht in de slagaders. Daardoor oefent het bloed veel druk uit op de wanden van de slagaders. Dit is de bloeddruk. De bloeddruk wordt gemeten met een bloeddrukmeter. Als je je inspant of opwindt, stijgt je bloeddruk tijdelijk. In rust daalt de bloeddruk weer.",
+      "uitleg_voor_kind": [
+        "Bloeddruk is de kracht waarmee je bloed tegen de wanden van je slagaders drukt. Als je sport of gestrest bent, wordt deze druk tijdelijk hoger.",
+        "Je hart pompt bloed met kracht door je slagaders. De druk die het bloed uitoefent op de wanden van je bloedvaten noemen we bloeddruk. Bij inspanning wordt deze druk hoger."
+      ],
+      "tekstverwijzing": "Pagina 197: 'Het hart pompt het bloed met grote kracht in de slagaders. Daardoor oefent het bloed veel druk uit op de wanden van de slagaders. Dit is de bloeddruk. Als je je inspant of opwindt, stijgt je bloeddruk tijdelijk.'",
+      "vragen": [
+        {
+          "vraag": "Wat is bloeddruk?",
+          "antwoorden": [
+            "De snelheid van bloed",
+            "De druk die bloed uitoefent op slagaderwanden",
+            "Het aantal bloedcellen",
+            "De kleur van bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er met je bloeddruk als je sport?",
+          "antwoorden": [
+            "Hij daalt",
+            "Hij stijgt tijdelijk",
+            "Hij blijft gelijk",
+            "Hij verdwijnt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarmee wordt bloeddruk gemeten?",
+          "antwoorden": [
+            "Met een thermometer",
+            "Met een bloeddrukmeter",
+            "Met een weegschaal",
+            "Met een microscoop"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Hoge bloeddruk",
+      "definitie": "Langdurig hoge bloeddruk beschadigt de wanden van de slagaders. De oorzaken van een hoge bloeddruk zijn onder andere stress, roken, overgewicht en zout eten.",
+      "uitleg_voor_kind": [
+        "Als je bloeddruk langdurig te hoog is, kunnen je bloedvaten beschadigen. Oorzaken zijn stress, roken, overgewicht en te veel zout eten.",
+        "Hoge bloeddruk is gevaarlijk voor je bloedvaten. Het wordt veroorzaakt door ongezonde dingen zoals stress, roken, te veel eten en te veel zout."
+      ],
+      "tekstverwijzing": "Pagina 197: 'Langdurig hoge bloeddruk beschadigt de wanden van de slagaders. De oorzaken van een hoge bloeddruk zijn onder andere stress, roken, overgewicht en zout eten.'",
+      "vragen": [
+        {
+          "vraag": "Wat doet langdurig hoge bloeddruk met slagaders?",
+          "antwoorden": [
+            "Maakt ze sterker",
+            "Beschadigt de wanden",
+            "Vergroot ze",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke oorzaken heeft hoge bloeddruk?",
+          "antwoorden": [
+            "Alleen stress",
+            "Stress, roken, overgewicht en zout eten",
+            "Alleen sporten",
+            "Te veel water drinken"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke voeding kan hoge bloeddruk veroorzaken?",
+          "antwoorden": [
+            "Veel groenten",
+            "Veel fruit",
+            "Veel zout",
+            "Veel water"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Slagaderverkalking",
+      "definitie": "Als de wand van een slagader beschadigd is, kunnen witte bloedcellen en vette stoffen uit het bloed in de wand komen. Deze stoffen hopen zich op. Hierdoor ontstaat een verdikking. Uiteindelijk wordt de verdikking hard door kalk. Dit noem je slagaderverkalking. Door slagaderverkalking wordt het bloedvat nauwer en minder elastisch. Het hart moet daardoor een grotere kracht leveren. Het hart kan dan overbelast raken. De bloeddruk wordt hoger. Ook krijgt het orgaan achter de vernauwing te weinig bloed en zuurstof.",
+      "uitleg_voor_kind": [
+        "Slagaderverkalking is als roest in een waterpijp: vette stoffen en kalk hopen op in je slagader, waardoor hij nauwer en stijver wordt. Je hart moet dan harder werken.",
+        "Bij slagaderverkalking stapelen vet en kalk zich op in je bloedvaten. De bloedvaten worden nauwer en je hart moet harder pompen. Organen achter de verstopping krijgen te weinig bloed en zuurstof."
+      ],
+      "tekstverwijzing": "Pagina 197: 'Als de wand van een slagader beschadigd is, kunnen witte bloedcellen en vette stoffen in de wand komen en ophopen. Er ontstaat een verdikking die hard wordt door kalk. Dit is slagaderverkalking. Het bloedvat wordt nauwer en minder elastisch.'",
+      "vragen": [
+        {
+          "vraag": "Wat is slagaderverkalking?",
+          "antwoorden": [
+            "Een verdikking door ophoping van vet en kalk",
+            "Een gebroken bloedvat",
+            "Te veel bloed",
+            "Een infectie"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Wat gebeurt er met een bloedvat bij slagaderverkalking?",
+          "antwoorden": [
+            "Het wordt wijder",
+            "Het wordt nauwer en minder elastisch",
+            "Het verdwijnt",
+            "Het wordt sterker"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is een gevolg van slagaderverkalking?",
+          "antwoorden": [
+            "Het hart werkt minder",
+            "De bloeddruk daalt",
+            "Het hart moet harder werken en bloeddruk stijgt",
+            "Niets"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Hartinfarct (hartaanval)",
+      "definitie": "In de verdikking door slagaderverkalking kunnen scheurtjes ontstaan. Dan stolt het bloed op het scheurtje. Zo'n bloedstolsel kan een slagader afsluiten. Als dit gebeurt in een kransslagader van het hart, dan krijgt een deel van het hart plotseling geen bloed meer. Iemand heeft dan een hartaanval of hartinfarct. Bij een hartinfarct sterft een deel van de hartspier af door gebrek aan zuurstof.",
+      "uitleg_voor_kind": [
+        "Een hartinfarct krijg je als een kransslagader van je hart verstopt raakt door een bloedstolsel. Een deel van je hart krijgt dan geen zuurstof meer en sterft af.",
+        "Bij een hartinfarct sluit een bloedstolsel een kransslagader af. Het stukje hartspier achter de verstopping krijgt geen bloed en zuurstof meer en gaat dood. Dit is levensgevaarlijk!"
+      ],
+      "tekstverwijzing": "Pagina 198: 'In de verdikking door slagaderverkalking kunnen scheurtjes ontstaan. Dan stolt het bloed. Een bloedstolsel kan een slagader afsluiten. Bij een kransslagader krijgt het hart geen bloed meer. Dit is een hartinfarct. Een deel van de hartspier sterft af door gebrek aan zuurstof.'",
+      "vragen": [
+        {
+          "vraag": "Wat is een hartinfarct?",
+          "antwoorden": [
+            "Een gebroken hart",
+            "Afsluiting van een kransslagader waardoor hartspier afsterft",
+            "Te veel bloed in het hart",
+            "Een infectie van het hart"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat veroorzaakt een hartinfarct?",
+          "antwoorden": [
+            "Te veel sporten",
+            "Een bloedstolsel in een kransslagader",
+            "Te veel eten",
+            "Te veel slapen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarom sterft hartspierweefsel af bij een hartinfarct?",
+          "antwoorden": [
+            "Door te veel zuurstof",
+            "Door gebrek aan zuurstof",
+            "Door te veel bloed",
+            "Door stress"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Hart- en vaatziekten",
+      "definitie": "Hart- en vaatziekten is de verzamelnaam voor ziekten aan hart en bloedvaten. Als je gezond leeft, heb je een kleinere kans op hart- en vaatziekten. Sommige mensen hebben door hun erfelijke eigenschappen meer kans op hart- en vaatziekten. Aan deze oorzaak kun je niets doen. Aan andere oorzaken kun je zelf wel wat doen.",
+      "uitleg_voor_kind": [
+        "Hart- en vaatziekten zijn alle ziekten van je hart en bloedvaten samen. Door gezond te leven kun je de kans erop verkleinen, maar sommige mensen hebben meer risico door erfelijkheid.",
+        "Hart- en vaatziekten zijn problemen met je hart of bloedvaten, zoals een hartinfarct of slagaderverkalking. Je kunt de kans verkleinen door gezond te leven!"
+      ],
+      "tekstverwijzing": "Pagina 198: 'Hart- en vaatziekten is de verzamelnaam voor ziekten aan hart en bloedvaten. Als je gezond leeft, heb je een kleinere kans. Sommige mensen hebben door erfelijke eigenschappen meer kans.'",
+      "vragen": [
+        {
+          "vraag": "Wat zijn hart- en vaatziekten?",
+          "antwoorden": [
+            "Alleen hartziekten",
+            "Ziekten aan hart en bloedvaten",
+            "Alleen vaatziekten",
+            "Longziekten"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoe kun je de kans op hart- en vaatziekten verkleinen?",
+          "antwoorden": [
+            "Door veel te eten",
+            "Door gezond te leven",
+            "Door niet te sporten",
+            "Door te roken"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke factor voor hart- en vaatziekten kun je niet beïnvloeden?",
+          "antwoorden": [
+            "Roken",
+            "Erfelijke eigenschappen",
+            "Eetgewoonten",
+            "Beweging"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Gezonde leefstijl",
+      "definitie": "Een gezonde leefstijl bestaat uit: 1) Niet roken is heel belangrijk voor hart en bloedvaten. 2) Drink geen alcohol, en na je 18e niet meer dan één glas per dag. 3) Eet gezond en gevarieerd (veel vitaminen, mineralen en vezels, weinig verzadigd vet en zout). 4) Beweeg regelmatig (minimaal een halfuur per dag). 5) Voorkom stress en zorg voor voldoende ontspanning.",
+      "uitleg_voor_kind": [
+        "Een gezonde leefstijl betekent: niet roken, geen of weinig alcohol, gezond en gevarieerd eten, elke dag bewegen, en stress vermijden. Dit houdt je hart en bloedvaten gezond!",
+        "Om gezond te blijven: rook niet, drink geen alcohol (of later max 1 glas), eet veel groenten en fruit met weinig vet en zout, sport elke dag en ontspan regelmatig."
+      ],
+      "tekstverwijzing": "Pagina 198: 'Een gezonde leefstijl: 1) Niet roken. 2) Geen alcohol (na 18e max 1 glas/dag). 3) Gezond en gevarieerd eten (veel vitaminen/vezels, weinig verzadigd vet/zout). 4) Regelmatig bewegen (min. 30 min/dag). 5) Stress voorkomen en ontspannen.'",
+      "vragen": [
+        {
+          "vraag": "Hoeveel minuten per dag moet je minimaal bewegen?",
+          "antwoorden": [
+            "10 minuten",
+            "20 minuten",
+            "30 minuten",
+            "60 minuten"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat hoort NIET bij een gezonde leefstijl?",
+          "antwoorden": [
+            "Regelmatig bewegen",
+            "Roken",
+            "Gezond eten",
+            "Ontspannen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat moet je veel eten voor een gezonde leefstijl?",
+          "antwoorden": [
+            "Zout en vet",
+            "Vitaminen, mineralen en vezels",
+            "Alleen vlees",
+            "Alleen brood"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Stress",
+      "definitie": "Stress is Engels voor spanning of druk. Als je stress hebt, voel je je gespannen. Je merkt dat bijvoorbeeld aan gespannen kaken, een snelle of hoge ademhaling of druk op de borst. Ook word je vaak sneller boos of je voelt je gefrustreerd. Stress vergroot de kans op hoge bloeddruk en op hart- en vaatziekten. Probeer stress daarom te voorkomen.",
+      "uitleg_voor_kind": [
+        "Stress is als je je gespannen voelt. Je kunt het merken aan een snel kloppend hart, snelle ademhaling of gespannen spieren. Te veel stress is slecht voor je hart en bloeddruk.",
+        "Stress is spanning in je lichaam en hoofd. Het kan je boos of gefrustreerd maken en je hartslag en ademhaling verhogen. Langdurige stress vergroot de kans op hart- en vaatziekten."
+      ],
+      "tekstverwijzing": "Pagina 199: 'Stress is spanning of druk. Je voelt je gespannen, met bijvoorbeeld gespannen kaken, snelle ademhaling of druk op de borst. Je wordt sneller boos of gefrustreerd. Stress vergroot de kans op hoge bloeddruk en hart- en vaatziekten.'",
+      "vragen": [
+        {
+          "vraag": "Wat is stress?",
+          "antwoorden": [
+            "Een ziekte",
+            "Spanning of druk",
+            "Een medicijn",
+            "Een bloedvat"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke lichamelijke verschijnselen horen bij stress?",
+          "antwoorden": [
+            "Alleen hoofdpijn",
+            "Gespannen kaken, snelle ademhaling, druk op borst",
+            "Alleen koorts",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat vergroot stress de kans op?",
+          "antwoorden": [
+            "Betere gezondheid",
+            "Hoge bloeddruk en hart- en vaatziekten",
+            "Sterkere spieren",
+            "Meer energie"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Voorkomen van hart- en vaatziekten",
+      "definitie": "De kans op slagaderverkalking wordt kleiner als je niet rookt, gezond eet en regelmatig beweegt. Door een gezonde leefstijl te volgen, kun je hart- en vaatziekten voorkomen of de kans erop verkleinen.",
+      "uitleg_voor_kind": [
+        "Je kunt hart- en vaatziekten grotendeels voorkomen door: niet te roken, gezond te eten (weinig vet en zout), en elke dag te bewegen. Dit houdt je hart en bloedvaten sterk!",
+        "Om je hart gezond te houden: rook nooit, eet veel groenten en fruit, vermijd te veel vet en zout, en sport regelmatig. Zo blijven je bloedvaten schoon en flexibel."
+      ],
+      "tekstverwijzing": "Pagina 197-198: 'De kans op slagaderverkalking wordt kleiner als je niet rookt, gezond eet en regelmatig beweegt. Een gezonde leefstijl verkleint de kans op hart- en vaatziekten.'",
+      "vragen": [
+        {
+          "vraag": "Hoe kun je hart- en vaatziekten voorkomen?",
+          "antwoorden": [
+            "Door veel te roken",
+            "Door niet te roken, gezond te eten en te bewegen",
+            "Door veel zout te eten",
+            "Door niet te bewegen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat verkleint de kans op slagaderverkalking?",
+          "antwoorden": [
+            "Roken",
+            "Niet roken, gezond eten en bewegen",
+            "Stress",
+            "Zout eten"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke activiteit is goed voor je hart en bloedvaten?",
+          "antwoorden": [
+            "Veel zitten",
+            "Regelmatig bewegen",
+            "Roken",
+            "Veel snoepen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "begrip": "Gevolgen van slagaderverkalking",
+      "definitie": "Door slagaderverkalking wordt het bloedvat nauwer en minder elastisch. Het hart moet daardoor een grotere kracht leveren. Het hart kan dan overbelast raken. De bloeddruk wordt hoger. Ook krijgt het orgaan achter de vernauwing te weinig bloed. Daardoor krijgt het orgaan te weinig zuurstof. Het werkt dan slechter of helemaal niet meer.",
+      "uitleg_voor_kind": [
+        "Slagaderverkalking maakt bloedvaten smaller en stijver. Je hart moet harder pompen (hogere bloeddruk) en organen achter de verstopping krijgen te weinig zuurstof, waardoor ze slecht of niet meer werken.",
+        "Als je bloedvaten verkalken, worden ze nauw en stijf. Je hart raakt overbelast door harder te moeten pompen. Organen krijgen te weinig bloed en zuurstof, en kunnen beschadigd raken."
+      ],
+      "tekstverwijzing": "Pagina 197: 'Door slagaderverkalking wordt het bloedvat nauwer en minder elastisch. Het hart moet harder werken en kan overbelast raken. De bloeddruk wordt hoger. Het orgaan achter de vernauwing krijgt te weinig bloed en zuurstof en werkt slechter of niet meer.'",
+      "vragen": [
+        {
+          "vraag": "Wat gebeurt er met de bloeddruk bij slagaderverkalking?",
+          "antwoorden": [
+            "Hij daalt",
+            "Hij stijgt",
+            "Hij blijft gelijk",
+            "Hij verdwijnt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat moet het hart doen bij slagaderverkalking?",
+          "antwoorden": [
+            "Minder hard werken",
+            "Harder werken",
+            "Stoppen",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat krijgen organen achter een vernauwing te weinig?",
+          "antwoorden": [
+            "Water",
+            "Bloed en zuurstof",
+            "Voedsel",
+            "Warmte"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "begrip": "Bloedstolsel bij slagaderverkalking",
+      "definitie": "In de verdikking door slagaderverkalking kunnen scheurtjes ontstaan. Dan stolt het bloed op het scheurtje. Dit kun je vergelijken met een korstje op een wondje op de huid. Zo'n bloedstolsel kan een slagader afsluiten. Dit kan leiden tot een hartinfarct als het in een kransslagader gebeurt.",
+      "uitleg_voor_kind": [
+        "In een verkalkte slagader kunnen scheurtjes ontstaan. Je lichaam probeert dit te repareren met een bloedstolsel (zoals een korstje), maar dat kan de slagader helemaal afsluiten - dat is gevaarlijk!",
+        "Als er een scheurtje zit in een verkalkte plek in je bloedvat, maakt je lichaam daar een stolsel. Dit is eigenlijk een reparatie, maar het kan het bloedvat verstoppen en een hartinfarct veroorzaken."
+      ],
+      "tekstverwijzing": "Pagina 198: 'In de verdikking door slagaderverkalking kunnen scheurtjes ontstaan. Dan stolt het bloed op het scheurtje, vergelijkbaar met een korstje. Zo'n bloedstolsel kan een slagader afsluiten.'",
+      "vragen": [
+        {
+          "vraag": "Wat kan er ontstaan in een verdikking door slagaderverkalking?",
+          "antwoorden": [
+            "Nieuwe bloedvaten",
+            "Scheurtjes",
+            "Meer bloed",
+            "Spieren"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er op een scheurtje in een slagader?",
+          "antwoorden": [
+            "Niets",
+            "Het bloed stolt",
+            "Het geneest direct",
+            "Het wordt groter"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarmee kun je een bloedstolsel vergelijken?",
+          "antwoorden": [
+            "Met een wond",
+            "Met een korstje op een wondje",
+            "Met bloed",
+            "Met een spier"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    }
+  ]
+}

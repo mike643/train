@@ -1,0 +1,80 @@
+{
+  "vakken": {
+    "biologie": {
+      "naam": "Biologie",
+      "themas": {
+        "thema3": {
+          "naam": "Thema 3: De Bloedsomloop",
+          "beschrijving": "Alles over bloed, het hart en de bloedsomloop",
+          "hoofdstukken": [
+            {
+              "id": "H1",
+              "naam": "Bloed",
+              "beschrijving": "Samenstelling en functies van bloed",
+              "bestand": "bio/thema3/h1/h1.json",
+              "aantal_begrippen": 8
+            },
+            {
+              "id": "H2",
+              "naam": "De bloedsomloop",
+              "beschrijving": "Het transport van bloed door het lichaam",
+              "bestand": "bio/thema3/h2/h2.json",
+              "aantal_begrippen": 11
+            },
+            {
+              "id": "H3",
+              "naam": "Het hart",
+              "beschrijving": "Opbouw en werking van het hart",
+              "bestand": "bio/thema3/h3/h3.json",
+              "aantal_begrippen": 10
+            },
+            {
+              "id": "H4",
+              "naam": "Nieren en uitscheiding",
+              "beschrijving": "Het uitscheidingssysteem en de nieren",
+              "bestand": "bio/thema3/h4/h4.json",
+              "aantal_begrippen": 8
+            },
+            {
+              "id": "H5",
+              "naam": "Afweer",
+              "beschrijving": "Het immuunsysteem en bescherming tegen ziektes",
+              "bestand": "bio/thema3/h5/h5.json",
+              "aantal_begrippen": 9
+            },
+            {
+              "id": "H6",
+              "naam": "Gezond leven",
+              "beschrijving": "Hart- en vaatziekten en gezonde leefstijl",
+              "bestand": "bio/thema3/h6/h6.json",
+              "aantal_begrippen": 10
+            }
+          ]
+        }
+      }
+    },
+    "aardrijkskunde": {
+      "naam": "Aardrijkskunde",
+      "themas": {
+        "migratie": {
+          "naam": "Migratie en Bevolking",
+          "hoofdstukken": [
+            {
+              "id": "H1",
+              "naam": "Migratie en Bevolking",
+              "beschrijving": "Alle begrippen over migratie, vluchtelingen, cultuur en mensenrechten",
+              "bestand": "aardrijkskunde_leermodule.json",
+              "aantal_begrippen": 27
+            }
+          ]
+        }
+      }
+    }
+  },
+  "metadata": {
+    "versie": "1.0",
+    "laatst_bijgewerkt": "2026-02-18",
+    "totaal_vakken": 2,
+    "totaal_begrippen": 83
+  }
+}

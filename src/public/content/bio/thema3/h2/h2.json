@@ -1,0 +1,468 @@
+{
+  "titel": "Biologie Hoofdstuk 2 - Thema 3: De Bloedsomloop",
+  "beschrijving": "Leermodule over het bloedvatenstelsel, typen bloedvaten en de kleine en grote bloedsomloop",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Bloedvatenstelsel en bloedsomloop",
+      "definitie": "Het bloedvatenstelsel van de mens bestaat uit het hart en de bloedvaten. Door het hele lichaam lopen grote en kleine bloedvaten. Het hart pompt het bloed door de bloedvaten. De weg die het bloed door het lichaam aflegt, noem je de bloedsomloop.",
+      "uitleg_voor_kind": [
+        "Het bloedvatenstelsel is als een netwerk van wegen door je hele lichaam. Je hart is de pomp die het bloed door al die wegen stuurt.",
+        "Je hebt overal in je lichaam buisjes (bloedvaten) waar bloed doorheen stroomt. Je hart pompt het bloed rond, zodat het overal komt waar het nodig is."
+      ],
+      "tekstverwijzing": "Pagina 166-167: 'Het bloedvatenstelsel van de mens bestaat uit het hart en de bloedvaten. Het hart pompt het bloed door de bloedvaten. De weg die het bloed door het lichaam aflegt, noem je de bloedsomloop.'",
+      "vragen": [
+        {
+          "vraag": "Waaruit bestaat het bloedvatenstelsel?",
+          "antwoorden": [
+            "Alleen het hart",
+            "Hart en bloedvaten",
+            "Alleen bloedvaten",
+            "Hart en longen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat doet het hart?",
+          "antwoorden": [
+            "Het maakt bloed aan",
+            "Het pompt bloed door de bloedvaten",
+            "Het filtert bloed",
+            "Het verwarmt bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de bloedsomloop?",
+          "antwoorden": [
+            "De kleur van bloed",
+            "De snelheid van bloed",
+            "De weg die het bloed door het lichaam aflegt",
+            "Het aantal bloedcellen"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Drie typen bloedvaten",
+      "definitie": "Er zijn drie typen bloedvaten: slagaders, haarvaten en aders. Het hart pompt het bloed in de slagaders. Door de slagaders stroomt het bloed naar de organen toe. In de organen vertakken de slagaders zich in steeds fijnere bloedvaten. De kleinste bloedvaatjes noem je haarvaten. De haarvaten komen weer samen in grotere bloedvaten: de aders. Door de aders stroomt het bloed terug naar het hart.",
+      "uitleg_voor_kind": [
+        "Je lichaam heeft drie soorten bloedvaten: slagaders (van het hart naar je organen), haarvaten (hele kleine vaatjes in je organen) en aders (terug naar je hart).",
+        "Bloedvaten zijn als een wegennet: grote wegen (slagaders) vanaf het hart, kleine straatjes (haarvaten) in je organen, en grote wegen terug (aders) naar het hart."
+      ],
+      "tekstverwijzing": "Pagina 167: 'Er zijn drie typen bloedvaten: slagaders, haarvaten en aders. Door slagaders stroomt bloed naar organen, haarvaten zijn de kleinste bloedvaatjes, en door aders stroomt bloed terug naar het hart.'",
+      "vragen": [
+        {
+          "vraag": "Hoeveel typen bloedvaten zijn er?",
+          "antwoorden": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat zijn de kleinste bloedvaatjes?",
+          "antwoorden": [
+            "Slagaders",
+            "Aders",
+            "Haarvaten",
+            "Aderen"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Waar stroomt het bloed naartoe door slagaders?",
+          "antwoorden": [
+            "Terug naar het hart",
+            "Naar de organen toe",
+            "Nergens naartoe",
+            "Naar de longen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Slagaders",
+      "definitie": "Het hart pompt het bloed in de slagaders. Door de slagaders stroomt het bloed met kracht weg van het hart, naar de organen toe. Daardoor is de bloeddruk op de wand van slagaders hoog. De wanden van de slagaders zijn dik, gespierd en elastisch. Als het hart bloed in de slagaders perst, zetten de slagaders uit. Daarna veren ze weer terug. Dat kun je voelen aan je pols (de polsslag). De meeste slagaders liggen dieper in het lichaam.",
+      "uitleg_voor_kind": [
+        "Slagaders hebben dikke, sterke wanden omdat het bloed er met veel kracht doorheen stroomt. Als je je pols voelt, voel je een slagader kloppen!",
+        "Slagaders brengen bloed van je hart naar je organen. Ze zijn elastisch en kunnen uitrekken als je hart pompt. Daarom voel je je hartslag in je pols."
+      ],
+      "tekstverwijzing": "Pagina 169: 'Door slagaders stroomt het bloed met kracht weg van het hart. De bloeddruk is hoog. De wanden zijn dik, gespierd en elastisch. De slagaders zetten uit en veren terug (polsslag).'",
+      "vragen": [
+        {
+          "vraag": "Hoe zijn de wanden van slagaders?",
+          "antwoorden": [
+            "Dun en slap",
+            "Dik, gespierd en elastisch",
+            "Gemaakt van één cellaag",
+            "Heel poreus"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Is de bloeddruk in slagaders hoog of laag?",
+          "antwoorden": [
+            "Laag",
+            "Hoog",
+            "Gemiddeld",
+            "Er is geen bloeddruk"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat kun je voelen aan je pols?",
+          "antwoorden": [
+            "De polsslag door een slagader",
+            "Aders kloppen",
+            "Haarvaten",
+            "De temperatuur"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Haarvaten",
+      "definitie": "De slagaders vertakken zich in de organen tot steeds kleinere bloedvaten. De wand van de haarvaten bestaat uit maar één laag cellen. In de haarvaten neemt de bloeddruk sterk af. Door de dunne wand kan vocht de haarvaten verlaten naar de cellen toe. In het vocht zitten zuurstof en voedingsstoffen. De cellen verbruiken de zuurstof en de voedingsstoffen bij de verbranding. Daarbij komen koolstofdioxide en andere afvalstoffen vrij. Koolstofdioxide en andere afvalstoffen kunnen in het bloed in de haarvaten worden opgenomen.",
+      "uitleg_voor_kind": [
+        "Haarvaten zijn superdunne bloedvaatjes met wanden van maar één cellaag. Hier kunnen zuurstof en voedingsstoffen naar je cellen gaan, en afval komt weer terug.",
+        "Haarvaten zijn zo dun dat stoffen erdoorheen kunnen. Zo krijgen je cellen zuurstof en voedsel, en geven ze afval weer terug aan het bloed."
+      ],
+      "tekstverwijzing": "Pagina 169: 'De wand van de haarvaten bestaat uit maar één laag cellen. Door de dunne wand kan vocht met zuurstof en voedingsstoffen naar de cellen toe. Koolstofdioxide en afvalstoffen worden opgenomen in het bloed.'",
+      "vragen": [
+        {
+          "vraag": "Uit hoeveel cellagen bestaat de wand van haarvaten?",
+          "antwoorden": [
+            "Drie",
+            "Twee",
+            "Één",
+            "Vier"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat gebeurt er in de haarvaten?",
+          "antwoorden": [
+            "Bloed wordt gemaakt",
+            "Uitwisseling van stoffen tussen bloed en cellen",
+            "Bloed wordt gefilterd",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat verlaat de haarvaten naar de cellen toe?",
+          "antwoorden": [
+            "Alleen water",
+            "Zuurstof en voedingsstoffen",
+            "Alleen koolstofdioxide",
+            "Bloedcellen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Aders",
+      "definitie": "De haarvaten komen samen in aders. De bloeddruk in de aders is laag. De wanden van de aders zijn dunner en minder elastisch dan die van de slagaders. In de aders is geen hartslag meer voelbaar. De aders liggen meestal minder diep in het lichaam. Het hart zuigt het bloed uit de aders terug. Veel aders bevatten kleppen, vooral de aders in armen en benen. Deze kleppen laten het bloed maar in één richting door. Zo helpen de kleppen mee om het bloed terug te voeren naar het hart. Ze voorkomen dat het bloed door de zwaartekracht terugstroomt naar de organen.",
+      "uitleg_voor_kind": [
+        "Aders brengen bloed terug naar je hart. Ze hebben kleppen erin, zoals deurtjes die maar één kant op open kunnen, zodat het bloed niet terug kan stromen.",
+        "Je kunt aders zien als blauwe streepjes op je handen. Ze hebben dunne wanden en kleppen die ervoor zorgen dat het bloed alleen naar je hart toe stroomt."
+      ],
+      "tekstverwijzing": "Pagina 170: 'De bloeddruk in aders is laag. De wanden zijn dunner en minder elastisch dan slagaders. Veel aders bevatten kleppen die het bloed maar in één richting doorlaten.'",
+      "vragen": [
+        {
+          "vraag": "Is de bloeddruk in aders hoog of laag?",
+          "antwoorden": [
+            "Hoog",
+            "Laag",
+            "Gemiddeld",
+            "Heel hoog"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat hebben veel aders in armen en benen?",
+          "antwoorden": [
+            "Spieren",
+            "Kleppen",
+            "Celkernen",
+            "Hemoglobine"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de functie van kleppen in aders?",
+          "antwoorden": [
+            "Bloed sneller laten stromen",
+            "Voorkomen dat bloed terugstroomt",
+            "Bloed filteren",
+            "Zuurstof toevoegen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Kleine bloedsomloop",
+      "definitie": "Het hart is een dubbele pomp. De rechterhelft van het hart pompt het bloed naar de longen. Vanuit de longen stroomt het bloed weer terug naar het hart. Dit deel van de bloedsomloop heet de kleine bloedsomloop. In de kleine bloedsomloop wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven aan de lucht. Dit gebeurt in de longen.",
+      "uitleg_voor_kind": [
+        "De kleine bloedsomloop gaat van je hart naar je longen en terug. Hier haalt je bloed zuurstof op en geeft koolstofdioxide af (dat adem je uit).",
+        "Bij de kleine bloedsomloop pompt de rechterhelft van je hart bloed naar je longen. Daar wordt het bloed weer vol met zuurstof en komt het terug naar je hart."
+      ],
+      "tekstverwijzing": "Pagina 168: 'De rechterhelft van het hart pompt het bloed naar de longen. Vanuit de longen stroomt het bloed weer terug. Dit heet de kleine bloedsomloop. Hier wordt zuurstof opgenomen en koolstofdioxide afgegeven.'",
+      "vragen": [
+        {
+          "vraag": "Waar gaat het bloed naartoe in de kleine bloedsomloop?",
+          "antwoorden": [
+            "Naar de spieren",
+            "Naar de longen",
+            "Naar de lever",
+            "Naar de darmen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er in de kleine bloedsomloop?",
+          "antwoorden": [
+            "Voedsel wordt opgenomen",
+            "Zuurstof wordt opgenomen en CO₂ afgegeven",
+            "Alleen CO₂ wordt afgegeven",
+            "Afval wordt gefilterd"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke harthelft pompt bloed naar de longen?",
+          "antwoorden": [
+            "Linkerhelft",
+            "Rechterhelft",
+            "Beide",
+            "Geen van beide"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Grote bloedsomloop",
+      "definitie": "Vanuit de kleine bloedsomloop komt het bloed in de linkerhelft van het hart. Deze harthelft pompt het bloed door de organen in het hele lichaam. Vanuit de organen stroomt het bloed weer terug naar de rechterhelft van het hart. Dit deel van de bloedsomloop heet de grote bloedsomloop. In de grote bloedsomloop worden zuurstof en voedingsstoffen (zoals glucose) afgegeven aan de cellen. Koolstofdioxide en andere afvalstoffen worden opgenomen in het bloed.",
+      "uitleg_voor_kind": [
+        "De grote bloedsomloop gaat van je hart naar al je organen (spieren, hersenen, etc.) en terug. Hier brengt het bloed zuurstof en voedsel, en haalt het afval op.",
+        "Bij de grote bloedsomloop pompt de linkerhelft van je hart zuurstofrijk bloed naar je hele lichaam. Het bloed levert zuurstof en voedsel af en haalt afval op."
+      ],
+      "tekstverwijzing": "Pagina 169: 'De linkerhelft van het hart pompt het bloed door de organen in het hele lichaam. Dit heet de grote bloedsomloop. Hier worden zuurstof en voedingsstoffen afgegeven, en CO₂ en afvalstoffen opgenomen.'",
+      "vragen": [
+        {
+          "vraag": "Welke harthelft pompt bloed door het hele lichaam?",
+          "antwoorden": [
+            "Rechterhelft",
+            "Linkerhelft",
+            "Beide",
+            "Geen van beide"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat wordt er afgegeven in de grote bloedsomloop?",
+          "antwoorden": [
+            "Alleen zuurstof",
+            "Alleen voedingsstoffen",
+            "Zuurstof en voedingsstoffen",
+            "Afvalstoffen"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat wordt er opgenomen in de grote bloedsomloop?",
+          "antwoorden": [
+            "Zuurstof",
+            "Koolstofdioxide en afvalstoffen",
+            "Alleen water",
+            "Voedingsstoffen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Dubbele bloedsomloop",
+      "definitie": "Per omloop stroomt het bloed twee keer door het hart. Daarom noem je de bloedsomloop bij mensen een dubbele bloedsomloop. Het hart is een dubbele pomp met een rechterhelft die bloed naar de longen pompt (kleine bloedsomloop) en een linkerhelft die bloed door het hele lichaam pompt (grote bloedsomloop).",
+      "uitleg_voor_kind": [
+        "Je bloed gaat twee keer door je hart bij elke ronde: eerst door de rechterhelft naar je longen, dan door de linkerhelft naar je lichaam. Daarom heet het een dubbele bloedsomloop.",
+        "Bij mensen gaat bloed altijd twee keer door het hart: één keer bij de kleine bloedsomloop (longen) en één keer bij de grote bloedsomloop (rest van je lichaam)."
+      ],
+      "tekstverwijzing": "Pagina 169: 'Per omloop stroomt het bloed twee keer door het hart. Daarom noem je de bloedsomloop bij mensen een dubbele bloedsomloop.'",
+      "vragen": [
+        {
+          "vraag": "Hoe vaak stroomt bloed per omloop door het hart?",
+          "antwoorden": [
+            "Één keer",
+            "Twee keer",
+            "Drie keer",
+            "Vier keer"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarom heet het een dubbele bloedsomloop?",
+          "antwoorden": [
+            "Er zijn twee harten",
+            "Het bloed gaat twee keer door het hart",
+            "Er zijn twee bloedvaten",
+            "Het duurt twee uur"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke twee bloedsomloopen zijn er?",
+          "antwoorden": [
+            "Grote en kleine",
+            "Linker en rechter",
+            "Voor en achter",
+            "Boven en onder"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "begrip": "Zuurstofrijk en zuurstofarm bloed",
+      "definitie": "In tekeningen van bloedvaten zie je meestal rode en blauwe bloedvaten. Rood betekent dat het bloed in de bloedvaten veel zuurstof bevat. Blauw betekent dat het bloed weinig zuurstof bevat. In werkelijkheid is al je bloed rood. Zuurstofrijk bloed is helderrood en zuurstofarm bloed is donkerrood.",
+      "uitleg_voor_kind": [
+        "In plaatjes zijn bloedvaten rood (veel zuurstof) of blauw (weinig zuurstof). Maar echt bloed is altijd rood! Het is helderrood met veel zuurstof en donkerrood met weinig zuurstof.",
+        "Je bloed is nooit echt blauw. Met veel zuurstof is het helderrood, met weinig zuurstof donkerrood. In tekeningen gebruiken we blauw om het verschil te laten zien."
+      ],
+      "tekstverwijzing": "Pagina 167: 'Rood betekent dat het bloed veel zuurstof bevat. Blauw betekent weinig zuurstof. In werkelijkheid is al je bloed rood. Zuurstofrijk bloed is helderrood en zuurstofarm bloed is donkerrood.'",
+      "vragen": [
+        {
+          "vraag": "Welke kleur heeft zuurstofrijk bloed in werkelijkheid?",
+          "antwoorden": [
+            "Blauw",
+            "Helderrood",
+            "Donkerrood",
+            "Paars"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke kleur heeft zuurstofarm bloed in werkelijkheid?",
+          "antwoorden": [
+            "Blauw",
+            "Helderrood",
+            "Donkerrood",
+            "Groen"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Waarom zijn sommige bloedvaten blauw getekend?",
+          "antwoorden": [
+            "Ze zijn echt blauw",
+            "Om te laten zien dat het bloed weinig zuurstof bevat",
+            "Ze zijn kouder",
+            "Ze zitten dieper"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "begrip": "Naamgeving bloedvaten",
+      "definitie": "Slagaders hebben meestal de naam van het orgaan waar ze naartoe lopen. Door de beenslagaders bijvoorbeeld stroomt bloed naar de benen toe. Aders hebben meestal de naam van het orgaan waar ze vandaan komen. Door de beenaders stroomt bloed uit de benen weg. De bloedvaten van en naar het hart hebben andere namen: onderste holle ader, bovenste holle ader en aorta.",
+      "uitleg_voor_kind": [
+        "Bloedvaten krijgen hun naam van het orgaan waar ze heen gaan (slagaders) of vandaan komen (aders). Beenslagaders gaan naar je benen, beenaders komen van je benen.",
+        "Bloedvaten hebben logische namen: een nierslagader gaat naar je nier, een nierader komt van je nier. De grote bloedvaten bij je hart hebben speciale namen zoals de aorta."
+      ],
+      "tekstverwijzing": "Pagina 167: 'Slagaders hebben meestal de naam van het orgaan waar ze naartoe lopen. Aders hebben meestal de naam van het orgaan waar ze vandaan komen. Bloedvaten van/naar het hart: onderste holle ader, bovenste holle ader en aorta.'",
+      "vragen": [
+        {
+          "vraag": "Hoe krijgen slagaders meestal hun naam?",
+          "antwoorden": [
+            "Van de kleur",
+            "Van het orgaan waar ze naartoe gaan",
+            "Willekeurig",
+            "Van de grootte"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar gaat een beenslagader naartoe?",
+          "antwoorden": [
+            "Naar de longen",
+            "Naar de benen",
+            "Naar het hoofd",
+            "Naar het hart"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de aorta?",
+          "antwoorden": [
+            "Een ader in het been",
+            "Een grote slagader bij het hart",
+            "Een haarvat",
+            "Een orgaan"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "begrip": "Poortader",
+      "definitie": "De poortader is een uitzondering. Dit bloedvat vervoert bloed van de darmwand naar de lever. Het bloed in de poortader bevat weinig zuurstof, want de zuurstof is in de darmwand gebruikt voor de verbranding. Na een maaltijd bevat het bloed in de poortader veel voedingsstoffen. Die zijn via de darmwand in het bloed opgenomen. De poortader vervoert de voedingsstoffen naar de lever.",
+      "uitleg_voor_kind": [
+        "De poortader is speciaal: hij gaat van je darmen naar je lever en brengt voedingsstoffen die je hebt gegeten naar de lever om te verwerken.",
+        "Na het eten zitten er veel voedingsstoffen in je bloed bij de darmen. De poortader brengt dit bloed naar je lever, die de voedingsstoffen verwerkt en opslaat."
+      ],
+      "tekstverwijzing": "Pagina 168: 'De poortader vervoert bloed van de darmwand naar de lever. Het bloed bevat weinig zuurstof maar na een maaltijd veel voedingsstoffen. De poortader vervoert de voedingsstoffen naar de lever.'",
+      "vragen": [
+        {
+          "vraag": "Waar loopt de poortader tussen?",
+          "antwoorden": [
+            "Hart en longen",
+            "Darmwand en lever",
+            "Benen en hart",
+            "Hoofd en hart"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat vervoert de poortader vooral na een maaltijd?",
+          "antwoorden": [
+            "Zuurstof",
+            "Voedingsstoffen",
+            "Alleen water",
+            "Koolstofdioxide"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Bevat het bloed in de poortader veel of weinig zuurstof?",
+          "antwoorden": [
+            "Veel zuurstof",
+            "Weinig zuurstof",
+            "Geen zuurstof",
+            "Heel veel zuurstof"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    }
+  ]
+}

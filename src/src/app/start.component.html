@@ -1,8 +1,50 @@
-<div style="max-width:700px;margin:auto;text-align:center">
-  <h2>Start begrippen leren</h2>
-  <p>Klik op Start om te beginnen met het eerste begrip.</p>
-  <button (click)="startLeren()">Start leren</button>
-  <button (click)="startExamen()">Start examen</button>
-  <hr />
+<div style="max-width:700px;margin:auto;padding:1rem">
+  <h2>Start Leren</h2>
+  
+  @if (!selectedVak()) {
+    <div>
+      <h3>Selecteer een Vak</h3>
+      <div style="display:flex;flex-direction:column;gap:0.5rem">
+        @for (vak of allVakken(); track vak.id) {
+          <button (click)="selectVak(vak.id)" style="padding:0.75rem;text-align:left">
+            <strong>{{ vak.naam }}</strong>
+          </button>
+        }
+      </div>
+    </div>
+  }
 
+  @if (selectedVak() && !selectedThema()) {
+    <div>
+      <button (click)="selectedVak.set(null)" style="margin-bottom:1rem">← Terug naar Vakken</button>
+      <h3>Selecteer een Thema</h3>
+      <div style="display:flex;flex-direction:column;gap:0.5rem">
+        @for (thema of themaForVak(); track thema.id) {
+          <button (click)="selectThema(thema.id)" style="padding:0.75rem;text-align:left">
+            <strong>{{ thema.naam }}</strong>
+            <p style="margin:0.25rem 0 0 0;font-size:0.9em;color:#666">{{ thema.beschrijving }}</p>
+          </button>
+        }
+      </div>
+    </div>
+  }
+
+  @if (selectedVak() && selectedThema()) {
+    <div>
+      <button (click)="selectedThema.set(null)" style="margin-bottom:1rem">← Terug naar Thema's</button>
+      <h3>Selecteer een Hoofdstuk</h3>
+      <div style="display:flex;flex-direction:column;gap:0.5rem">
+        @for (h of hoofdstukkenvoor(); track h.id) {
+          <button (click)="selectHoofdstuk(h)" style="padding:0.75rem;text-align:left">
+            <strong>{{ h.naam }}</strong>
+            <p style="margin:0.25rem 0 0 0;font-size:0.9em;color:#666">{{ h.beschrijving }}</p>
+            <p style="margin:0.1rem 0 0 0;font-size:0.85em;color:#999">{{ h.aantal_begrippen }} begrippen</p>
+          </button>
+        }
+      </div>
+    </div>
+  }
+
+  <hr />
+  <button (click)="startExamen()" style="margin-top:1rem;padding:0.5rem">Start Examen</button>
 </div>
