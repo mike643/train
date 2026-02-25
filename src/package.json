@@ -4,9 +4,10 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "ng build --base-href /train/",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "publish": "npx angular-cli-ghpages --dir=dist/train/browser --no-silent"
   },
   "prettier": {
     "printWidth": 100,

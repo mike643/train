@@ -35,12 +35,32 @@ export class BegrippenService {
       this.data = {};
       rawData.begrippen.forEach((item: any) => {
         const key = item.begrip;
+        
+        // Transform vragen to the format expected by BegripComponent
+        const mc_vragen = (item.vragen || []).map((v: any) => {
+          if (Array.isArray(v.antwoorden)) {
+            // New format: antwoorden is array, juiste_antwoord is index
+            const opties: Record<string, string> = {};
+            const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+            v.antwoorden.forEach((antwoord: string, idx: number) => {
+              opties[letters[idx] || idx.toString()] = antwoord;
+            });
+            return {
+              vraag: v.vraag,
+              opties: opties,
+              juiste_antwoord: letters[v.juiste_antwoord || 0] || '0'
+            };
+          }
+          // Old format: assume it's already correct
+          return v;
+        });
+        
         this.data![key] = {
           boek_omschrijving: item.definitie,
           eenvoudige_omschrijving_1: item.uitleg_voor_kind?.[0] || '',
           eenvoudige_omschrijving_2: item.uitleg_voor_kind?.[1] || '',
           ezelsbrug: item.ezelsbrug || '',
-          mc_vragen: item.vragen || []
+          mc_vragen: mc_vragen
         };
       });
     } else {
