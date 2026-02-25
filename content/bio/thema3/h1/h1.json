@@ -1,0 +1,342 @@
+{
+  "titel": "Biologie Hoofdstuk 1 - Thema 3: Bloed",
+  "beschrijving": "Leermodule over de bestanddelen van bloed met hun kenmerken en functies",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Bloed en transport",
+      "definitie": "Een volwassen mens heeft vijf tot zes liter bloed. Bloed vervoert zuurstof en koolstofdioxide door je lichaam, en nog vele andere stoffen. De functie van bloed is vervoer van alles wat nodig is om het lichaam te laten functioneren. Bloed vervoert onder andere voedingsstoffen, zuurstof en warmte. Koolstofdioxide en andere afvalstoffen worden door het bloed afgevoerd.",
+      "uitleg_voor_kind": [
+        "Bloed is als een busje dat spullen door je lichaam brengt. Het brengt zuurstof en voedsel naar je spieren en hersenen, en haalt afval weer op.",
+        "Je hebt ongeveer 5 tot 6 liter bloed in je lijf. Dat is net zoveel als een grote fles limonade! Het reist de hele dag door je lichaam om alles wat je nodig hebt te brengen."
+      ],
+      "tekstverwijzing": "Pagina 158: 'Een volwassen mens heeft vijf tot zes liter bloed. Bloed vervoert zuurstof en koolstofdioxide door je lichaam, en nog vele andere stoffen.'",
+      "vragen": [
+        {
+          "vraag": "Hoeveel liter bloed heeft een volwassen mens ongeveer?",
+          "antwoorden": [
+            "3-4 liter",
+            "5-6 liter",
+            "7-8 liter",
+            "9-10 liter"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de belangrijkste functie van bloed?",
+          "antwoorden": [
+            "Transport van stoffen",
+            "Bescherming tegen kou",
+            "Beweging mogelijk maken",
+            "Voedsel maken"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Welke stoffen vervoert bloed?",
+          "antwoorden": [
+            "Alleen zuurstof",
+            "Alleen koolstofdioxide",
+            "Voedingsstoffen, zuurstof, warmte en afvalstoffen",
+            "Alleen voedingsstoffen"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Samenstelling van bloed",
+      "definitie": "Bloed bestaat uit de vloeistof bloedplasma met daarin bloedcellen en bloedplaatjes. Ongeveer 55% van het bloed is bloedplasma, de rest (45%) bestaat uit bloedplaatjes en bloedcellen.",
+      "uitleg_voor_kind": [
+        "Bloed is een soep met verschillende dingen erin. De vloeistof heet bloedplasma en daarin drijven bloedcellen en bloedplaatjes.",
+        "Iets meer dan de helft van je bloed (55%) is een gele vloeistof. De rest zijn kleine deeltjes die allerlei belangrijke taken hebben."
+      ],
+      "tekstverwijzing": "Pagina 158: 'Bloed bestaat uit de vloeistof bloedplasma met daarin bloedcellen en bloedplaatjes. Ongeveer 55% van het bloed is bloedplasma, de rest (45%) bestaat uit bloedplaatjes en bloedcellen.'",
+      "vragen": [
+        {
+          "vraag": "Uit welke drie onderdelen bestaat bloed?",
+          "antwoorden": [
+            "Water, zout en suiker",
+            "Bloedplasma, bloedcellen en bloedplaatjes",
+            "Alleen bloedcellen",
+            "Zuurstof, water en bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel procent van het bloed is bloedplasma?",
+          "antwoorden": [
+            "45%",
+            "50%",
+            "55%",
+            "60%"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Welke kleur heeft bloedplasma?",
+          "antwoorden": [
+            "Rood",
+            "Wit",
+            "Gelig",
+            "Blauw"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Bloedplasma",
+      "definitie": "Bloedplasma bestaat uit 91% water, 7% eiwitten en 2% opgeloste stoffen (zoals mineralen en zouten). Het bloedplasma vervoert vele stoffen, zoals voedingsstoffen, koolstofdioxide en andere afvalstoffen, en (een beetje) zuurstof.",
+      "uitleg_voor_kind": [
+        "Bloedplasma is de gele vloeistof in je bloed. Het bestaat bijna helemaal uit water (91%), met wat eiwitten en zouten erin opgelost.",
+        "Bloedplasma is als een bezorgdienst die voedsel en afval door je lichaam vervoert. Het is vooral water waar andere stoffen in oplossen."
+      ],
+      "tekstverwijzing": "Pagina 159: 'Bloedplasma bestaat uit: 7% eiwitten, 91% water, 2% opgeloste stoffen. Het bloedplasma vervoert vele stoffen, zoals voedingsstoffen, koolstofdioxide en andere afvalstoffen.'",
+      "vragen": [
+        {
+          "vraag": "Uit welke hoofdbestanddelen bestaat bloedplasma?",
+          "antwoorden": [
+            "Water, eiwitten en opgeloste stoffen",
+            "Alleen water",
+            "Bloed en zout",
+            "Zuurstof en water"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Hoeveel procent van bloedplasma is water?",
+          "antwoorden": [
+            "55%",
+            "70%",
+            "91%",
+            "100%"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat vervoert bloedplasma?",
+          "antwoorden": [
+            "Alleen zuurstof",
+            "Voedingsstoffen, koolstofdioxide en afvalstoffen",
+            "Alleen afvalstoffen",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Rode bloedcellen",
+      "definitie": "Rode bloedcellen hebben de vorm van kleine ronde schijfjes. Ze zijn in het midden iets dunner dan aan de rand. Rode bloedcellen hebben geen celkern. In één kubieke millimeter bloed zitten ongeveer vijf miljoen rode bloedcellen. Rode bloedcellen vervoeren zuurstof. Ze bevatten hemoglobine, een stof met een rode kleur. In de longen nemen de rode bloedcellen zuurstof op. In andere organen geven ze zuurstof af.",
+      "uitleg_voor_kind": [
+        "Rode bloedcellen zijn kleine ronde schijfjes die zuurstof vervoeren. Ze zijn rood omdat ze hemoglobine bevatten. Er zitten er 5 miljoen in één druppeltje bloed!",
+        "Rode bloedcellen werken als bezorgers van zuurstof. Ze halen zuurstof op in je longen en brengen het naar al je spieren en organen."
+      ],
+      "tekstverwijzing": "Pagina 159: 'Rode bloedcellen hebben de vorm van kleine ronde schijfjes. Ze hebben geen celkern. In één kubieke millimeter bloed zitten ongeveer vijf miljoen rode bloedcellen. Ze bevatten hemoglobine en vervoeren zuurstof.'",
+      "vragen": [
+        {
+          "vraag": "Hebben rode bloedcellen een celkern?",
+          "antwoorden": [
+            "Ja",
+            "Nee",
+            "Soms",
+            "Alleen bij ziekte"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de functie van rode bloedcellen?",
+          "antwoorden": [
+            "Ziekteverwekkers bestrijden",
+            "Zuurstof vervoeren",
+            "Bloed laten stollen",
+            "Warmte maken"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel rode bloedcellen zitten er ongeveer in 1 mm³ bloed?",
+          "antwoorden": [
+            "7.000",
+            "300.000",
+            "5 miljoen",
+            "10 miljoen"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Hemoglobine",
+      "definitie": "Hemoglobine is een stof met een rode kleur die in rode bloedcellen voorkomt. Door hemoglobine kunnen de rode bloedcellen gemakkelijk zuurstof opnemen en afgeven. In de longen nemen de rode bloedcellen zuurstof op. In andere organen geven ze zuurstof af.",
+      "uitleg_voor_kind": [
+        "Hemoglobine is de rode stof in je rode bloedcellen. Het kan zuurstof vasthouden en weer loslaten, zoals een magneet die metaal kan vasthouden.",
+        "Dankzij hemoglobine kunnen rode bloedcellen zuurstof oppikken in je longen en afleveren in de rest van je lichaam. Het maakt je bloed rood!"
+      ],
+      "tekstverwijzing": "Pagina 159: 'Ze bevatten hemoglobine, een stof met een rode kleur. Door hemoglobine kunnen de rode bloedcellen gemakkelijk zuurstof opnemen en afgeven.'",
+      "vragen": [
+        {
+          "vraag": "Waar komt hemoglobine voor?",
+          "antwoorden": [
+            "In bloedplasma",
+            "In rode bloedcellen",
+            "In witte bloedcellen",
+            "In bloedplaatjes"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke kleur heeft hemoglobine?",
+          "antwoorden": [
+            "Wit",
+            "Geel",
+            "Rood",
+            "Blauw"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat kan hemoglobine doen?",
+          "antwoorden": [
+            "Bloed laten stollen",
+            "Zuurstof opnemen en afgeven",
+            "Ziekteverwekkers bestrijden",
+            "Warmte maken"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Witte bloedcellen",
+      "definitie": "Witte bloedcellen hebben een celkern. De cellen hebben geen vaste vorm. Daardoor kunnen ze door kleine openingen in de wand van de kleinste bloedvaten heen. In één kubieke millimeter bloed zitten ongeveer zevenduizend witte bloedcellen. Witte bloedcellen maken ziekteverwekkers onschadelijk. Eén type witte bloedcel doet dat door ziekteverwekkers op te nemen en kapot te maken. De witte bloedcel gaat hierbij meestal ook dood.",
+      "uitleg_voor_kind": [
+        "Witte bloedcellen zijn de soldaten van je lichaam. Ze hebben een celkern en kunnen van vorm veranderen om overal te komen. Ze pakken bacteriën en virussen en maken ze kapot.",
+        "Er zitten ongeveer 7.000 witte bloedcellen in één druppeltje bloed. Ze beschermen je tegen ziektes door ziekteverwekkers op te eten en te vernietigen."
+      ],
+      "tekstverwijzing": "Pagina 160: 'Witte bloedcellen hebben een celkern en geen vaste vorm. In 1 mm³ bloed zitten ongeveer zevenduizend witte bloedcellen. Ze maken ziekteverwekkers onschadelijk door ze op te nemen en kapot te maken.'",
+      "vragen": [
+        {
+          "vraag": "Hebben witte bloedcellen een celkern?",
+          "antwoorden": [
+            "Ja",
+            "Nee",
+            "Soms",
+            "Alleen bij ziekte"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Wat is de functie van witte bloedcellen?",
+          "antwoorden": [
+            "Zuurstof vervoeren",
+            "Ziekteverwekkers onschadelijk maken",
+            "Bloed laten stollen",
+            "Voedsel vervoeren"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel witte bloedcellen zitten er ongeveer in 1 mm³ bloed?",
+          "antwoorden": [
+            "7.000",
+            "300.000",
+            "5 miljoen",
+            "10 miljoen"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Bloedplaatjes",
+      "definitie": "Bloedplaatjes zijn geen cellen, maar delen van uiteengevallen cellen. Ze hebben geen celkern. In 1 mm³ bloed zitten ongeveer driehonderdduizend bloedplaatjes. In bloedplaatjes zitten stoffen waardoor het bloed stolt (vast wordt) als het buiten de bloedvaten komt. Dit noem je de bloedstolling. Bloedplaatjes zorgen dus voor de bloedstolling als je een wond hebt.",
+      "uitleg_voor_kind": [
+        "Bloedplaatjes zijn hele kleine deeltjes zonder celkern. Ze zorgen dat je bloed stolt (dik wordt) als je je snijdt, zodat je niet te veel bloedt.",
+        "In één druppeltje bloed zitten 300.000 bloedplaatjes! Ze werken als een pleister van binnenuit: als je een wond hebt, maken ze het bloed dik zodat de wond dichtgaat."
+      ],
+      "tekstverwijzing": "Pagina 161: 'Bloedplaatjes zijn geen cellen, maar delen van uiteengevallen cellen. Ze hebben geen celkern. In 1 mm³ bloed zitten ongeveer driehonderdduizend bloedplaatjes. Ze zorgen voor bloedstolling.'",
+      "vragen": [
+        {
+          "vraag": "Zijn bloedplaatjes echte cellen?",
+          "antwoorden": [
+            "Ja, het zijn cellen",
+            "Nee, het zijn delen van uiteengevallen cellen",
+            "Ja, maar alleen bij kinderen",
+            "Nee, het zijn bacteriën"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de functie van bloedplaatjes?",
+          "antwoorden": [
+            "Zuurstof vervoeren",
+            "Ziekteverwekkers bestrijden",
+            "Bloedstolling",
+            "Voedsel maken"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Hoeveel bloedplaatjes zitten er ongeveer in 1 mm³ bloed?",
+          "antwoorden": [
+            "7.000",
+            "300.000",
+            "5 miljoen",
+            "10 miljoen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Bloedstolling",
+      "definitie": "Bloedstolling is het proces waarbij bloed vast wordt (stolt) als het buiten de bloedvaten komt. In bloedplaatjes zitten stoffen waardoor het bloed stolt. Bloedplaatjes zorgen dus voor de bloedstolling als je een wond hebt.",
+      "uitleg_voor_kind": [
+        "Bloedstolling is als je bloed van vloeibaar dik en vast wordt. Dit gebeurt als je een wondje hebt, zodat het bloeden stopt.",
+        "Als je valt en je knie schaaft, wordt je bloed dik door bloedstolling. Dit maakt een soort deksel over de wond zodat het stopt met bloeden."
+      ],
+      "tekstverwijzing": "Pagina 161: 'In bloedplaatjes zitten stoffen waardoor het bloed stolt (vast wordt) als het buiten de bloedvaten komt. Dit noem je de bloedstolling.'",
+      "vragen": [
+        {
+          "vraag": "Wat is bloedstolling?",
+          "antwoorden": [
+            "Bloed wordt dunner",
+            "Bloed wordt vast",
+            "Bloed wordt roder",
+            "Bloed verdwijnt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke bloeddeeltjes zorgen voor bloedstolling?",
+          "antwoorden": [
+            "Rode bloedcellen",
+            "Witte bloedcellen",
+            "Bloedplaatjes",
+            "Bloedplasma"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wanneer treedt bloedstolling op?",
+          "antwoorden": [
+            "Als je slaapt",
+            "Als het bloed buiten de bloedvaten komt",
+            "Als je eet",
+            "Altijd"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    }
+  ]
+}

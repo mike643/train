@@ -1,0 +1,384 @@
+{
+  "titel": "Biologie Hoofdstuk 5 - Thema 3: Afweer",
+  "beschrijving": "Leermodule over hoe het lichaam zich beschermt tegen ziekteverwekkers, antistoffen, immuniteit en allergieën",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Afweer",
+      "definitie": "Ziekteverwekkers komen niet zo gemakkelijk je lichaam binnen. Lukt het ze toch, dan maken witte bloedcellen de ziekteverwekkers onschadelijk. Dat heet afweer. Het afweersysteem (of immuunsysteem) wordt actief en gaat de ziekteverwekker bestrijden.",
+      "uitleg_voor_kind": [
+        "Afweer is hoe je lichaam zichzelf beschermt tegen ziektes. Witte bloedcellen zijn als soldaten die indringers (bacteriën en virussen) opsporen en kapotmaken.",
+        "Je lichaam heeft een verdedigingssysteem tegen ziekteverwekkers. Dit systeem heet afweer of het immuunsysteem. Het zorgt ervoor dat je niet ziek wordt of snel weer beter wordt."
+      ],
+      "tekstverwijzing": "Pagina 190: 'Ziekteverwekkers komen niet zo gemakkelijk je lichaam binnen. Lukt het ze toch, dan maken witte bloedcellen de ziekteverwekkers onschadelijk. Dat heet afweer.'",
+      "vragen": [
+        {
+          "vraag": "Wat is afweer?",
+          "antwoorden": [
+            "Het aanmaken van bloed",
+            "Het onschadelijk maken van ziekteverwekkers",
+            "Het verteren van voedsel",
+            "Het opnemen van zuurstof"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke bloedcellen horen bij het afweersysteem?",
+          "antwoorden": [
+            "Rode bloedcellen",
+            "Witte bloedcellen",
+            "Bloedplaatjes",
+            "Alle bloedcellen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is een andere naam voor het afweersysteem?",
+          "antwoorden": [
+            "Bloedvatenstelsel",
+            "Spijsverteringssysteem",
+            "Immuunsysteem",
+            "Zenuwstelsel"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Lichaamsvreemde stoffen",
+      "definitie": "Stoffen die niet in je lichaam thuishoren, noem je lichaamsvreemde stoffen. Van lichaamsvreemde stoffen kun je ziek worden. Je lichaam probeert vreemde stoffen op drie manieren tegen te houden: met de huid, met de slijmvliezen in de luchtwegen, en met zoutzuur in maagsap.",
+      "uitleg_voor_kind": [
+        "Lichaamsvreemde stoffen zijn dingen die niet in je lichaam horen, zoals bacteriën. Je lichaam heeft drie barrières: je huid, slijm in je neus/luchtwegen, en maagzuur.",
+        "Je lichaam heeft verdedigingslinies tegen indringers: je huid houdt ze buiten, slijm in je neus vangt ze op, en maagzuur doodt ze als ze worden ingeslikt."
+      ],
+      "tekstverwijzing": "Pagina 190: 'Stoffen die niet in je lichaam thuishoren, noem je lichaamsvreemde stoffen. Je lichaam probeert vreemde stoffen tegen te houden: met de huid, met slijmvliezen in de luchtwegen, en met zoutzuur in maagsap.'",
+      "vragen": [
+        {
+          "vraag": "Wat zijn lichaamsvreemde stoffen?",
+          "antwoorden": [
+            "Stoffen die altijd in je lichaam zitten",
+            "Stoffen die niet in je lichaam thuishoren",
+            "Alleen virussen",
+            "Alleen bacteriën"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel manieren heeft het lichaam om lichaamsvreemde stoffen tegen te houden?",
+          "antwoorden": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Welk orgaan gebruikt zoutzuur om bacteriën te doden?",
+          "antwoorden": [
+            "De longen",
+            "De lever",
+            "De maag",
+            "Het hart"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Infectie",
+      "definitie": "Als het ziekteverwekkers toch lukt om je lichaam binnen te komen, heb je een infectie. Het afweersysteem wordt dan actief en gaat de ziekteverwekker bestrijden. Ziekteverwekkers zijn meestal bacteriën of virussen. Ook sommige schimmels kunnen een infectie veroorzaken.",
+      "uitleg_voor_kind": [
+        "Een infectie heb je als ziekteverwekkers (bacteriën, virussen of schimmels) je lichaam binnenkomen. Je afweersysteem gaat dan actief worden om ze te bestrijden.",
+        "Als bacteriën of virussen door je verdedigingslinies heen breken en je lichaam binnenkomen, noemen we dat een infectie. Je wordt dan vaak ziek."
+      ],
+      "tekstverwijzing": "Pagina 190: 'Als het ziekteverwekkers toch lukt om je lichaam binnen te komen, heb je een infectie. Het afweersysteem wordt dan actief. Ziekteverwekkers zijn meestal bacteriën of virussen.'",
+      "vragen": [
+        {
+          "vraag": "Wat is een infectie?",
+          "antwoorden": [
+            "Als je lichaam bloedcellen maakt",
+            "Als ziekteverwekkers je lichaam binnenkomen",
+            "Als je te veel eet",
+            "Als je bloed stolt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke organismen veroorzaken meestal een infectie?",
+          "antwoorden": [
+            "Planten en dieren",
+            "Bacteriën en virussen",
+            "Alleen schimmels",
+            "Bloedcellen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er bij een infectie?",
+          "antwoorden": [
+            "Het afweersysteem wordt actief",
+            "Het hart stopt",
+            "Je krijgt meer bloed",
+            "Je groeit sneller"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Antistoffen",
+      "definitie": "Er zijn witte bloedcellen die antistoffen maken tegen de ziekteverwekkers. De antistoffen plakken vast aan de ziekteverwekker. Daardoor wordt de ziekteverwekker onschadelijk. Hij kan je dan niet meer ziek maken. Voor verschillende ziekteverwekkers zijn verschillende antistoffen nodig. Je bloed vervoert de antistoffen door het lichaam.",
+      "uitleg_voor_kind": [
+        "Antistoffen zijn speciale stoffen die je witte bloedcellen maken. Ze plakken aan ziekteverwekkers vast en maken ze zo onschadelijk. Elke ziekteverwekker heeft een eigen antistof nodig.",
+        "Antistoffen werken als sleutels die precies op één soort ziekteverwekker passen. Ze plakken erop vast, zodat de ziekteverwekker je niet meer ziek kan maken."
+      ],
+      "tekstverwijzing": "Pagina 191: 'Witte bloedcellen maken antistoffen tegen ziekteverwekkers. De antistoffen plakken vast aan de ziekteverwekker. Daardoor wordt de ziekteverwekker onschadelijk. Voor verschillende ziekteverwekkers zijn verschillende antistoffen nodig.'",
+      "vragen": [
+        {
+          "vraag": "Wat maken witte bloedcellen?",
+          "antwoorden": [
+            "Zuurstof",
+            "Antistoffen",
+            "Voedsel",
+            "Bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoe werken antistoffen?",
+          "antwoorden": [
+            "Ze doden alle cellen",
+            "Ze plakken vast aan ziekteverwekkers",
+            "Ze maken nieuwe bloedcellen",
+            "Ze vervoeren zuurstof"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel soorten antistoffen heeft je lichaam nodig?",
+          "antwoorden": [
+            "Eén antistof voor alle ziekteverwekkers",
+            "Verschillende antistoffen voor verschillende ziekteverwekkers",
+            "Geen",
+            "Alleen twee"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Immuun zijn",
+      "definitie": "Als je lichaam een antistof heeft gemaakt, blijft deze antistof nog een tijdje aanwezig in het bloed. Bovendien 'onthouden' de witte bloedcellen hoe ze deze antistof moeten maken. Komt dezelfde ziekteverwekker later nog een keer in je lichaam, dan kunnen de witte bloedcellen meteen de juiste antistof maken. Je wordt dan niet ziek: je bent immuun geworden voor deze ziekte.",
+      "uitleg_voor_kind": [
+        "Immuun zijn betekent dat je niet meer ziek wordt van een bepaalde ziekteverwekker. Je witte bloedcellen onthouden hoe ze de juiste antistoffen moeten maken en kunnen dat meteen doen.",
+        "Als je een keer een ziekte hebt gehad, zoals waterpokken, onthoudt je lichaam hoe het die moet bestrijden. De tweede keer wordt je niet ziek - je bent immuun geworden."
+      ],
+      "tekstverwijzing": "Pagina 192: 'Als je lichaam een antistof heeft gemaakt, blijft deze aanwezig en witte bloedcellen 'onthouden' hoe ze deze moeten maken. Komt dezelfde ziekteverwekker later terug, dan wordt je niet ziek: je bent immuun geworden.'",
+      "vragen": [
+        {
+          "vraag": "Wat betekent immuun zijn?",
+          "antwoorden": [
+            "Dat je altijd ziek bent",
+            "Dat je niet meer ziek wordt van een bepaalde ziekteverwekker",
+            "Dat je geen bloed hebt",
+            "Dat je geen antistoffen hebt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarom word je de tweede keer niet ziek van dezelfde ziekteverwekker?",
+          "antwoorden": [
+            "Je lichaam heeft de antistof onthouden",
+            "Je bent sterker geworden",
+            "De ziekteverwekker is zwakker",
+            "Door medicijnen"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Wat is een voorbeeld van immuniteit?",
+          "antwoorden": [
+            "Je wordt elke keer ziek van griep",
+            "Je krijgt waterpokken maar één keer in je leven",
+            "Je wordt nooit ziek",
+            "Je hebt altijd koorts"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Allergie",
+      "definitie": "Bij sommige mensen reageert het afweersysteem niet alleen op ziekteverwekkers, maar ook op andere lichaamsvreemde stoffen. Bijvoorbeeld op stof, stuifmeel of pinda's. Deze mensen hebben een allergie. Bij een allergie ben je overgevoelig voor bepaalde stoffen. Als je deze stoffen inademt, inslikt of aanraakt, krijg je een allergische reactie. Je afweersysteem reageert dan op de stof. Daardoor krijg je bijvoorbeeld een rode plek, huiduitslag, een branderig gevoel, jeuk of ontstekingen.",
+      "uitleg_voor_kind": [
+        "Een allergie heb je als je afweersysteem overdreven reageert op onschuldige stoffen zoals stuifmeel, pinda's of kattenharen. Je krijgt dan klachten zoals jeuk, uitslag of niezen.",
+        "Bij een allergie vindt je afweersysteem normale dingen gevaarlijk, zoals pollen of pinda's. Het reageert dan met jeuk, rode plekken of niezen, terwijl die stoffen eigenlijk niet gevaarlijk zijn."
+      ],
+      "tekstverwijzing": "Pagina 192: 'Bij sommige mensen reageert het afweersysteem op andere lichaamsvreemde stoffen zoals stof, stuifmeel of pinda's. Deze mensen hebben een allergie. Je bent overgevoelig voor bepaalde stoffen en krijgt een allergische reactie met bijvoorbeeld jeuk of huiduitslag.'",
+      "vragen": [
+        {
+          "vraag": "Wat is een allergie?",
+          "antwoorden": [
+            "Een infectie door bacteriën",
+            "Overgevoeligheid voor bepaalde stoffen",
+            "Een tekort aan antistoffen",
+            "Een bloedcel"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke reacties kunnen bij een allergie optreden?",
+          "antwoorden": [
+            "Alleen niezen",
+            "Rode plekken, huiduitslag, jeuk of ontstekingen",
+            "Alleen koorts",
+            "Geen reacties"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarvoor kun je allergisch zijn?",
+          "antwoorden": [
+            "Alleen voor pinda's",
+            "Voor heel veel stoffen zoals stuifmeel, huisstof en dierenharen",
+            "Alleen voor medicijnen",
+            "Voor niets"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Rol van huid bij afweer",
+      "definitie": "De huid houdt schadelijke stoffen en organismen tegen, bijvoorbeeld bacteriën. De huid is een barrière die voorkomt dat ziekteverwekkers gemakkelijk je lichaam binnenkomen. Als je een wondje hebt, kunnen ziekteverwekkers gemakkelijk in je lichaam komen.",
+      "uitleg_voor_kind": [
+        "Je huid is als een beschermend schild dat bacteriën en virussen buiten houdt. Daarom is het belangrijk wondjes schoon te houden - anders kunnen ziekteverwekkers erdoor naar binnen.",
+        "Je huid beschermt je tegen ziekteverwekkers. Als je huid intact is, kunnen bacteriën er niet doorheen. Maar bij een wondje is er een opening waar ze wel doorheen kunnen."
+      ],
+      "tekstverwijzing": "Pagina 190: 'De huid houdt schadelijke stoffen en organismen tegen, bijvoorbeeld bacteriën.'",
+      "vragen": [
+        {
+          "vraag": "Wat is de rol van de huid bij afweer?",
+          "antwoorden": [
+            "De huid maakt antistoffen",
+            "De huid houdt ziekteverwekkers tegen",
+            "De huid maakt bloed",
+            "De huid doet niets"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wanneer kunnen ziekteverwekkers gemakkelijk door de huid?",
+          "antwoorden": [
+            "Altijd",
+            "Nooit",
+            "Bij een wondje",
+            "Alleen 's nachts"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Tegen wat beschermt de huid?",
+          "antwoorden": [
+            "Alleen tegen kou",
+            "Tegen schadelijke stoffen en bacteriën",
+            "Alleen tegen water",
+            "Tegen niets"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Rol van slijmvliezen bij afweer",
+      "definitie": "De slijmvliezen in je neus houden kleine stofjes en ziekteverwekkers tegen. Trilharen verplaatsen het slijm naar de keelholte, waar het wordt ingeslikt. In je maag worden de bacteriën gedood door zoutzuur (een stof in het maagsap).",
+      "uitleg_voor_kind": [
+        "In je neus en luchtwegen zit slijm dat ziekteverwekkers vasthoudt. Kleine haartjes (trilharen) duwen het slijm naar je keel zodat je het doorslikt. In je maag doodt maagzuur de bacteriën.",
+        "Slijm in je neus en luchtwegen werkt als vliegenvangers die ziekteverwekkers vastpakken. Trilharen bewegen het slijm omhoog naar je keel, en in je maag worden de bacteriën gedood."
+      ],
+      "tekstverwijzing": "Pagina 190: 'De slijmvliezen in je neus houden kleine stofjes en ziekteverwekkers tegen. Trilharen verplaatsen het slijm naar de keelholte, waar het wordt ingeslikt. In je maag worden de bacteriën gedood door zoutzuur.'",
+      "vragen": [
+        {
+          "vraag": "Wat houden slijmvliezen tegen?",
+          "antwoorden": [
+            "Alleen water",
+            "Kleine stofjes en ziekteverwekkers",
+            "Voedsel",
+            "Bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat doen trilharen?",
+          "antwoorden": [
+            "Ze maken slijm",
+            "Ze verplaatsen slijm naar de keelholte",
+            "Ze doden bacteriën",
+            "Ze maken zoutzuur"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat doodt de bacteriën in de maag?",
+          "antwoorden": [
+            "Slijm",
+            "Trilharen",
+            "Zoutzuur",
+            "Antistoffen"
+          ],
+          "juiste_antwoord": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "begrip": "Tijdsduur antistofvorming",
+      "definitie": "Als je een infectie hebt, duurt het een tijdje tot de witte bloedcellen voldoende antistof hebben gemaakt. Daardoor word je bij een infectie vaak eerst ziek. Als er voldoende antistof is gemaakt, word je weer beter. Bij een tweede besmetting met dezelfde ziekteverwekker kunnen de witte bloedcellen meteen de juiste antistof maken, waardoor je niet ziek wordt.",
+      "uitleg_voor_kind": [
+        "De eerste keer dat je besmet wordt, duurt het een paar dagen voordat je lichaam genoeg antistoffen heeft gemaakt. Daarom word je eerst ziek. De tweede keer gaat het veel sneller!",
+        "Als je voor het eerst een bepaalde ziekteverwekker tegenkomt, moet je lichaam eerst uitvogelen hoe het de juiste antistof maakt. Dat duurt even, waardoor je ziek wordt. De tweede keer weet je lichaam het al en ben je sneller klaar."
+      ],
+      "tekstverwijzing": "Pagina 191: 'Als je een infectie hebt, duurt het een tijdje tot de witte bloedcellen voldoende antistof hebben gemaakt. Daardoor word je vaak eerst ziek. Bij een tweede besmetting kunnen ze meteen de juiste antistof maken.'",
+      "vragen": [
+        {
+          "vraag": "Waarom word je bij een eerste infectie vaak ziek?",
+          "antwoorden": [
+            "Omdat je geen witte bloedcellen hebt",
+            "Omdat het even duurt voor er voldoende antistof is",
+            "Omdat antistoffen niet werken",
+            "Omdat je te weinig bloed hebt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er bij een tweede besmetting met dezelfde ziekteverwekker?",
+          "antwoorden": [
+            "Je wordt nog zieker",
+            "De witte bloedcellen kunnen meteen antistof maken",
+            "Er gebeurt niets",
+            "Je krijgt een allergie"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wanneer word je weer beter van een infectie?",
+          "antwoorden": [
+            "Nooit",
+            "Als er voldoende antistof is gemaakt",
+            "Als je gaat slapen",
+            "Als je eet"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "titel": "Biologie Hoofdstuk 3 - Thema 3: Het Hart",
+  "beschrijving": "Leermodule over de delen van het hart en de aansluitende bloedvaten met hun kenmerken en functies",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Het hart als holle spier",
+      "definitie": "Het hart ligt in de borstholte, iets naar links onder het borstbeen. Een hart is ongeveer zo groot als een vuist. Het hart is een holle spier.",
+      "uitleg_voor_kind": [
+        "Je hart is een spier zo groot als je vuist. Het ligt in je borstkas, een beetje naar links. Het is hol van binnen, zodat er bloed doorheen kan stromen.",
+        "Het hart is een bijzondere spier die de hele dag pompt zonder moe te worden. Het is ongeveer even groot als je vuist en zit links in je borst."
+      ],
+      "tekstverwijzing": "Pagina 176: 'Het hart ligt in de borstholte, iets naar links onder het borstbeen. Een hart is ongeveer zo groot als een vuist. Het hart is een holle spier.'",
+      "vragen": [
+        {
+          "vraag": "Waar ligt het hart?",
+          "antwoorden": [
+            "In de buik",
+            "In de borstholte, iets naar links",
+            "In het hoofd",
+            "In de rug"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoe groot is een hart ongeveer?",
+          "antwoorden": [
+            "Zo groot als een erwt",
+            "Zo groot als een vuist",
+            "Zo groot als een voetbal",
+            "Zo groot als een appel"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat voor soort spier is het hart?",
+          "antwoorden": [
+            "Een volle spier",
+            "Een holle spier",
+            "Geen spier",
+            "Een botspier"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Kransslagaders en kransaders",
+      "definitie": "Over het hart lopen kleine slagaders en aders. Door de kransslagaders stroomt bloed met veel zuurstof en voedingsstoffen naar de hartspier. De kransslagaders zijn aftakkingen van de aorta. Door de kransaders stroomt bloed met veel koolstofdioxide en andere afvalstoffen weg van de hartspier. Alle kransaders monden uit in de rechterboezem.",
+      "uitleg_voor_kind": [
+        "Je hart heeft zelf ook bloed nodig! De kransslagaders brengen zuurstof en voedsel naar je hartspier. De kransaders voeren het afval weer af.",
+        "Net zoals de rest van je lichaam heeft je hart ook voeding en zuurstof nodig. Kransslagaders leveren dit aan, en kransaders halen afval op."
+      ],
+      "tekstverwijzing": "Pagina 176: 'Door de kransslagaders stroomt bloed met veel zuurstof en voedingsstoffen naar de hartspier. De kransslagaders zijn aftakkingen van de aorta. Door de kransaders stroomt bloed met afvalstoffen weg van de hartspier.'",
+      "vragen": [
+        {
+          "vraag": "Wat vervoeren kransslagaders?",
+          "antwoorden": [
+            "Bloed met zuurstof en voedingsstoffen",
+            "Bloed met afvalstoffen",
+            "Alleen water",
+            "Niets"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Waar zijn de kransslagaders aftakkingen van?",
+          "antwoorden": [
+            "De longslagader",
+            "De aorta",
+            "De holle ader",
+            "De longaders"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar monden de kransaders uit?",
+          "antwoorden": [
+            "In de linkerboezem",
+            "In de rechterboezem",
+            "In de aorta",
+            "In de longen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Harttussenwand, boezems en kamers",
+      "definitie": "De harttussenwand vormt de scheiding tussen de linkerhelft en de rechterhelft van het hart. Het hart bestaat uit twee boezems en twee kamers. Er is een rechterboezem, een rechterhelft, een linkerboezem en een linkerkamer.",
+      "uitleg_voor_kind": [
+        "Je hart is opgedeeld in vier ruimtes: twee boezems (boven) en twee kamers (onder). Een wand in het midden scheidt links en rechts van elkaar.",
+        "Het hart heeft een linker- en een rechterkant, gescheiden door een wand. Elke kant heeft een boezem (bovenkamer) en een kamer (onderkamer)."
+      ],
+      "tekstverwijzing": "Pagina 176: 'De harttussenwand vormt de scheiding tussen de linkerhelft en de rechterhelft van het hart. Het hart bestaat uit twee boezems en twee kamers.'",
+      "vragen": [
+        {
+          "vraag": "Uit hoeveel delen bestaat het hart?",
+          "antwoorden": [
+            "2 delen",
+            "3 delen",
+            "4 delen (2 boezems en 2 kamers)",
+            "5 delen"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat scheidt de linker- en rechterhelft van het hart?",
+          "antwoorden": [
+            "De hartkleppen",
+            "De harttussenwand",
+            "De aorta",
+            "Het bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel boezems heeft het hart?",
+          "antwoorden": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Holle aders",
+      "definitie": "Zuurstofarm bloed uit de organen in het hoofd en uit de armen stroomt het hart binnen via de bovenste holle ader. Uit de organen in de romp en uit de benen stroomt zuurstofarm bloed het hart binnen via de onderste holle ader. Beide holle aders monden uit in de rechterboezem.",
+      "uitleg_voor_kind": [
+        "De holle aders brengen zuurstofarm bloed terug naar je hart. De bovenste holle ader komt van je hoofd en armen, de onderste van je romp en benen.",
+        "Er zijn twee grote aders die bloed terugbrengen naar je hart: de bovenste holle ader (van boven) en de onderste holle ader (van onder). Ze komen beide uit in de rechterboezem."
+      ],
+      "tekstverwijzing": "Pagina 176: 'Zuurstofarm bloed uit hoofd en armen stroomt binnen via de bovenste holle ader. Uit romp en benen via de onderste holle ader. Beide monden uit in de rechterboezem.'",
+      "vragen": [
+        {
+          "vraag": "Hoeveel holle aders zijn er?",
+          "antwoorden": [
+            "1",
+            "2 (bovenste en onderste)",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar monden de holle aders uit?",
+          "antwoorden": [
+            "In de linkerboezem",
+            "In de rechterboezem",
+            "In de linkerkamer",
+            "In de aorta"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welk soort bloed vervoeren de holle aders?",
+          "antwoorden": [
+            "Zuurstofrijk bloed",
+            "Zuurstofarm bloed",
+            "Beide",
+            "Geen bloed"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Bloedstroom door het hart - rechterkant",
+      "definitie": "Van de rechterboezem stroomt het bloed naar de rechterkamer. De rechterkamer pompt het zuurstofarme bloed in de longslagader. In de longen wordt zuurstof opgenomen in het bloed.",
+      "uitleg_voor_kind": [
+        "De rechterkant van je hart pompt zuurstofarm bloed naar je longen. Daar pikt het bloed zuurstof op uit de lucht die je inademt.",
+        "Bloed komt zuurstofarm binnen in de rechterboezem, stroomt naar de rechterkamer, en wordt dan naar de longen gepompt om weer vol zuurstof te worden."
+      ],
+      "tekstverwijzing": "Pagina 177: 'Van de rechterboezem stroomt het bloed naar de rechterkamer. De rechterkamer pompt het zuurstofarme bloed in de longslagader. In de longen wordt zuurstof opgenomen.'",
+      "vragen": [
+        {
+          "vraag": "Waar pompt de rechterkamer het bloed naartoe?",
+          "antwoorden": [
+            "Naar de longen",
+            "Naar het hele lichaam",
+            "Naar de lever",
+            "Terug naar de rechterboezem"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Welk soort bloed pompt de rechterkamer?",
+          "antwoorden": [
+            "Zuurstofrijk bloed",
+            "Zuurstofarm bloed",
+            "Beide",
+            "Geen bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat gebeurt er in de longen met het bloed?",
+          "antwoorden": [
+            "Het wordt zuurstofarm",
+            "Zuurstof wordt opgenomen",
+            "Het wordt blauw",
+            "Niets"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Bloedstroom door het hart - linkerkant",
+      "definitie": "Het zuurstofrijke bloed stroomt via de longaders terug naar het hart. De longaders monden uit in de linkerboezem. Van de linkerboezem stroomt het bloed naar de linkerkamer. De linkerkamer pompt het zuurstofrijke bloed in de aorta. Van daaruit gaat het bloed naar alle organen van het lichaam.",
+      "uitleg_voor_kind": [
+        "De linkerkant van je hart ontvangt zuurstofrijk bloed uit de longen en pompt het naar je hele lichaam via de aorta.",
+        "Zuurstofrijk bloed komt van de longen in de linkerboezem, stroomt naar de linkerkamer, en wordt dan met kracht door je hele lichaam gepompt."
+      ],
+      "tekstverwijzing": "Pagina 177: 'Het zuurstofrijke bloed stroomt via de longaders naar de linkerboezem. Van de linkerboezem naar de linkerkamer. De linkerkamer pompt het in de aorta naar alle organen.'",
+      "vragen": [
+        {
+          "vraag": "Waar monden de longaders uit?",
+          "antwoorden": [
+            "In de rechterboezem",
+            "In de linkerboezem",
+            "In de aorta",
+            "In de rechterkamer"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar pompt de linkerkamer het bloed naartoe?",
+          "antwoorden": [
+            "Naar de longen",
+            "Naar alle organen via de aorta",
+            "Terug naar de linkerboezem",
+            "Nergens"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welk soort bloed pompt de linkerkamer?",
+          "antwoorden": [
+            "Zuurstofarm bloed",
+            "Zuurstofrijk bloed",
+            "Beide",
+            "Geen bloed"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Hartkleppen",
+      "definitie": "Een boezem en een kamer zijn van elkaar gescheiden door hartkleppen. Deze voorkomen dat het bloed terugstroomt van de kamers naar de boezems. Als de hartkleppen open zijn, stroomt bloed van de boezems naar de kamers. Als de hartkleppen dicht zijn, kan bloed niet terugstromen van de kamers naar de boezems.",
+      "uitleg_voor_kind": [
+        "Hartkleppen zijn deurtjes tussen de boezems en de kamers. Ze gaan open om bloed door te laten en sluiten om te voorkomen dat het terugstroomt.",
+        "De kleppen tussen de boezem en kamer werken als een deur die maar één kant op open kan. Zo kan bloed alleen van boezem naar kamer, niet andersom."
+      ],
+      "tekstverwijzing": "Pagina 177: 'Een boezem en kamer zijn gescheiden door hartkleppen. Deze voorkomen dat het bloed terugstroomt van de kamers naar de boezems.'",
+      "vragen": [
+        {
+          "vraag": "Waar zitten de hartkleppen?",
+          "antwoorden": [
+            "In de aorta",
+            "Tussen boezem en kamer",
+            "In de longen",
+            "In de aders"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de functie van hartkleppen?",
+          "antwoorden": [
+            "Bloed maken",
+            "Voorkomen dat bloed terugstroomt",
+            "Zuurstof toevoegen",
+            "Bloed filteren"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wanneer stroomt bloed van boezem naar kamer?",
+          "antwoorden": [
+            "Als de hartkleppen dicht zijn",
+            "Als de hartkleppen open zijn",
+            "Altijd",
+            "Nooit"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Halvemaanvormige kleppen",
+      "definitie": "Aan het begin van de longslagader en de aorta zitten halvemaanvormige kleppen. Deze voorkomen dat het bloed terugstroomt naar de kamers. Als de halvemaanvormige kleppen open zijn, kan bloed van de rechterkamer in de longslagaders stromen en van de linkerkamer in de aorta. Als ze dicht zijn, kan bloed niet terugstromen van de longslagaders naar de rechterkamer en niet van de aorta naar de linkerkamer.",
+      "uitleg_voor_kind": [
+        "Aan het begin van de grote slagaders (longslagader en aorta) zitten speciale kleppen in de vorm van halve maantjes. Ze voorkomen dat bloed terug de kamers instroomt.",
+        "Halvemaanvormige kleppen lijken op kleine zakjes. Als het hart pompt, gaan ze open. Als het hart ontspant, vullen ze zich met bloed en sluiten ze, zodat bloed niet terug kan."
+      ],
+      "tekstverwijzing": "Pagina 178: 'Aan het begin van de longslagader en de aorta zitten halvemaanvormige kleppen. Deze voorkomen dat het bloed terugstroomt naar de kamers.'",
+      "vragen": [
+        {
+          "vraag": "Waar zitten de halvemaanvormige kleppen?",
+          "antwoorden": [
+            "Tussen boezem en kamer",
+            "Aan het begin van longslagader en aorta",
+            "In de aders",
+            "In de longen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat voorkomen de halvemaanvormige kleppen?",
+          "antwoorden": [
+            "Dat bloed te snel stroomt",
+            "Dat bloed terugstroomt naar de kamers",
+            "Dat bloed stolt",
+            "Dat het hart stopt"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "In welke twee bloedvaten zitten halvemaanvormige kleppen?",
+          "antwoorden": [
+            "Holle aders",
+            "Longslagader en aorta",
+            "Longaders",
+            "Kransslagaders"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "begrip": "Harttonen",
+      "definitie": "Met een stethoscoop luistert een arts naar het hart. De arts hoort twee geluiden: de harttonen. De eerste toon ontstaat door het sluiten van de hartkleppen. De tweede toon ontstaat door het sluiten van de halvemaanvormige kleppen.",
+      "uitleg_voor_kind": [
+        "Als een dokter naar je hart luistert, hoort hij twee geluiden: 'boem-boem'. Het eerste geluid komt van de hartkleppen die dichtgaan, het tweede van de halvemaanvormige kleppen.",
+        "Je hartslag maakt twee geluiden: eerst sluiten de kleppen tussen boezem en kamer, dan sluiten de kleppen in de grote slagaders. Dat hoor je als 'lub-dub'."
+      ],
+      "tekstverwijzing": "Pagina 180: 'De arts hoort twee geluiden: de harttonen. De eerste toon ontstaat door het sluiten van de hartkleppen. De tweede door het sluiten van de halvemaanvormige kleppen.'",
+      "vragen": [
+        {
+          "vraag": "Hoeveel harttonen zijn er?",
+          "antwoorden": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waardoor ontstaat de eerste harttoon?",
+          "antwoorden": [
+            "Door het sluiten van de hartkleppen",
+            "Door het sluiten van de halvemaanvormige kleppen",
+            "Door het hart dat pompt",
+            "Door het bloed"
+          ],
+          "juiste_antwoord": 0
+        },
+        {
+          "vraag": "Waardoor ontstaat de tweede harttoon?",
+          "antwoorden": [
+            "Door het sluiten van de hartkleppen",
+            "Door het sluiten van de halvemaanvormige kleppen",
+            "Door het hart dat stopt",
+            "Door ademen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "begrip": "Dikte van hartwanden",
+      "definitie": "De wanden van de hartkamers zijn dikker dan de wanden van de boezems. Dit komt doordat de hartkamers het bloed door het lichaam moeten pompen, terwijl de hartboezems alleen het bloed naar de hartkamers pompen. De linkerkamer heeft de dikste, meest gespierde wand omdat deze het bloed door het hele lichaam moet pompen, terwijl de rechterkamer alleen naar de longen pompt.",
+      "uitleg_voor_kind": [
+        "De kamers hebben dikkere wanden dan de boezems omdat ze harder moeten pompen. De linkerkamer heeft de dikste wand omdat hij het bloed door je hele lichaam pompt!",
+        "Je linkerkamer is het sterkst: hij moet bloed helemaal tot in je tenen pompen! Daarom heeft hij dikkere spieren dan de rest van je hart."
+      ],
+      "tekstverwijzing": "Pagina 181: 'De wanden van de hartkamers zijn dikker dan die van de boezems. De linkerkamer heeft de dikste wand omdat deze het bloed door het hele lichaam moet pompen.'",
+      "vragen": [
+        {
+          "vraag": "Welke hartwanden zijn dikker: die van de boezems of die van de kamers?",
+          "antwoorden": [
+            "Die van de boezems",
+            "Die van de kamers",
+            "Ze zijn even dik",
+            "Ze hebben geen wanden"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welk deel van het hart heeft de dikste wand?",
+          "antwoorden": [
+            "Rechterboezem",
+            "Linkerboezem",
+            "Rechterkamer",
+            "Linkerkamer"
+          ],
+          "juiste_antwoord": 3
+        },
+        {
+          "vraag": "Waarom heeft de linkerkamer de dikste wand?",
+          "antwoorden": [
+            "Hij is het grootst",
+            "Hij pompt bloed door het hele lichaam",
+            "Hij pompt naar de longen",
+            "Hij ontvangt het meeste bloed"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    }
+  ]
+}

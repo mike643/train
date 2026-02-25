@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <!-- Rode bloedcel-gradiënt -->
+    <radialGradient id="redCell" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="60%" stop-color="#d93b3b"/>
+      <stop offset="100%" stop-color="#7a1515"/>
+    </radialGradient>
+
+    <!-- Witte bloedcel-gradiënt -->
+    <radialGradient id="whiteCell" cx="40%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#fffff0"/>
+      <stop offset="50%" stop-color="#e5e5b5"/>
+      <stop offset="100%" stop-color="#c5c58b"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Achtergrond -->
+  <rect width="100%" height="100%" fill="#180808"/>
+
+  <!-- Rode bloedcellen -->
+  <ellipse cx="180" cy="170" rx="95" ry="60" fill="url(#redCell)" transform="rotate(-18 180 170)"/>
+  <ellipse cx="330" cy="140" rx="90" ry="55" fill="url(#redCell)" transform="rotate(10 330 140)"/>
+  <ellipse cx="520" cy="150" rx="95" ry="60" fill="url(#redCell)" transform="rotate(-8 520 150)"/>
+  <ellipse cx="650" cy="220" rx="90" ry="55" fill="url(#redCell)" transform="rotate(15 650 220)"/>
+  <ellipse cx="260" cy="280" rx="100" ry="65" fill="url(#redCell)" transform="rotate(5 260 280)"/>
+  <ellipse cx="460" cy="340" rx="95" ry="60" fill="url(#redCell)" transform="rotate(-15 460 340)"/>
+  <ellipse cx="620" cy="380" rx="90" ry="55" fill="url(#redCell)" transform="rotate(8 620 380)"/>
+  <ellipse cx="320" cy="430" rx="95" ry="60" fill="url(#redCell)" transform="rotate(-12 320 430)"/>
+
+  <!-- Witte bloedcellen -->
+  <circle cx="420" cy="240" r="60" fill="url(#whiteCell)"/>
+  <circle cx="210" cy="390" r="55" fill="url(#whiteCell)"/>
+</svg>

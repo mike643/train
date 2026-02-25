@@ -1,0 +1,342 @@
+{
+  "titel": "Biologie Hoofdstuk 4 - Thema 3: Nieren en Uitscheiding",
+  "beschrijving": "Leermodule over de delen van de nieren en urinewegen met hun kenmerken en functies",
+  "begrippen": [
+    {
+      "id": 1,
+      "begrip": "Uitscheiding",
+      "definitie": "Afvalstoffen moeten uit het bloed worden gehaald en uit het lichaam worden verwijderd. Dat proces noemen biologen uitscheiding. Uitscheiding vindt plaats in verschillende organen. Koolstofdioxide wordt bijvoorbeeld uitgescheiden door de longen. De meeste andere afvalstoffen worden uitgescheiden door de nieren. Die halen de afvalstoffen uit het bloed en maken er urine van. De urine plas je uit, waarmee de afvalstoffen uit je lichaam verdwijnen.",
+      "uitleg_voor_kind": [
+        "Uitscheiding is het verwijderen van afval uit je lichaam. Je longen scheiden CO₂ uit als je uitademt, en je nieren maken urine van andere afvalstoffen die je dan uitplast.",
+        "Je lichaam maakt afval bij allerlei processen. Dit afval moet eruit! Dat gebeurt vooral via je longen (uitademen) en je nieren (plassen). Dit noemen we uitscheiding."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Afvalstoffen moeten uit het bloed worden gehaald en uit het lichaam worden verwijderd. Dat proces noemen biologen uitscheiding. Koolstofdioxide wordt uitgescheiden door de longen. Andere afvalstoffen door de nieren.'",
+      "vragen": [
+        {
+          "vraag": "Wat is uitscheiding?",
+          "antwoorden": [
+            "Het maken van bloed",
+            "Het verwijderen van afvalstoffen uit het lichaam",
+            "Het verteren van voedsel",
+            "Het opnemen van zuurstof"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welk orgaan scheidt koolstofdioxide uit?",
+          "antwoorden": [
+            "De nieren",
+            "De longen",
+            "Het hart",
+            "De lever"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat maken de nieren van afvalstoffen?",
+          "antwoorden": [
+            "Bloed",
+            "Urine",
+            "Zuurstof",
+            "Water"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "begrip": "Ligging en functie van de nieren",
+      "definitie": "De nieren liggen links en rechts in de buikholte, vlak onder het middenrif. Door de nierslagaders stroomt zuurstofrijk bloed naar de nieren. Dit bloed bevat afvalstoffen van veel organen. De nieren halen deze afvalstoffen uit het bloed. Door de nieraders stroomt het gezuiverde bloed weg uit de nieren.",
+      "uitleg_voor_kind": [
+        "Je hebt twee nieren die links en rechts in je buik zitten, vlak onder je middenrif. Ze zuiveren je bloed door afvalstoffen eruit te halen.",
+        "Je nieren zijn als filters die je bloed schoonmaken. Er komt vuil bloed met afvalstoffen binnen via nierslagaders, en schoon bloed gaat eruit via nieraders."
+      ],
+      "tekstverwijzing": "Pagina 183: 'De nieren liggen links en rechts in de buikholte, vlak onder het middenrif. Door nierslagaders stroomt zuurstofrijk bloed met afvalstoffen naar de nieren. De nieren halen afvalstoffen uit het bloed. Door nieraders stroomt gezuiverd bloed weg.'",
+      "vragen": [
+        {
+          "vraag": "Waar liggen de nieren?",
+          "antwoorden": [
+            "In de borstkas",
+            "In de buikholte, vlak onder het middenrif",
+            "In het bekken",
+            "In de benen"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel nieren heeft een mens?",
+          "antwoorden": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat is de hoofdfunctie van de nieren?",
+          "antwoorden": [
+            "Bloed maken",
+            "Afvalstoffen uit het bloed halen",
+            "Zuurstof toevoegen",
+            "Voedsel verteren"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "begrip": "Opbouw van een nier",
+      "definitie": "Een nier bestaat uit nierschors, niermerg en nierbekken. Nierschors en niermerg verwijderen afvalstoffen uit het bloed. Ze verwijderen ook overtollig water, overtollige zouten en andere schadelijke stoffen. Al deze stoffen samen heten urine. In de nierbekkens wordt de urine verzameld.",
+      "uitleg_voor_kind": [
+        "Een nier bestaat uit drie delen: de nierschors (buitenkant), het niermerg (binnenkant) en het nierbekken (opvangbak). De schors en het merg maken urine, en het bekken vangt het op.",
+        "Je nier heeft lagen: buitenste laag (schors), binnenste laag (merg) en een verzamelplek (bekken). De eerste twee lagen zuiveren je bloed en maken urine."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Een nier bestaat uit nierschors, niermerg en nierbekken. Nierschors en niermerg verwijderen afvalstoffen uit het bloed plus overtollig water en zouten. Dit is samen urine. In de nierbekkens wordt de urine verzameld.'",
+      "vragen": [
+        {
+          "vraag": "Uit welke drie delen bestaat een nier?",
+          "antwoorden": [
+            "Hart, long en lever",
+            "Nierschors, niermerg en nierbekken",
+            "Boven, midden en onder",
+            "Links, rechts en centrum"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Welke delen van de nier maken urine?",
+          "antwoorden": [
+            "Alleen de nierschors",
+            "Alleen het nierbekken",
+            "Nierschors en niermerg",
+            "Alleen het niermerg"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wat gebeurt er in het nierbekken?",
+          "antwoorden": [
+            "Bloed wordt gezuiverd",
+            "Urine wordt verzameld",
+            "Zuurstof wordt opgenomen",
+            "Voedsel wordt verteerd"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "begrip": "Urine",
+      "definitie": "Nierschors en niermerg verwijderen afvalstoffen uit het bloed. Ze verwijderen ook overtollig water, overtollige zouten en andere schadelijke stoffen. Al deze stoffen samen heten urine. De urine plas je uit, waarmee de afvalstoffen uit je lichaam verdwijnen.",
+      "uitleg_voor_kind": [
+        "Urine (plas) bestaat uit afvalstoffen, overtollig water en overtollige zouten die je nieren uit je bloed halen. Door te plassen verdwijnen deze stoffen uit je lichaam.",
+        "Als je nieren je bloed zuiveren, houden ze alles wat je lichaam niet nodig heeft: afval, te veel water en te veel zout. Dit wordt samen urine dat je uitplast."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Nierschors en niermerg verwijderen afvalstoffen, overtollig water, overtollige zouten en andere schadelijke stoffen uit het bloed. Al deze stoffen samen heten urine.'",
+      "vragen": [
+        {
+          "vraag": "Wat is urine?",
+          "antwoorden": [
+            "Alleen water",
+            "Afvalstoffen, overtollig water en zouten samen",
+            "Alleen afvalstoffen",
+            "Bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar wordt urine gemaakt?",
+          "antwoorden": [
+            "In de urineblaas",
+            "In nierschors en niermerg",
+            "In het hart",
+            "In de lever"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoe verlaat urine het lichaam?",
+          "antwoorden": [
+            "Door zweten",
+            "Door plassen",
+            "Door uitademen",
+            "Door spugen"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "begrip": "Urineleiders",
+      "definitie": "Via de urineleiders gaat de urine van de nierbekkens naar de urineblaas. De urineleiders voeren dus urine af van de nieren naar de urineblaas.",
+      "uitleg_voor_kind": [
+        "Urineleiders zijn buisjes die de urine van je nieren naar je blaas brengen. Je hebt er twee: één van elke nier.",
+        "De urineleiders zijn als kleine pijpjes die de urine vervoeren. Ze lopen van je nieren naar je blaas."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Via de urineleiders gaat de urine naar de urineblaas.'",
+      "vragen": [
+        {
+          "vraag": "Wat is de functie van urineleiders?",
+          "antwoorden": [
+            "Urine maken",
+            "Urine van nieren naar blaas brengen",
+            "Urine opslaan",
+            "Bloed zuiveren"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Hoeveel urineleiders heeft een mens?",
+          "antwoorden": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar lopen de urineleiders tussen?",
+          "antwoorden": [
+            "Hart en longen",
+            "Nieren en urineblaas",
+            "Lever en darmen",
+            "Blaas en buitenwereld"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "begrip": "Urineblaas",
+      "definitie": "In de urineblaas wordt de urine tijdelijk opgeslagen, zodat je niet voortdurend hoeft te plassen. Van tijd tot tijd wordt de urine uit de urineblaas afgevoerd via de urinebuis.",
+      "uitleg_voor_kind": [
+        "Je urineblaas is als een opbergzakje voor urine. Het bewaart de urine totdat je naar het toilet gaat, zodat je niet de hele dag hoeft te plassen.",
+        "De urineblaas is een soort ballon die urine verzamelt. Als hij vol genoeg is, krijg je plasdreng en kun je naar het toilet."
+      ],
+      "tekstverwijzing": "Pagina 183: 'In de urineblaas wordt de urine tijdelijk opgeslagen, zodat je niet voortdurend hoeft te plassen. De urine wordt afgevoerd via de urinebuis.'",
+      "vragen": [
+        {
+          "vraag": "Wat is de functie van de urineblaas?",
+          "antwoorden": [
+            "Urine maken",
+            "Urine tijdelijk opslaan",
+            "Bloed zuiveren",
+            "Urine maken uit bloed"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarom is de urineblaas belangrijk?",
+          "antwoorden": [
+            "Zonder kun je niet ademen",
+            "Zodat je niet voortdurend hoeft te plassen",
+            "Om bloed te maken",
+            "Om te eten"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Via welk orgaan verlaat urine de blaas?",
+          "antwoorden": [
+            "Via de urineleider",
+            "Via de urinebuis",
+            "Via de nier",
+            "Via de ader"
+          ],
+          "juiste_antwoord": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "begrip": "Urinebuis",
+      "definitie": "Van tijd tot tijd wordt de urine uit de urineblaas afgevoerd via de urinebuis. De urinebuis voert de urine af uit het lichaam.",
+      "uitleg_voor_kind": [
+        "De urinebuis is het buisje waardoor je plast. Het verbindt je blaas met de buitenwereld, zodat de urine je lichaam kan verlaten.",
+        "Als je blaas vol is en je gaat plassen, stroomt de urine door de urinebuis naar buiten. Het is de uitgang voor urine."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Van tijd tot tijd wordt de urine uit de urineblaas afgevoerd via de urinebuis.'",
+      "vragen": [
+        {
+          "vraag": "Wat is de functie van de urinebuis?",
+          "antwoorden": [
+            "Urine opslaan",
+            "Urine afvoeren uit het lichaam",
+            "Urine maken",
+            "Bloed zuiveren"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waar komt de urinebuis uit?",
+          "antwoorden": [
+            "In de nieren",
+            "In de urineblaas",
+            "Buiten het lichaam",
+            "In het hart"
+          ],
+          "juiste_antwoord": 2
+        },
+        {
+          "vraag": "Wanneer stroomt er urine door de urinebuis?",
+          "antwoorden": [
+            "Als je plast",
+            "De hele dag door",
+            "Nooit",
+            "Alleen 's nachts"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "begrip": "Nierslagaders en nieraders",
+      "definitie": "Door de nierslagaders stroomt zuurstofrijk bloed naar de nieren. Dit bloed bevat afvalstoffen van veel organen. De nieren halen deze afvalstoffen uit het bloed. Door de nieraders stroomt het gezuiverde bloed weg uit de nieren. Het bloed in de nierslagaders is zuurstofrijk en bevat veel afvalstoffen. Het bloed in de nieraders is zuurstofarm en bevat weinig afvalstoffen.",
+      "uitleg_voor_kind": [
+        "Nierslagaders brengen bloed met afvalstoffen naar je nieren. Nieraders voeren schoon bloed weer af. Het bloed dat aankomt heeft zuurstof maar ook afval, het bloed dat weggaat is schoon maar heeft minder zuurstof.",
+        "Je nieren krijgen bloed binnen via nierslagaders (met afval) en sturen schoon bloed terug via nieraders. Tijdens het zuiveren gebruiken je nieren wat zuurstof."
+      ],
+      "tekstverwijzing": "Pagina 183: 'Door de nierslagaders stroomt zuurstofrijk bloed met afvalstoffen naar de nieren. Door de nieraders stroomt het gezuiverde bloed weg uit de nieren.'",
+      "vragen": [
+        {
+          "vraag": "Wat vervoeren nierslagaders?",
+          "antwoorden": [
+            "Zuurstofarm bloed zonder afvalstoffen",
+            "Zuurstofrijk bloed met afvalstoffen",
+            "Alleen urine",
+            "Alleen water"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Wat vervoeren nieraders?",
+          "antwoorden": [
+            "Bloed met veel afvalstoffen",
+            "Gezuiverd bloed met weinig afvalstoffen",
+            "Urine",
+            "Zuurstof"
+          ],
+          "juiste_antwoord": 1
+        },
+        {
+          "vraag": "Waarom bevat het bloed in nieraders minder zuurstof?",
+          "antwoorden": [
+            "De nieren gebruiken zuurstof voor hun werk",
+            "Zuurstof gaat in de urine",
+            "Er is geen verschil",
+            "Zuurstof verdwijnt vanzelf"
+          ],
+          "juiste_antwoord": 0
+        }
+      ]
+    }
+  ]
+}
